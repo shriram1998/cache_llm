@@ -1,0 +1,27 @@
+{
+    "is_classification": true,
+    "classes": [
+        "anger",
+        "disgust",
+        "fear",
+        "guilt",
+        "joy",
+        "sadness",
+        "shame"
+    ],
+    "soft_classes": [
+        " anger",
+        " disgust",
+        " fear",
+        " guilt",   
+        " joy",
+        " sadness",
+        " shame"
+    ],
+    "training_data": {
+      "train": "train_soft.csv",
+      "test": "test_soft.csv"
+    },
+    "prompt_in": "This is an emotion classification task. Only answer one letter corresponding with the emotion: \n INPUT: ",
+    "prompt_out": "\n OUTPUT:"
+}

@@ -1,0 +1,17 @@
+{
+    "is_classification": true,
+    "classes": [
+        "yes",
+        "no"
+    ],
+    "soft_classes": [
+        " yes",
+        " no"
+    ],
+    "training_data": {
+      "train": "train_soft.csv",
+      "test": "test_soft.csv"
+    },
+    "prompt_in": "You are given a conversation between two speakers. This task asks to predict whether the second speaker's answer counts as a yes or as a no. Only reply with 'yes' or 'no'.\n INPUT: ",
+    "prompt_out": "\n OUTPUT:"
+}

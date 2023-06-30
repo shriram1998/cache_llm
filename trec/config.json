@@ -1,0 +1,25 @@
+{
+  "is_classification": true,
+  "classes": [
+    "abbreviation",
+    "description",
+    "entity",
+    "human being",
+    "location",
+    "numeric value"
+  ],
+  "soft_classes": [
+    "ab",
+    "description",
+    "entity",
+    "human",
+    "location",
+    "n"
+  ],
+  "training_data": {
+    "train": "train_soft.csv",
+    "test": "test_soft.csv"
+  },
+  "prompt_in": "This is a question classification task. Only answer one of: 'numeric value', 'location', 'human being', 'description', 'entity', 'abbreviation'.\nINPUT: ",
+  "prompt_out": "\n OUTPUT:"
+}

@@ -1,0 +1,15 @@
+{
+  "is_classification": true,
+  "classes": [
+    "positive",
+    "negative"
+  ],
+  "soft_classes": [
+    "positive",
+    "negative"
+  ],
+  "training_data": {
+    "train": "train_soft.csv",
+    "test": "test_soft.csv"
+  }
+}

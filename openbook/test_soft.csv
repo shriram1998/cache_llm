@@ -1,0 +1,3001 @@
+,input,gold_hard,llm_soft,llm_hard
+0,"FACT: a salamander eats insects
+Q: The salamander could eat a large amounts of what?
+A: fettuccine if left around
+B: waxy leaves from certain plants
+C: dead carcass meat from livestock
+D: six legged winged organisms",D,"[{' D': -6.2699432e-06, ' C': -12.640982, ' A': -13.227537, ' B': -13.596219, ' E': -16.45229}]", D
+1,"FACT: matter in the liquid state drips
+Q: Which substance is capable of dripping?
+A: Oxygen
+B: Juice
+C: Wood
+D: Lightning",B,"[{' B': -9.055464e-07, ' D': -14.331467, ' A': -15.076462, ' C': -15.899734, ' E': -18.84768}]", B
+2,"FACT: the looseness of soil has a positive impact on a plant 's roots' growth in that soil
+Q: which of these would be most ideal for plant root growth?
+A: a sticky clay soil
+B: soil with worms burrowing around
+C: an arid soil with little looseness
+D: all of these",B,"[{' B': -6.754697e-05, ' D': -9.666998, ' C': -12.757711, ' A': -13.450483, ' E': -17.736158}]", B
+3,"FACT: a compass is a kind of tool for determining direction by pointing north
+Q: a compass is a kind of tool for determining direction by pointing
+A: to western Canada shoreline
+B: to the lower pole
+C: to the upper pole
+D: directly to the equator",C,"[{' D': -0.013867332, ' C': -4.3191347, ' B': -8.144422, ' A': -8.684094, ' E': -14.432987}]", D
+4,"FACT: An example of camouflage is when something changes color in order to have the same color as its environment
+Q: An octopus, when in danger and unable to swim to safety, may find itself
+A: mimicking other things
+B: melting into sand
+C: creating new homes
+D: mocking other fish",A,"[{' B': -0.0012787528, ' A': -6.669506, ' D': -11.648412, ' C': -15.5005455, ' E': -18.166859}]", B
+5,"FACT: offspring receive genes from their parents through DNA
+Q: Through DNA, a rabbit will have long ears if
+A: rabbits are born with ears
+B: there was a lot of food
+C: genetic contributors had long ears
+D: parents were also rabbits",C,"[{' C': -6.158372e-05, ' D': -9.708588, ' A': -14.382187, ' B': -15.254119, ' E': -18.796303}]", C
+6,"FACT: plants are the source of fruit
+Q: Fruit comes from what source
+A: an organism that releases carbon dioxide
+B: an organism that absorbs water through it's branches
+C: an organism that absorbs oxygen
+D: an organism that absorbs water through it's roots",D,"[{' D': -0.00011690406, ' C': -9.088709, ' A': -12.65304, ' B': -14.024202, ' E': -19.254229}]", D
+7,"FACT: cooking food requires adding heat energy
+Q: Cooking peas requires
+A: fresh briny sea water
+B: an unheated stove top
+C: salt and cayenne pepper
+D: turning on a stove top",D,"[{' D': -1.9765537e-06, ' C': -13.8089, ' B': -14.475794, ' A': -14.741349, ' E': -16.369287}]", D
+8,"FACT: warm-weather organisms live in warm climates
+Q: A warm-weather organism can be found in
+A: the Sahara
+B: the mountains
+C: the ocean
+D: the sewers",A,"[{' A': -0.0041022585, ' C': -6.2191896, ' D': -6.53896, ' B': -7.3276873, ' E': -18.092396}]", A
+9,"FACT: if an animal hatches from an egg then that animal is born
+Q: When the eggs hatch, the offspring are
+A: killed
+B: hurt
+C: born
+D: cold",C,"[{' C': -1.6207987e-06, ' D': -13.39988, ' A': -16.219744, ' B': -16.989128, ' E': -18.818048}]", C
+10,"FACT: tadpole changes into a frog
+Q: why do tadpoles change into frogs?
+A: tadpoles change to different animals
+B: tadpoles are really just fish
+C: they are young frogs still growing
+D: none of these",C,"[{' C': -8.00667e-05, ' D': -9.434269, ' A': -16.267778, ' B': -17.161455, ' E': -20.367647}]", C
+11,"FACT: the winter solstice is on December 21st in the northern hemisphere
+Q: The winter solstice is on December 21st in the
+A: counties
+B: north of equator
+C: states
+D: southern hemisphere",B,"[{' B': -3.529076e-06, ' A': -12.974071, ' D': -14.066416, ' C': -14.793276, ' E': -20.694666}]", B
+12,"FACT: animals learn some behaviors from watching their parents
+Q: A bear cub learns to stay away from unknown bears because
+A: they are much bigger than the cub
+B: the other bears look like its mother
+C: their mother teaches them to keep their distance
+D: the unknown bears look harmless",C,"[{' C': -4.5135734e-05, ' A': -10.4945135, ' B': -11.582641, ' D': -11.706328, ' E': -20.2603}]", C
+13,"FACT: as depth increases , pressure will increase
+Q: You can experience a change of pressure when
+A: Yelling really loud
+B: Soaring the skies
+C: Going walking
+D: riding a bike",B,"[{' C': -0.0040235594, ' D': -5.6012444, ' A': -8.259753, ' B': -9.667513, ' E': -15.308528}]", C
+14,"FACT: nocturnal predators hunt during the night
+Q: When would a nocturnal predator most likely hunt?
+A: 5 p.m.
+B: 12 p.m.
+C: 3 a.m.
+D: 10 a.m.",C,"[{' C': -3.076318e-07, ' D': -15.722198, ' A': -15.945769, ' B': -16.588814, ' E': -20.610817}]", C
+15,"FACT: Matter in the liquid phase has variable shape
+Q: Which of these has shape that changes depending on the container which it resides within?
+A: paper
+B: wood
+C: stone
+D: orange juice",D,"[{' D': -2.4543265e-06, ' A': -13.783898, ' E': -13.838007, ' C': -14.746972, ' B': -16.621912}]", D
+16,"FACT: animals learn some behaviors from watching their parents
+Q: A person speaks English as her first language because
+A: media is mainly in English
+B: school is in English
+C: she was genetically predisposed
+D: she watched her parents speak",D,"[{' D': -3.076318e-07, ' B': -15.8712845, ' C': -15.916343, ' A': -16.098663, ' E': -17.706322}]", D
+17,"FACT: A bird is a pollinating animal
+Q: A field begins to bloom and blossom and plants need to be pollinated. In order to spread seeds, plants will most rely on
+A: pythons
+B: salmon
+C: robins
+D: craters",C,"[{' C': -8.5358415e-06, ' D': -11.732002, ' A': -14.797761, ' B': -15.524758, ' E': -19.425652}]", C
+18,"FACT: as a source of light becomes closer , that source will appear brighter
+Q: When a plane is in the sky and is several miles away, the light seen is barely visible, but when it is drawing near
+A: light is far away
+B: light is more easily seen
+C: light is more distant
+D: light is further away",B,"[{' B': -1.6207987e-06, ' D': -14.017611, ' A': -14.051415, ' C': -16.193827, ' E': -17.282679}]", B
+19,"FACT: ink is used for hiding from predators by octopuses
+Q: An octopus protects itself with
+A: water splashing
+B: running fast
+C: long hands
+D: pigment squirting",D,"[{' D': -1.1430258e-06, ' C': -14.376312, ' A': -14.734581, ' E': -15.930862, ' B': -16.206192}]", D
+20,"FACT: clear weather means sunny weather
+Q: What is an example of clear weather meaning sunny weather?
+A: more stars are visible on clear nights
+B: cloud cover protects from sunburn
+C: clear days will be warmer
+D: fewer clouds allow for more sunlight",D,"[{' D': -0.043043293, ' C': -3.1672118, ' A': -11.782987, ' B': -13.326269, ' E': -17.553799}]", D
+21,"FACT: a seismograph is a kind of tool for measuring the size of an earthquake
+Q: A seismograph can accurately describe
+A: how rough the footing will be
+B: how bad the weather will be
+C: how stable the ground will be
+D: how shaky the horse will be",C,"[{' C': -5.460492e-07, ' D': -14.634155, ' A': -15.842818, ' B': -16.24781, ' E': -20.68689}]", C
+22,"FACT: electricity can not flow through an open circuit
+Q: A light was off because the cord was
+A: sitting on the table
+B: attached to the wall
+C: attached to an extension cord
+D: attached to a battery pack",A,"[{' B': -1.0561456e-05, ' C': -11.665659, ' A': -13.20235, ' D': -15.267856, ' E': -19.995747}]", B
+23,"FACT: lizards eat insects
+Q: small reptile's diet consists mostly of
+A: invertebrates
+B: insects
+C: mammals
+D: fish",B,"[{' B': -4.277735e-07, ' A': -15.002097, ' D': -16.164696, ' C': -17.053162, ' E': -18.921745}]", B
+24,"FACT: a solar panel converts sunlight into electricity
+Q: A person wants to be able to have more natural power in their home. They choose to cease using a traditional electric company to source this electricity, and so decide to install
+A: sun grafts
+B: sunlight shields
+C: panels collecting sunlight
+D: solar bees",C,"[{' D': -0.19862708, ' C': -1.7140766, ' A': -11.373859, ' B': -12.838604, ' E': -14.43809}]", D
+25,"FACT: metal is an electrical energy conductor
+Q: What is an electrical energy conductor?
+A: horseshoe
+B: tire
+C: cotton shirt
+D: maple branch",A,"[{' D': -0.008711582, ' A': -4.7589707, ' B': -9.278143, ' C': -12.0613, ' E': -16.29611}]", D
+26,"FACT: seasons cause change to the environment
+Q: The spring season brings
+A: Bees
+B: Snow
+C: More Oxygen
+D: Dust",A,"[{' C': -1.1430258e-06, ' D': -14.20105, ' A': -14.733345, ' B': -16.018959, ' E': -21.717041}]", C
+27,"FACT: lightning can cause a forest fire
+Q: Lightning may lead to
+A: damage to local foliage
+B: rainbows across the sky
+C: growth of local flora
+D: firefighters getting the night off",A,"[{' A': -0.04971172, ' D': -3.030142, ' C': -8.664091, ' B': -11.104383, ' E': -18.30628}]", A
+28,"FACT: conserving water can be used for survival in a dry environment
+Q: Dry environments often
+A: liberally use water for everything
+B: allow plants to flourish
+C: require people to move
+D: institute rules about water usage",D,"[{' D': -9.055464e-07, ' C': -14.684776, ' A': -14.908539, ' E': -15.959564, ' B': -16.377693}]", D
+29,"FACT: as the amount of water in a body of water increases , the water levels will increase
+Q: The dam was put under much more stress after the
+A: party
+B: huge rain storm
+C: drought
+D: breakup.",B,"[{' B': -5.460492e-07, ' C': -15.122093, ' D': -15.290161, ' A': -15.944671, ' E': -20.48462}]", B
+30,"FACT: the Grand Canyon was formed by the Colorado River flowing over long periods of time
+Q: The Grand Canyon is massive, with large, high peaks and very deep lows, which was formed when
+A: some water is around it
+B: water rained on it
+C: natural waters weathered it
+D: a pool was opened",C,"[{' C': -0.0002547938, ' D': -8.27753, ' A': -14.489626, ' B': -15.599916, ' E': -17.96258}]", C
+31,"FACT: the looseness of soil has a positive impact on a plant 's roots' growth in that soil
+Q: When looking for good soil for plants, typically what is optimal?
+A: malleable and nutritious
+B: dry and sandy
+C: grainy and bitter
+D: compact and hard",A,"[{' A': -1.1873685e-05, ' B': -11.417904, ' D': -13.914661, ' C': -16.933628, ' E': -17.854778}]", A
+32,"FACT: if a tree falls then that tree is dead
+Q: Why would a perennial plant with an elongated stem a frequently used for lumber fall to the ground?
+A: It's dead
+B: For water
+C: For food
+D: For sun",A,"[{' A': -2.5744682e-06, ' D': -13.463222, ' E': -14.381305, ' B': -14.802896, ' C': -15.506021}]", A
+33,"FACT: no light shines through an opaque object
+Q: What is the benefit to using a frosted window film over a non treated windows?
+A: they are easier to make
+B: they let in less light
+C: they are cheaper to produce
+D: they are much stronger",B,"[{' B': -4.277735e-07, ' D': -15.008942, ' C': -16.95758, ' A': -16.980042, ' E': -19.883461}]", B
+34,"FACT: moving changes stored energy into motion and heat
+Q: A bird that takes off flying is
+A: using heat to produce motion
+B: using calories to produce motion
+C: using wings to produce heat
+D: using calories to produce energy",B,"[{' B': -2.28437e-05, ' D': -11.120757, ' A': -11.764793, ' C': -14.88227, ' E': -18.71433}]", B
+35,"FACT: birds lay eggs
+Q: Humans, cats, dogs, and elephants are known as mammals because their kids are born alive. Non-mammalian babies are born
+A: old
+B: dead
+C: in an egg
+D: big",C,"[{' C': -6.6619094e-07, ' D': -14.4158325, ' A': -16.13839, ' B': -16.786377, ' E': -18.271614}]", C
+36,"FACT: reproduction is a stage in the life cycle process
+Q: How do plants reproduce?
+A: seeds
+B: stem
+C: flowers
+D: leaves",A,"[{' A': -0.004243635, ' C': -5.465135, ' B': -12.761261, ' D': -18.880144, ' E': -20.006218}]", A
+37,"FACT: if a habitat is removed then that habitat is destroyed
+Q: Animals died after the removal of a
+A: bush
+B: street
+C: house
+D: city",A,"[{' A': -0.0022137386, ' D': -6.299813, ' B': -7.8999486, ' C': -12.48114, ' E': -15.831223}]", A
+38,"FACT: live birth means developing inside the mother instead of an egg
+Q: Which animal has live births?
+A: poodle
+B: hummingbird
+C: crocodile
+D: trout",A,"[{' B': -0.00049169146, ' A': -8.112277, ' C': -8.703708, ' D': -10.56206, ' E': -18.024416}]", B
+39,"FACT: if the atmospheric temperature rises then the glaciers will melt
+Q: if the earth was a living room, what can be done to melt the glaciers?
+A: someone would turn up the room heater
+B: someone would turn up the air conditioner
+C: someone would turn up the music
+D: someone would turn on the light",A,"[{' A': -0.0018918088, ' B': -6.27188, ' D': -13.938971, ' C': -14.563872, ' E': -17.826727}]", A
+40,"FACT: a new season occurs once per three months
+Q: December 21st through March 20 is a three month period which is an example of what?
+A: A session
+B: A Match
+C: A Season
+D: Autumn",C,"[{' C': -2.4750101e-05, ' D': -11.112344, ' A': -11.56057, ' B': -15.080712, ' E': -18.03685}]", C
+41,"FACT: a frog eats insects
+Q: If I want to avoid being dinner for some type of frog what should I reincarnate as?
+A: Scorpion
+B: House Fly
+C: Cricket
+D: Moth",A,"[{' B': -1.9143545e-05, ' D': -10.988116, ' A': -13.490748, ' C': -13.885426, ' E': -17.907536}]", B
+42,"FACT: mountains are formed by volcanoes
+Q: What may have been formed by a volcano?
+A: Mt. McKinley
+B: Lake Pontchartrain
+C: The great lakes
+D: Niagara Falls",A,"[{' A': -0.012850935, ' D': -4.3971205, ' C': -7.96979, ' B': -9.112818, ' E': -17.867533}]", A
+43,"FACT: microscope is used to see small things by making them appear bigger
+Q: How does a microscope make small things appear?
+A: humongous
+B: transparent
+C: discolored
+D: distorted",A,"[{' D': -1.0681599e-05, ' A': -11.566843, ' B': -13.947543, ' C': -14.863642, ' E': -15.87572}]", D
+44,"FACT: a windmill converts wind energy into electricity
+Q: Which of these energy sources generates the least amount of pollution?
+A: coal
+B: windmill
+C: lithium batteries
+D: gasoline",B,"[{' B': -3.076318e-07, ' A': -15.626724, ' D': -16.179184, ' C': -16.414772, ' E': -20.656776}]", B
+45,"FACT: a polar bear requires a cold environment
+Q: Polar bears require
+A: a tropical environment
+B: a frigid environment
+C: a tepid environment
+D: a warm environment",B,"[{' B': -4.277735e-07, ' C': -14.928177, ' D': -15.957359, ' A': -17.414154, ' E': -20.145454}]", B
+46,"FACT: clams live at the bottom of the ocean
+Q: When trying to find fresh clams for dinner, a hungry person would don
+A: a dinner jacket
+B: a diving suit
+C: a warm coat
+D: a dress suit",B,"[{' B': -4.361666e-06, ' D': -12.762736, ' C': -13.414982, ' A': -16.125698, ' E': -20.328197}]", B
+47,"FACT: living underground can be used for hiding from predators
+Q: In which location would a groundhog hide from a wolf?
+A: beside a tree
+B: in the grass
+C: on a stump
+D: under the ground",D,"[{' D': -3.076318e-07, ' A': -15.480873, ' E': -16.157494, ' C': -17.069984, ' B': -17.387375}]", D
+48,"FACT: lizards eat insects
+Q: The majority of a lizard's diet consists of
+A: fleas
+B: crawlies
+C: gummy worms
+D: berries",B,"[{' B': -4.275062e-05, ' A': -10.697483, ' C': -10.861095, ' D': -13.891842, ' E': -18.31464}]", B
+49,"FACT: when available resources decrease in an environment , organisms have to conserve those resources
+Q: If a person loses his job and is low on money, he will have to start cutting back on how much food he consumes or he'd run out, otherwise known as
+A: destroying
+B: conserving
+C: losing
+D: squandering",B,"[{' B': -6.6619094e-07, ' D': -14.953209, ' C': -15.254662, ' A': -16.288574, ' E': -19.343346}]", B
+50,"FACT: as mass of a celestial body increases , the force of gravity on that planet will increase
+Q: What has more gravity force than Earth but less than the sun?
+A: Jupiter
+B: the moon
+C: a space station
+D: a comet",A,"[{' A': -0.00032657993, ' B': -8.027907, ' D': -15.602523, ' C': -16.30657, ' E': -18.136953}]", A
+51,"FACT: as available resources increases , the population of an organism that uses those resources will increase
+Q: Mosquitoes enjoy all the people at a BBQ in the summer for what reason?
+A: steak
+B: blood
+C: nice weather
+D: taking food",B,"[{' B': -9.055464e-07, ' D': -14.29393, ' C': -15.178009, ' A': -16.22094, ' E': -19.684814}]", B
+52,"FACT: combining two substances chemically causes chemical reactions
+Q: An example of a chemical reaction would be
+A: A rusty fence
+B: Sleeping
+C: Drinking water
+D: Rain",A,"[{' D': -0.5304952, ' C': -0.88832146, ' A': -8.019333, ' B': -11.342269, ' E': -17.824814}]", D
+53,"FACT: when a plant grows , the number of the leaves of that plant may increase
+Q: Plant growth may cause
+A: an uptick in the number of leaves
+B: a surge in leaf disease
+C: a gradual decrease in leaves
+D: a rapid decline of the leaves",A,"[{' A': -0.00019869342, ' C': -8.528061, ' D': -14.44603, ' B': -15.106125, ' E': -18.432777}]", A
+54,"FACT: fossil fuels forming occurs over a period of 300000000 years which is considered a very long time to a human
+Q: were there fossil fuels in the ground when humans evolved?
+A: this was only created by humans
+B: humans predate fossil fuel formation
+C: significant supplies accumulated prior
+D: none of these",C,"[{' B': -0.009058512, ' D': -5.0278344, ' C': -6.0077457, ' A': -12.212991, ' E': -17.116999}]", B
+55,"FACT: fire gives off light
+Q: What is an example of fire giving off light?
+A: an oven is preheated and the pilot light is lit
+B: a match is lit to light a cigarette
+C: a lit candle in a window signalling to someone
+D: a fire that was put out to send smoke signals",C,"[{' B': -3.5240468e-05, ' C': -10.343067, ' D': -13.236027, ' A': -13.580936, ' E': -18.471867}]", B
+56,"FACT: musical instruments make sound when they are played
+Q: Banging on a drum causes
+A: music to be loud
+B: music to be appealing
+C: reverberations to strike the eardrum
+D: concerts to sell out",C,"[{' C': -0.0115350075, ' D': -4.468398, ' A': -13.226798, ' B': -13.585469, ' E': -17.087637}]", C
+57,"FACT: a complete revolution of the Earth around the sun takes one solar year
+Q: What would Occur once between January 1st and December 31st
+A: The moons orbit around the year
+B: One rotation on mercury
+C: The distance between earth and Jupiter when traveling at light speed
+D: A Solar Year on earth",D,"[{' D': -5.197998e-06, ' A': -12.444881, ' B': -14.298001, ' C': -14.390659, ' E': -16.236624}]", D
+58,"FACT: weathering means breaking down surface materials from larger whole into smaller pieces by weather
+Q: The sidewalk next to a house having a crack in it and having vegetation growing from it is considered?
+A: insects
+B: weathering
+C: lava
+D: erosion",B,"[{' B': -1.1430258e-06, ' D': -13.778442, ' C': -16.6008, ' A': -16.851921, ' E': -19.08319}]", B
+59,"FACT: illness has a negative impact on an organism 's health
+Q: The body is negatively impacted by
+A: white blood cells
+B: vitamins
+C: rotavirus
+D: nasal decongestants",C,"[{' C': -3.6482897e-06, ' A': -12.70251, ' B': -14.826045, ' D': -15.346072, ' E': -19.042574}]", C
+60,"FACT: as the level of water rises , the amount of available land will decrease
+Q: What happens as water levels rise?
+A: fish swim more
+B: homes are built
+C: land is taller
+D: beaches shrink",D,"[{' D': -9.055464e-07, ' A': -14.529678, ' E': -15.530739, ' B': -16.268555, ' C': -16.599716}]", D
+61,"FACT: coal mine is a source of coal under the ground
+Q: Where would you find a mine?
+A: in a tree
+B: under a mountain
+C: in the air
+D: in the water",B,"[{' B': -6.827632e-08, ' D': -15.928986, ' A': -17.33046, ' C': -17.351288, ' E': -20.69931}]", B
+62,"FACT: freezing causes a solid to form
+Q: A solid is likely to form in extreme
+A: floods
+B: wind
+C: chill
+D: rain",C,"[{' C': -6.6619094e-07, ' D': -14.763114, ' A': -15.062225, ' B': -16.28675, ' E': -19.70372}]", C
+63,"FACT: skin is used for protecting the body from harmful substances
+Q: Which term is involved with protection by skin?
+A: Eucerin pH5 range
+B: Sagittal plane
+C: pyogenic vibrio
+D: popliteus",A,"[{' B': -0.005136288, ' D': -5.679491, ' A': -6.4180083, ' C': -9.533167, ' E': -12.558176}]", B
+64,"FACT: a plant requires sunlight to grow
+Q: To grow plants require
+A: acid rain
+B: pesticides
+C: shafts of sunlight
+D: moonbeam rays",C,"[{' C': -7.8540467e-07, ' A': -14.497681, ' D': -15.152779, ' B': -15.907051, ' E': -18.402435}]", C
+65,"FACT: an animal can survive in an environment with little food by storing fat
+Q: Animals have more fat
+A: in the ocean
+B: in human homes
+C: in landfills
+D: in polar areas",D,"[{' D': -5.79217e-06, ' B': -12.874684, ' A': -13.064809, ' C': -13.657315, ' E': -17.484426}]", D
+66,"FACT: if an organism 's prey moves quickly then that organism may need to move quickly to catch its prey
+Q: In order to catch a rabbit, a predator must be
+A: big
+B: quick
+C: slow
+D: small",B,"[{' B': -6.827632e-08, ' A': -16.775436, ' D': -16.96901, ' C': -17.839302, ' E': -19.655365}]", B
+67,"FACT: friction occurs when two object 's surfaces move against each other
+Q: The boy was able to warm the fireplace without a lighter thanks to what?
+A: friction
+B: metal
+C: wishing
+D: magic",A,"[{' A': -6.827632e-08, ' B': -15.805168, ' C': -18.251083, ' D': -18.313782, ' E': -19.304718}]", A
+68,"FACT: roots anchor plants into the soil
+Q: When trying to pull a rose out of the ground why do you encounter resistance?
+A: roots
+B: tensile strength
+C: plant temperature
+D: plant color",A,"[{' A': 0.0, ' B': -19.841713, ' D': -20.54226, ' E': -20.754263, ' C': -20.830002}]", A
+69,"FACT: rain is a source of water
+Q: Which source provides the safest water?
+A: River
+B: Sea
+C: Ocean
+D: Rain",D,"[{' D': -6.827632e-08, ' A': -16.111519, ' C': -16.66124, ' B': -18.893372, ' E': -18.902641}]", D
+70,"FACT: crop rotation is when different crops are planted on a field in different years
+Q: Bill planted rapeseed in his field one year and soybeans the next in order to
+A: get bigger yields
+B: make things boring
+C: keep things random
+D: get smaller yields",A,"[{' A': -1.5006569e-06, ' C': -13.880326, ' B': -14.471383, ' D': -15.838212, ' E': -18.266373}]", A
+71,"FACT: omnivores eat plants
+Q: What animal eats plants?
+A: eagles
+B: robins
+C: owls
+D: leopards",B,"[{' B': -0.0001552949, ' A': -9.406108, ' C': -9.742533, ' D': -11.162394, ' E': -16.03612}]", B
+72,"FACT: forming fossil fuels requires decaying vegetation
+Q: Decaying vegetation is part of the process that
+A: enables nuclear power to function
+B: enables to emitting of light beams
+C: enables gas powered motors to operate
+D: enables windmills to power electric grids",C,"[{' D': -1.9263687e-05, ' C': -11.004887, ' A': -12.908473, ' E': -15.549838, ' B': -16.432367}]", D
+73,"FACT: if a hot substance is touches a cold object then that substance will likely cool
+Q: What kind of substance will cool when it touches a cold object?
+A: warm
+B: frozen
+C: chilly
+D: cold",A,"[{' A': -1.8841804e-07, ' D': -15.881973, ' B': -16.568405, ' C': -17.827614, ' E': -19.455002}]", A
+74,"FACT: as the activity of an animal increases , the amount of water in an animal 's body in that environment will decrease
+Q: A cheetah that runs all day will find it has lost a lot of
+A: blood
+B: water
+C: prey
+D: spots",B,"[{' B': -1.7400124e-06, ' D': -13.38054, ' C': -15.690973, ' A': -16.369377, ' E': -19.137781}]", B
+75,"FACT: force causes the speed of an object to increase
+Q: Which best demonstrates the concept of force causing an increase in speed?
+A: skating on a rough surface
+B: a full bag swung in circles
+C: a computer powering on
+D: a baker stirring batter",B,"[{' B': -0.013715648, ' A': -4.297895, ' D': -10.612462, ' C': -14.833906, ' E': -18.47421}]", B
+76,"FACT: plants are the source of spices
+Q: Sources of spices have
+A: crystals
+B: feathers
+C: cell walls
+D: craters",C,"[{' C': -0.0037609932, ' D': -5.6526327, ' A': -8.326423, ' B': -12.537093, ' E': -16.828535}]", C
+77,"FACT: an organism requires energy for growth
+Q: In order for plants and animals to grow, they need to consume food and water for
+A: energy
+B: fun
+C: taste
+D: soil",A,"[{' A': 0.0, ' D': -18.99076, ' E': -19.198166, ' B': -19.685722, ' C': -19.834404}]", A
+78,"FACT: live birth means developing inside the mother instead of an egg
+Q: Human reproduction requires
+A: eggs with shells
+B: nest incubation
+C: a nest
+D: a womb",D,"[{' D': -3.051303e-06, ' A': -13.113482, ' E': -14.108591, ' B': -15.421045, ' C': -15.715647}]", D
+79,"FACT: as altitude increases , the temperature of the air will decrease
+Q: The lowest temperature on the trip was at
+A: the mountain pass
+B: the plain
+C: the large hill
+D: the canyon",A,"[{' A': -1.7400124e-06, ' D': -13.485177, ' B': -15.321817, ' C': -15.909829, ' E': -17.860573}]", A
+80,"FACT: a plateau is formed by a buildup of cooled lava
+Q: What element is prevalent in a plateau?
+A: helium
+B: krypton
+C: silicon
+D: neon",C,"[{' C': -1.2622395e-06, ' D': -14.288864, ' A': -14.349099, ' B': -15.848443, ' E': -19.240593}]", C
+81,"FACT: arctic animals live in an arctic environment
+Q: I'm an animal with a white fur and a large fluffy tail that lives in arctic regions; what am I?
+A: weasel
+B: snow fox
+C: wolf
+D: polar bear",B,"[{' D': -7.224551e-06, ' B': -12.006422, ' A': -14.2579565, ' C': -14.596282, ' E': -15.613959}]", D
+82,"FACT: the sun is located directly overhead at noon
+Q: The middle of the day usually involves the bright star nearest to the earth to be straight overhead why?
+A: moons gravity
+B: human planet rotation
+C: global warming
+D: moon rotation",B,"[{' B': -0.040872574, ' D': -3.2182865, ' C': -10.997675, ' A': -11.70952, ' E': -15.909402}]", B
+83,"FACT: when available resources decrease in an environment , organisms have to conserve those resources
+Q: Resources decreasing in an environment
+A: induces organisms to use more of their resources
+B: causes an increase in use of resources
+C: causes an uptick in birthrate
+D: induces organisms to be more economical with resources",D,"[{' D': -3.076318e-07, ' E': -15.373161, ' A': -16.069397, ' C': -16.620209, ' B': -16.75666}]", D
+84,"FACT: tidal energy can be used to produce electricity
+Q: Turbines churning seawater can be used to produce what?
+A: a charge for appliances
+B: large quantities of soup
+C: large schools of fish
+D: creating some sharp cheese",A,"[{' C': -0.031153109, ' D': -3.701212, ' A': -5.577188, ' B': -6.121271, ' E': -14.5682535}]", C
+85,"FACT: an electrical device requires electricity to turn on
+Q: Which of the following can be used to turn on an electrical device?
+A: solar-rechargeable battery
+B: a wedge
+C: a magnet
+D: pressure gauge",A,"[{' A': -0.023252169, ' C': -3.7948813, ' B': -8.213079, ' D': -8.389685, ' E': -16.61672}]", A
+86,"FACT: plants absorb nutrients from soil into themselves through their roots
+Q: A plant that gets extra minerals such as zinc are probably
+A: planted in zinc pills
+B: plated in the sea
+C: placed in good soil
+D: made out of soil",C,"[{' C': -1.5006569e-06, ' D': -13.927751, ' A': -14.414132, ' B': -16.316025, ' E': -19.421694}]", C
+87,"FACT: changes in an environment cause plants to adapt to survive
+Q: A saguaro has adaptations for an environment with
+A: lots of snow
+B: many people
+C: less water
+D: more water",C,"[{' D': -7.052812e-05, ' C': -9.561532, ' A': -15.854508, ' B': -16.80939, ' E': -19.360468}]", D
+88,"FACT: usually craters on planets are formed by asteroids impacting that planet or moon 's surface
+Q: Asteroids crashing on planets can leave behind
+A: large, bowl-shaped cavities in the ground
+B: aliens and foreign foods
+C: small dents in the planet's core
+D: lakes filled with salty water",A,"[{' A': 0.0, ' B': -17.352715, ' D': -17.626396, ' C': -18.651, ' E': -19.534721}]", A
+89,"FACT: In the cellular respiration process carbon dioxide is a waste product
+Q: Cellular respiration's trash is
+A: a bug's treasure
+B: a cow's treasure
+C: a plant's treasure
+D: everyone's trash",C,"[{' D': -0.08153758, ' C': -2.54719, ' A': -14.758601, ' B': -15.5043125, ' E': -17.95376}]", D
+90,"FACT: pollination requires pollinating animals
+Q: Pollinators
+A: enable plants to continue flourishing
+B: play an unimportant role in the reproduction process
+C: are useless to plants
+D: are considered unwanted pests",A,"[{' A': -0.18008673, ' B': -1.8198342, ' D': -5.9049015, ' C': -10.710779, ' E': -13.498765}]", A
+91,"FACT: scraping an object may cause small particles to break off of that object
+Q: Scraping an object
+A: may cause the object to grow in size
+B: may cause the object to fall
+C: may cause pieces to flake off the object
+D: may cause the object to snap in half",C,"[{' C': -7.8540467e-07, ' D': -14.497353, ' B': -15.143683, ' A': -16.575142, ' E': -20.206993}]", C
+92,"FACT: studying a soil sample means studying the microorganisms in that soil
+Q: They studied the soil by using
+A: plants
+B: a telescope
+C: roots
+D: a microscope",D,"[{' D': -7.8540467e-07, ' A': -14.497017, ' C': -15.513016, ' E': -16.59195, ' B': -16.698875}]", D
+93,"FACT: paper is recyclable
+Q: Which is recyclable?
+A: An Elephant
+B: A school notebook
+C: A boat
+D: A lake",B,"[{' B': -1.5006569e-06, ' D': -13.953019, ' C': -14.464295, ' A': -15.612352, ' E': -20.570223}]", B
+94,"FACT: photosynthesis means producers convert from carbon dioxide, water, and solar energy into food for themselves
+Q: Photosynthesis means plants are unable to
+A: convert sunlight to sand
+B: provide food sources for others
+C: be producers in an ecosystem
+D: make their own food",A,"[{' C': -0.02429335, ' D': -3.7301264, ' B': -11.439714, ' A': -15.601936, ' E': -16.973984}]", C
+95,"FACT: cool temperatures cause animals to shiver
+Q: A dog is more likely to shiver at
+A: 1 pm
+B: 5 am
+C: 9 am
+D: 6 pm",B,"[{' B': -1.3823812e-06, ' C': -13.9749155, ' D': -14.932351, ' A': -15.236376, ' E': -18.672638}]", B
+96,"FACT: cows only eat plants
+Q: What do cows eat?
+A: Chickpeas
+B: Chocolate
+C: Steak
+D: Poultry",A,"[{' D': -0.080948465, ' A': -2.5588994, ' C': -8.441407, ' B': -8.799141, ' E': -12.94841}]", D
+97,"FACT: bats can echolocate
+Q: Some blind people have demonstrated bat-like skills by:
+A: sensing shapes by light and shadows
+B: having a unusually strong sense of smell
+C: sensing nearby objects by temperature change
+D: using sound to 'see'",D,"[{' D': -1.8841804e-07, ' A': -15.921425, ' C': -16.263062, ' E': -16.645668, ' B': -17.78798}]", D
+98,"FACT: as the amount of food an animal eats increases , the weight of that animal will increase
+Q: If your dog is overweight
+A: add more fat to their diet
+B: cut back their caloric intake
+C: let them sleep more
+D: increase their caloric intake",B,"[{' B': -1.7400124e-06, ' D': -13.901803, ' A': -14.675432, ' C': -14.779229, ' E': -18.700212}]", B
+99,"FACT: migration is an instinctive behavior
+Q: An instinctual behavior is
+A: dogs rolling over on command
+B: frogs returning to the ponds were they hatched to lay eggs
+C: birds mimicking human speech
+D: seals clapping for treats from trainers",B,"[{' B': -1.7475562e-05, ' D': -10.9648, ' A': -15.9841175, ' C': -16.16945, ' E': -18.498941}]", B
+100,"FACT: a beach ball contains gas
+Q: A beach ball goes from flat to round once you put what inside of it?
+A: food
+B: sunlight
+C: gas
+D: salt",C,"[{' C': -3.076318e-07, ' D': -15.684265, ' A': -16.072113, ' B': -17.438446, ' E': -20.475883}]", C
+101,"FACT: birds lay eggs
+Q: Which animal lays eggs
+A: emus
+B: dogs
+C: squirrels
+D: giraffes",A,"[{' A': -6.031526e-06, ' B': -12.063443, ' C': -15.678746, ' E': -16.444548, ' D': -17.028929}]", A
+102,"FACT: touch can be used for detecting texture
+Q: the best method for detecting texture is
+A: rubbing it
+B: seeing it
+C: hearing it
+D: tasting it",A,"[{' A': -0.17870356, ' B': -1.8100511, ' D': -15.022727, ' E': -15.957549, ' C': -16.146172}]", A
+103,"FACT: the Moon completes a lunar cycle over a period of 29 days
+Q: The lunar cycle also changes
+A: water
+B: colors
+C: the sun
+D: planets",A,"[{' B': -0.36162114, ' C': -1.7022048, ' D': -2.3255494, ' A': -3.7532456, ' E': -13.521731}]", B
+104,"FACT: the surface of the Moon contains mountains
+Q: The surface of the moon contains
+A: dogs
+B: water
+C: high peaks
+D: humans",C,"[{' C': -1.022884e-06, ' B': -14.705932, ' A': -14.946083, ' D': -15.148475, ' E': -18.955124}]", C
+105,"FACT: as heat increases , a flexible container containing gas will expand
+Q: What would happen when balloons heat up?
+A: they get bigger
+B: they get smaller
+C: nothing happens
+D: they fall down",A,"[{' A': -0.0015323095, ' B': -6.508277, ' C': -10.452094, ' D': -11.399344, ' E': -18.603773}]", A
+106,"FACT: cows only eat plants
+Q: Barnyard bovines
+A: eat organic chicken
+B: eat eggs
+C: eat beef
+D: eat alfalfa hay",D,"[{' D': -1.022884e-06, ' C': -14.17279, ' A': -15.262901, ' B': -16.003159, ' E': -16.926292}]", D
+107,"FACT: some birds are predators
+Q: If a bird is a carnivore, then it is likely a(n)
+A: prey
+B: predator
+C: herbivore
+D: canary",B,"[{' B': -1.8601542e-06, ' D': -13.275667, ' C': -15.757943, ' A': -15.905862, ' E': -18.685213}]", B
+108,"FACT: the sun causes water to evaporate more quickly by adding heat
+Q: Water levels may decrease on cloudless days because
+A: water is warmer than the air
+B: air is warmer than water
+C: moisture is pulled upwards
+D: moisture always tries to rise",C,"[{' C': -0.07897068, ' A': -2.5803363, ' D': -9.044188, ' B': -9.619261, ' E': -18.483168}]", C
+109,"FACT: rocks often contain large amounts of metal
+Q: Vast quantities of metal can be obtained from
+A: a quarry
+B: concerts
+C: forests
+D: salt",A,"[{' A': -2.3435998e-05, ' D': -10.660431, ' B': -17.33107, ' C': -17.402937, ' E': -19.42611}]", A
+110,"FACT: An example of playing a musical instrument is strumming a guitar string
+Q: Which musical instrument is the same type as a guitar?
+A: flute
+B: cello
+C: drum
+D: trumpet",B,"[{' B': -0.02637972, ' D': -3.674619, ' A': -7.4770017, ' C': -9.118436, ' E': -16.617504}]", B
+111,"FACT: a desert environment is usually hot in temperature
+Q: Desert environments are generally
+A: sweltering
+B: arctic like
+C: lush
+D: frigid",A,"[{' A': -4.277735e-07, ' C': -15.245781, ' B': -15.975708, ' D': -16.168282, ' E': -19.064034}]", A
+112,"FACT: a moth undergoes metamorphosis
+Q: A moth leaving it's cocoon is the final step in a
+A: life cycle
+B: transformation
+C: recycling process
+D: chemical reaction",B,"[{' B': -5.6340414e-05, ' A': -9.785518, ' D': -15.631549, ' C': -17.31418, ' E': -19.105143}]", B
+113,"FACT: as the population of plants decreases , carbon in the atmosphere will increase
+Q: As the rain forest is deforested the atmosphere will increase with
+A: oxygen
+B: nitrogen
+C: carbon
+D: rain",C,"[{' C': -1.6207987e-06, ' D': -13.349107, ' B': -17.053604, ' A': -17.257944, ' E': -19.89017}]", C
+114,"FACT: mass is a measure of the amount of matter in an object
+Q: The transportation with the most mass is likely a
+A: commercial plane
+B: private plane
+C: bus
+D: private car",A,"[{' A': -0.04039241, ' C': -3.2318442, ' B': -9.407267, ' D': -10.777994, ' E': -17.131983}]", A
+115,"FACT: as the sale of a product decreases , the amount of money made by the person selling that product will decrease
+Q: A woman sells bracelets that she makes. The bracelets gain popularity, and the woman makes incredibly large amounts of money from the sales. After a while, very few people are still buying the bracelets, so
+A: the woman makes more money
+B: the woman makes the same amount of money
+C: the woman spends more money
+D: the woman makes less money",D,"[{' D': -4.6010214e-06, ' A': -13.025028, ' B': -13.241856, ' C': -14.549998, ' E': -15.758542}]", D
+116,"FACT: an electric car contains an electric motor
+Q: Which of the following is powered the same way an electric car is?
+A: a bicycle
+B: a motorcycle
+C: a propane grill
+D: a blender",D,"[{' A': -0.18734242, ' B': -1.7672526, ' C': -10.809931, ' D': -10.896083, ' E': -17.747126}]", A
+117,"FACT: the Earth revolves around the sun
+Q: Earth revolves around
+A: the moon
+B: outer space
+C: another planet
+D: an energy source",D,"[{' D': -0.7784128, ' C': -1.2316979, ' B': -1.4712992, ' A': -3.9403083, ' E': -15.75071}]", D
+118,"FACT: iron nails are made of iron
+Q: If a nail is Fe, that nail is
+A: foreign
+B: atomic 26
+C: nickel
+D: atomic 12",B,"[{' B': -0.6765724, ' D': -0.7101646, ' A': -9.5646105, ' C': -11.509747, ' E': -15.450101}]", B
+119,"FACT: if too much heat is transferred to an object then that object may burn
+Q: If bacon is left too long on a hot stove top
+A: it will be cooked perfectly
+B: it will be bacteria laden
+C: it will become blackened
+D: it will be left raw",C,"[{' C': -6.1516675e-06, ' B': -13.084195, ' A': -13.085637, ' D': -13.150885, ' E': -16.60938}]", C
+120,"FACT: if a habitat is destroyed then that habitat can not support animals
+Q: if the population in a habitat is on a steady decline, what condition is the habitat?
+A: it is a place to emigrate from
+B: it is an ideal habitat
+C: it is an unsustainable habitat
+D: it is a thriving abode",C,"[{' C': -2.8138238e-06, ' D': -13.048716, ' A': -14.5784855, ' B': -15.311786, ' E': -19.14966}]", C
+121,"FACT: boiling is when liquids are heated above their boiling point
+Q: Pasta may be cooked in water when
+A: the water is warm
+B: the water is on the stove
+C: water is bubbling from applied warmth
+D: the pasta is very fresh",C,"[{' C': -0.0003090478, ' B': -8.318928, ' D': -9.650584, ' A': -14.108218, ' E': -17.676683}]", C
+122,"FACT: the gravitational pull of the Moon on Earth 's oceans causes the tides
+Q: The pull the human planet space rock orbiter has on certain bodies of dihydrogen monooxide results in?
+A: telescope views
+B: water level fluctuations
+C: animal
+D: plant harvesting",B,"[{' B': -3.076318e-07, ' D': -15.350319, ' A': -17.018524, ' C': -17.342155, ' E': -19.932709}]", B
+123,"FACT: birds lay eggs
+Q: The only creature with offspring that is hatched, of these, is the
+A: squirrel
+B: swallow
+C: mink
+D: bat",B,"[{' D': -0.0026280398, ' B': -6.609554, ' A': -6.7245517, ' C': -9.4854765, ' E': -15.21026}]", D
+124,"FACT: the stars in the night sky are very far away from the Earth
+Q: the night sky shows very far away what
+A: clumps of flaming gas
+B: tidal waves washing over beaches
+C: aircraft falling towards collision
+D: party balloons tied to houses",A,"[{' A': -6.827632e-08, ' B': -16.485115, ' D': -16.550644, ' C': -17.343521, ' E': -19.128082}]", A
+125,"FACT: milliliters mL is a unit used for measuring volume generally used for values between 1 and 1000
+Q: The unit of measure derived from French word millilitre is a unit used for measuring volume generally used for values between 1 and
+A: 1000
+B: 250
+C: 5000
+D: 300",A,"[{' A': -1.8841804e-07, ' D': -15.454636, ' C': -17.401924, ' B': -17.63195, ' E': -18.861809}]", A
+126,"FACT: as available water decreases , the population of plants will decrease
+Q: The amount of brush in a park has been decreasing. What could be a cause?
+A: the season has been quite dry
+B: There has been a lot of rain
+C: snakes shelter under the brush
+D: People have been walking by the brush on the trails",A,"[{' A': -8.7733215e-06, ' B': -12.216728, ' D': -12.503105, ' C': -16.612389, ' E': -18.322212}]", A
+127,"FACT: decreasing something negative has a positive impact on a thing
+Q: A decrease in diseases
+A: has no impact on a population
+B: leads to more sick people
+C: leads to less sick people
+D: leads to an uptick in emergency room visits",C,"[{' C': -1.1430258e-06, ' D': -13.739265, ' A': -15.8172, ' B': -16.842857, ' E': -19.100258}]", C
+128,"FACT: humans building homes in an ecosystem causes that environment to change
+Q: Which of the following human activities can lead to a change in the local ecosystem?
+A: swimming in a lake
+B: building a new subdivision
+C: dancing in a field
+D: going for a hike",B,"[{' B': -4.277735e-07, ' D': -14.872817, ' A': -17.037567, ' C': -17.38784, ' E': -20.936546}]", B
+129,"FACT: some crickets live in forests
+Q: An ideal abode for crickets is
+A: a small potted plant in a house
+B: a green and lush tree and plant packed area
+C: a briny and warm body of water
+D: a area surrounded by spider webs",B,"[{' B': -6.031526e-06, ' D': -12.1257, ' A': -14.453764, ' C': -15.670965, ' E': -18.478268}]", B
+130,"FACT: hypothesis means scientific guess about the cause and effect of an event
+Q: Which of these is a hypothesis?
+A: The ice caps will completely melt if global warming continues
+B: The earth is round
+C: The earth revolves around the sun
+D: Gravity causes objects to fall",A,"[{' A': -7.8540467e-07, ' D': -14.209991, ' B': -16.11171, ' C': -16.176117, ' E': -20.628555}]", A
+131,"FACT: the skeletal system protects internal organs
+Q: The skeletal system protects which of these?
+A: liver
+B: eyelashes
+C: finger nails
+D: blood vessels",A,"[{' A': -0.011460061, ' D': -4.6243906, ' B': -6.4795613, ' C': -9.893822, ' E': -16.621666}]", A
+132,"FACT: the digestive system digests food for the body
+Q: What is an example of the digestive system digesting food for the body?
+A: a man eating nachos then getting food poisoning
+B: a baby drinking formula then needing a diaper change
+C: a cat eating food then throwing it up
+D: a horse licking a salt lick",B,"[{' C': -0.19638187, ' D': -2.3428967, ' B': -2.5048, ' A': -7.4883127, ' E': -13.761659}]", C
+133,"FACT: soil is formed by rocks eroding
+Q: The main component in dirt is
+A: microorganisms
+B: broken stones
+C: pollution
+D: bacteria",B,"[{' B': -6.6619094e-07, ' D': -14.6416235, ' A': -15.437904, ' C': -17.034416, ' E': -19.137527}]", B
+134,"FACT: chlorophyll is used for absorbing light energy by plants
+Q: Green parts of a life form absorb
+A: carbon dioxide
+B: light
+C: oxygen
+D: water",B,"[{' B': -6.827632e-08, ' A': -16.669502, ' D': -17.465485, ' C': -17.61776, ' E': -20.32843}]", B
+135,"FACT: photosynthesis makes energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates
+Q: Which of the following is not an input in photosynthesis?
+A: sunlight
+B: oxygen
+C: water
+D: carbon dioxide",B,"[{' B': -3.2906587e-06, ' A': -12.699663, ' C': -16.00223, ' D': -16.404612, ' E': -17.225657}]", B
+136,"FACT: force causes the speed of an object to decrease
+Q: The amount of friction and the speed of an object have what kind of relationship?
+A: inverse
+B: reverse
+C: direct
+D: equal",A,"[{' A': -5.6340414e-05, ' C': -9.81042, ' B': -13.432245, ' D': -17.24486, ' E': -19.457903}]", A
+137,"FACT: if an animal hatches from an egg then that animal is born
+Q: What is different about birth in humans and chickens?
+A: Mother
+B: Fertilization
+C: Father
+D: the hard shell",D,"[{' B': -7.159913e-05, ' D': -9.655543, ' A': -12.093211, ' C': -13.122881, ' E': -19.922235}]", B
+138,"FACT: as the level of water rises , the amount of available land will decrease
+Q: Will happen to the number of islands if the planet's temperature rises?
+A: they will increase
+B: nothing will happen
+C: they will shrink
+D: they will double",C,"[{' B': -0.025773922, ' C': -3.689066, ' A': -7.805971, ' D': -10.07728, ' E': -17.622194}]", B
+139,"FACT: cutting down trees has a negative impact on an organisms living in an ecosystem
+Q: Selective deforestation has a negative impact on
+A: rain clouds and ozone layer
+B: lakes, ponds and shellfish
+C: greenhouse gases and algae
+D: living organisms in ecosystem",D,"[{' D': -1.6207987e-06, ' B': -13.948197, ' C': -14.451608, ' A': -14.834542, ' E': -17.598633}]", D
+140,"FACT: rock is made of minerals
+Q: If you find something smooth and hard on the ground, it is probably made of what?
+A: minerals
+B: mist
+C: clouds
+D: water",A,"[{' A': 0.0, ' B': -18.71743, ' C': -19.49321, ' D': -19.84583, ' E': -20.502739}]", A
+141,"FACT: if weather is stormy then there is a greater chance of rain
+Q: Rain is usually guaranteed when all are present but
+A: cirrus clouds
+B: cumulus clouds
+C: hail stones
+D: direct sunshine",D,"[{' B': -2.1889093e-05, ' A': -10.866004, ' D': -13.001632, ' C': -14.356795, ' E': -19.686049}]", B
+142,"FACT: as the use of alternative fuels increases , the use of gasoline will decrease
+Q: As gasoline costs rise, alternative fuels are being used, which means that
+A: wind power will be expensive
+B: gas costs will rise
+C: oil costs will be maintained
+D: gasoline will be needed less",D,"[{' D': -4.277735e-07, ' E': -14.909645, ' A': -16.308418, ' C': -16.696465, ' B': -18.24205}]", D
+143,"FACT: all living things eliminate waste
+Q: Which item urinates?
+A: airplane
+B: car
+C: mammal
+D: boat",C,"[{' C': -1.022884e-06, ' D': -14.383971, ' A': -14.747268, ' B': -15.48545, ' E': -17.587196}]", C
+144,"FACT: some adult animals lay eggs
+Q: is it normal for an adult animal to lay eggs?
+A: it has never happened
+B: yes it is standard
+C: it is abnormal and weird
+D: all of these",B,"[{' B': -3.076318e-07, ' D': -15.457405, ' A': -15.909302, ' C': -16.893929, ' E': -21.292526}]", B
+145,"FACT: water is in the solid state , called ice , for temperatures between 0 and 0 F
+Q: Global warming is lowering the world's amount of
+A: hurricanes
+B: ocean levels
+C: carbon dioxide
+D: ice",D,"[{' D': -1.8841804e-07, ' C': -15.75122, ' A': -15.9116745, ' E': -16.635818, ' B': -18.255043}]", D
+146,"FACT: mammals give birth to live young
+Q: Mammals give birth to live
+A: children
+B: birds
+C: fish
+D: insects",A,"[{' A': -9.842577e-05, ' C': -9.343001, ' B': -11.677771, ' D': -12.951887, ' E': -18.536077}]", A
+147,"FACT: as temperature in the environment increases , the body temperature of a reptile in that environment will increase
+Q: To get warm frogs can
+A: wear a Christmas sweater
+B: Drink a hot chocolate
+C: Go for a run
+D: sit under a lamp",D,"[{' D': -1.022884e-06, ' C': -14.222435, ' A': -15.293625, ' E': -15.696495, ' B': -16.471596}]", D
+148,"FACT: absorbing sunlight causes objects to heat
+Q: If a person puts out four apples around their home on the same day, the molecules in which apple would be moving the most rapidly?
+A: the apple sitting on a sunny sidewalk
+B: the apple in the freezer
+C: the apple sitting on the shaded stoop
+D: the apple in a closet",A,"[{' A': -7.584048e-06, ' C': -11.905378, ' D': -14.571357, ' B': -14.911986, ' E': -18.39607}]", A
+149,"FACT: a compass is a kind of tool for determining direction by pointing north
+Q: What kind of implement is a compass?
+A: to test heat
+B: for wind speed
+C: it measures distance
+D: it shows direction",D,"[{' D': -9.055464e-07, ' A': -14.170914, ' E': -15.552269, ' C': -16.18544, ' B': -16.64534}]", D
+150,"FACT: moving an object from a cool place to a warm place causes the object 's temperature to increase
+Q: An increase in an object's temperature occurs when
+A: an orange is placed in a refrigerator
+B: a steak is removed from the freezer to defrost
+C: a glass of water is moved from counter top to dinner table
+D: an ice tray is placed in a freezer",B,"[{' B': -0.0017790066, ' C': -6.9496317, ' D': -7.1082926, ' A': -15.476448, ' E': -18.163261}]", B
+151,"FACT: decomposition increases the amount of nutrients in the soil
+Q: They looked where the log decayed to garden as it would leave the earth
+A: richer
+B: dryer
+C: sandy
+D: harder",A,"[{' A': -7.3446927e-06, ' B': -12.029479, ' C': -13.967993, ' D': -14.340888, ' E': -16.84694}]", A
+152,"FACT: as lightness in color of an object increases , the ability of that object to reflect light will increase
+Q: What is a more comfortable color to have for your automobile upholstery if living in a desert?
+A: ecru
+B: red
+C: black
+D: navy",A,"[{' A': -0.03905912, ' E': -4.1144447, ' B': -4.2811317, ' D': -4.836437, ' C': -8.47401}]", A
+153,"FACT: a Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring
+Q: A Punnett square can be used to calculate the chance of a trait being passed to someone's
+A: mother
+B: grandfather
+C: daughter
+D: father",C,"[{' D': -0.0014102991, ' C': -6.575491, ' A': -11.1744585, ' B': -13.643469, ' E': -18.516668}]", D
+154,"FACT: a quartz is made of six-sided transparent crystals
+Q: Quartz crystals are made up of
+A: majic
+B: hexagons
+C: octogons
+D: water",B,"[{' B': -1.8841804e-07, ' D': -15.565872, ' A': -16.740227, ' C': -16.982437, ' E': -19.69841}]", B
+155,"FACT: the Earth being tilted on its axis causes seasons
+Q: Seasons are caused by what rotating on its axis?
+A: Our Planet
+B: The Atmosphere
+C: The Equator
+D: The Sun",A,"[{' A': -4.277735e-07, ' C': -14.693901, ' B': -16.515175, ' D': -18.078362, ' E': -19.69516}]", A
+156,"FACT: camouflage can be used for hunting for prey
+Q: Camouflage can be used by animals for hunting
+A: water
+B: trees
+C: air
+D: meals",D,"[{' B': -0.00065516314, ' D': -7.578856, ' C': -9.035537, ' A': -10.608268, ' E': -19.22775}]", B
+157,"FACT: polar bears live in cold environments
+Q: Polar bears live in
+A: frosty environments
+B: tepid environments
+C: warm environments
+D: tropical environments",A,"[{' A': -0.00010784233, ' D': -9.225373, ' C': -12.22728, ' B': -12.3118515, ' E': -17.71788}]", A
+158,"FACT: the number of body parts of an organism is an inherited characteristic
+Q: Which characteristic did a person inherit?
+A: length of hair
+B: number of friends
+C: number of nails
+D: length of shirt",C,"[{' B': -0.025263915, ' D': -4.305293, ' C': -4.470607, ' A': -11.493495, ' E': -16.684824}]", B
+159,"FACT: cellular respiration is when cells break down food to produce energy
+Q: cellular respiration is when energy is produced in a cell by consumption of
+A: water
+B: nutrients
+C: mitochondria
+D: gas",B,"[{' B': -2.693682e-06, ' C': -13.115062, ' D': -14.181612, ' A': -16.46535, ' E': -21.452509}]", B
+160,"FACT: echo is when sound reflects off of a surface
+Q: A bat flew through the sky without hitting anything due to which of these?
+A: rainy sky to fly in
+B: fast truck to drive
+C: a car with gasoline
+D: surfaces to reflect sound off",D,"[{' D': -1.0323977e-05, ' A': -11.716134, ' B': -13.691797, ' C': -13.811617, ' E': -16.191324}]", D
+161,"FACT: denser liquids settle below liquids that are less dense
+Q: Since density = mass / volume, denser liquids such as water sink more than
+A: baby oil
+B: corn syrup or
+C: milk
+D: honey",A,"[{' B': -0.15479267, ' C': -2.2031553, ' D': -3.4355843, ' A': -7.19992, ' E': -17.54003}]", B
+162,"FACT: wind and rain cause erosion
+Q: Erosion is caused by different kinds of
+A: soil
+B: fish
+C: rocks
+D: weather",D,"[{' D': -1.8841804e-07, ' E': -15.572807, ' A': -16.157188, ' C': -17.397667, ' B': -18.104347}]", D
+163,"FACT: June is during the summer in the northern hemisphere
+Q: Summertime  happens during June in all but which location?
+A: Australia
+B: in Canada
+C: United States
+D: Europe",A,"[{' B': -0.06073407, ' D': -3.033947, ' A': -4.539997, ' C': -8.964747, ' E': -17.87244}]", B
+164,"FACT: An example of camouflage is when an organism looks like its environment
+Q: Camouflage is when an organism does what?
+A: reconfigure appearance to blend in
+B: hides its young to avoid prey
+C: changes its shape to appear larger
+D: buries itself to disappear momentarily",A,"[{' D': -0.5202572, ' A': -0.916566, ' B': -5.670312, ' C': -6.076852, ' E': -14.866623}]", D
+165,"FACT: feeders attract animals to a location
+Q: There are less hummingbirds by this house than before because of
+A: a feeder at this house
+B: the birds no longer like feeders
+C: the size of the feeder
+D: a feeder at another house",D,"[{' B': -0.0052724155, ' D': -5.253372, ' A': -10.536613, ' C': -13.056228, ' E': -17.479805}]", B
+166,"FACT: a desert environment is dry
+Q: Where would a duck like to live?
+A: the Sahara
+B: Antarctica
+C: the Appalachian mountains
+D: Death Valley",C,"[{' D': -0.25625032, ' C': -1.8790836, ' A': -3.0738087, ' B': -3.6090868, ' E': -14.290086}]", D
+167,"FACT: the decrease of something required by an organism has a negative impact on that organism 's survival
+Q: A small lamb, two days old, is walking with its mother. The mother feels ill, so refuses food, which dries up her milk production. The lack of lactation causes the lamb to
+A: weaken
+B: strengthen
+C: coexist
+D: thrive",A,"[{' A': 0.0, ' B': -17.16552, ' E': -18.429482, ' D': -18.81929, ' C': -19.571579}]", A
+168,"FACT: the respiratory system transfers oxygen to the circulatory system
+Q: The respiratory system works by
+A: directing oxygen from lungs to other organs
+B: pushing air through lungs
+C: moving air in a room
+D: making air quality better",A,"[{' B': -3.7743856e-05, ' A': -10.196518, ' D': -14.975028, ' C': -15.942603, ' E': -20.732252}]", B
+169,"FACT: wax is an electrical insulator
+Q: Wax can be used similarly to
+A: wood
+B: rubber
+C: water
+D: metal",B,"[{' B': -5.460492e-07, ' A': -14.391532, ' D': -16.986992, ' C': -17.27658, ' E': -21.257965}]", B
+170,"FACT: Louis Pasteur invented pasteurization
+Q: Did pasteurization get invented by Thomas Edison?
+A: negative
+B: positive
+C: all of these
+D: maybe it was",A,"[{' A': -2.1649737e-05, ' B': -10.787336, ' C': -13.809652, ' D': -15.929365, ' E': -19.88735}]", A
+171,"FACT: grass snakes live in grass
+Q: Grass snakes live in what?
+A: trees
+B: mountains
+C: lakes
+D: turf",D,"[{' D': -1.9765537e-06, ' A': -13.625658, ' E': -14.884729, ' B': -15.223252, ' C': -15.355737}]", D
+172,"FACT: An example of combining two substances is pouring one substance into the other substance
+Q: Putting one kind of soda into the same cup as another kind of soda is doing what to the substances?
+A: combining
+B: drinking
+C: Subtracting
+D: throwing",A,"[{' A': 0.0, ' D': -18.443764, ' B': -19.258255, ' C': -19.743818, ' E': -19.850822}]", A
+173,"FACT: if a living thing dies then that living thing is dead
+Q: A cooked lobster is
+A: inedible
+B: cold
+C: dead
+D: green",C,"[{' C': -1.5006569e-06, ' D': -13.510644, ' A': -16.415232, ' B': -17.65249, ' E': -19.910158}]", C
+174,"FACT: a mammal is warm-blooded
+Q: Which of the following is warm blooded?
+A: toad
+B: snake
+C: turtle
+D: skunk",D,"[{' D': -0.00039830978, ' A': -7.8625803, ' B': -11.34871, ' C': -13.468499, ' E': -15.562013}]", D
+175,"FACT: a plant requires sunlight to grow
+Q: Plants are unable to grow if they have zero access to
+A: a nice cool breeze
+B: fresh soil with manure
+C: a regular source of saltwater
+D: needs required for creating chlorophyll",D,"[{' D': -0.00021097568, ' B': -8.845357, ' A': -10.300351, ' C': -10.316625, ' E': -16.067997}]", D
+176,"FACT: an animal requires oxygen for to breathe
+Q: If your dog sits in an oxygen deficient chamber, what happens?
+A: it will be fine
+B: it will be happy
+C: it will be comfortable
+D: It will pass out",D,"[{' D': -2.3360508e-06, ' E': -13.832528, ' A': -13.969651, ' C': -14.634973, ' B': -15.960282}]", D
+177,"FACT: if a habitat is removed then that habitat is destroyed
+Q: When a city tears down a park in a city, the park
+A: is removed
+B: is renewed
+C: is retrieved
+D: is restored",A,"[{' A': 0.0, ' B': -17.385725, ' D': -17.474737, ' E': -18.586554, ' C': -19.398718}]", A
+178,"FACT: An example of a seasonal change is plants dying in the winter
+Q: A woman notices that she is depressed every autumn, and wonders why. A friend suggests to her that perhaps certain changes that take place as seasons move from warm to cold may be having an effect on her. When pressed for an example of these changes, the friend cites
+A: flowers blooming
+B: grass turning brown
+C: trees growing
+D: blossoms blooming",B,"[{' B': -0.0002629028, ' D': -8.42689, ' A': -10.068805, ' C': -13.317392, ' E': -17.916414}]", B
+179,"FACT: some animals move quickly to escape predators
+Q: The nimbleness of this animal is a key adaption that allows it to escape attacks from predators:
+A: the butterfly
+B: the sloth
+C: the praying mantis
+D: the antelope",D,"[{' D': -0.00074152835, ' C': -7.34678, ' A': -9.265527, ' B': -13.103073, ' E': -17.802643}]", D
+180,"FACT: a windmill converts wind energy into electricity
+Q: A spinning object is used to make
+A: steam
+B: heat
+C: water
+D: electricity",D,"[{' D': -1.8841804e-07, ' A': -16.06205, ' E': -16.261856, ' C': -18.269737, ' B': -19.122368}]", D
+181,"FACT: iron nails are made of iron
+Q: What are iron nails made out of?
+A: wood
+B: plastic
+C: metal
+D: glass",C,"[{' C': -1.022884e-06, ' A': -14.324195, ' B': -15.110451, ' D': -15.480323, ' E': -18.898941}]", C
+182,"FACT: if a liquid disappears then that liquid probably evaporated
+Q: Evaporation
+A: only happens in the summer
+B: is like nature's disappearing water trick
+C: is caused by snow
+D: involves the disappearance of sunlight",B,"[{' B': -0.00029664824, ' D': -8.1350765, ' A': -12.838949, ' C': -13.975959, ' E': -16.26122}]", B
+183,"FACT: if the population of an organism increases then the ecosystem may become overpopulated with that organism
+Q: Overpopulation of an organism can
+A: strain the resources of an ecosystem
+B: cause boundless growth of resources
+C: lead to extinction of the organism
+D: cause the ecosystem to flourish",A,"[{' A': 0.0, ' B': -18.030708, ' D': -19.186775, ' C': -19.98506, ' E': -21.161453}]", A
+184,"FACT: evaporation causes amount of water to decrease
+Q: Evaporation
+A: causes puddles to become dried out mud
+B: causes fields of crops to grow faster
+C: causes flowers to bloom abundantly
+D: fills up irrigation ponds",A,"[{' A': -0.0003059484, ' C': -8.359108, ' B': -9.770478, ' D': -11.136612, ' E': -18.27478}]", A
+185,"FACT: as distance from an object decreases , that object will appear larger
+Q: When approaching an elephant from a great distance,
+A: it stays large
+B: it grows larger
+C: it gets bigger
+D: it looks bigger",D,"[{' B': -6.13453e-05, ' D': -9.704826, ' C': -15.066681, ' A': -16.613197, ' E': -16.900421}]", B
+186,"FACT: inheriting is when a inherited characteristic is copied from parent to offspring by DNA
+Q: A rabbit has a litter of bunnies! Most of the babies are white, just like the mother rabbit, but one baby has brown spots, like the father rabbit. The father rabbit
+A: spread out some fur
+B: has black on his ears
+C: passed down inherited characteristics
+D: is the same size as the mother",C,"[{' C': -1.3823812e-06, ' D': -13.817964, ' A': -15.396325, ' B': -15.447664, ' E': -17.740374}]", C
+187,"FACT: fossil fuels are formed by dead organisms over time
+Q: Fossil fuels
+A: come from old age
+B: come from expired life
+C: take two years to create
+D: are created in a year",B,"[{' B': -3.1781543e-05, ' D': -10.581727, ' A': -11.980828, ' C': -15.76793, ' E': -19.075396}]", B
+188,"FACT: if a tree is located near a sidewalk then the roots of that tree might crack the sidewalk
+Q: Oak tree seeds are planted and a sidewalk is paved right next to that spot, until eventually, the tree is tall and the roots must extend past the sidewalk, which means
+A: roots may be split
+B: roots may begin to die
+C: parts may break the concrete
+D: roots may fall apart",C,"[{' C': -2.0575926e-05, ' A': -10.986067, ' D': -12.766271, ' B': -14.217458, ' E': -15.685314}]", C
+189,"FACT: if an organism makes food for itself then that organism does not need to eat other organisms
+Q: An organism that makes food for itself
+A: is nutritionally self sustaining
+B: will die faster than other organisms
+C: will need help sustaining strength
+D: is reliant on other organisms for assistance",A,"[{' A': -2.4866502e-05, ' D': -10.863641, ' B': -12.134713, ' C': -15.221833, ' E': -15.961899}]", A
+190,"FACT: tadpole changes into a frog
+Q: Tadpoles start their lives as
+A: Water animals
+B: Frogs
+C: Ants
+D: College Students",A,"[{' A': -2.8138238e-06, ' B': -12.8127, ' C': -16.556597, ' D': -17.946955, ' E': -20.134317}]", A
+191,"FACT: the moon rising occurs once per day
+Q: Every evening a child can look into the night sky and see that the moon is
+A: gone
+B: breaking
+C: falling
+D: moving upwards",D,"[{' D': -3.076318e-07, ' A': -15.491859, ' E': -16.133362, ' B': -17.243126, ' C': -17.329872}]", D
+192,"FACT: stopped means no speed
+Q: A car has the least speed if it
+A: is heavy
+B: is large
+C: is turned off
+D: is small",C,"[{' C': -1.2622395e-06, ' D': -13.839011, ' A': -15.23307, ' B': -16.20092, ' E': -18.730858}]", C
+193,"FACT: some animals shed fur in warm weather
+Q: what kind of temperature causes fur shedding?
+A: in freezing cold
+B: a high temperature
+C: in any temperature
+D: a low temperature",B,"[{' B': -0.00013967574, ' D': -8.879885, ' C': -14.679078, ' A': -16.76597, ' E': -20.27141}]", B
+194,"FACT: an electric car contains an electric motor
+Q: an electric car contains a motor that runs on
+A: gas
+B: hydrogen
+C: ions
+D: plutonium",C,"[{' C': -5.061746e-05, ' D': -9.979062, ' A': -12.489193, ' B': -14.747006, ' E': -15.624126}]", C
+195,"FACT: humidity is the amount of water vapor in the air
+Q: There was a lot more water vapor in the air when we went on a trip to
+A: Hanoi
+B: Athens
+C: Baghdad
+D: Phoenix",A,"[{' D': -0.006521505, ' A': -5.834539, ' B': -6.0017834, ' C': -6.8114758, ' E': -16.30911}]", D
+196,"FACT: coloration is used to find a mate by some animals
+Q: A male bird spots a female of his species and begins a fancy dance, flashing his bright feathers around in the air, showing off. This male is attempting to procure
+A: a manager
+B: an agent
+C: a meal
+D: a reproductive companion",D,"[{' D': -7.8540467e-07, ' E': -14.562164, ' A': -15.190917, ' C': -15.680817, ' B': -17.84468}]", D
+197,"FACT: as distance from a source of light increases , that source of light will appear dimmer
+Q: The light that appears dimmest is
+A: the light in the hall
+B: a light in the room
+C: a star outside the window
+D: a streetlight outside the window",C,"[{' D': -0.00044404552, ' C': -7.720247, ' A': -15.455948, ' E': -17.545708, ' B': -17.66777}]", D
+198,"FACT: the type of material through which sound passes changes the speed at which sound travels
+Q: Which of these would create the most sound if struck with a metal spoon?
+A: the plastic water bottle
+B: the backside of a person
+C: the hair on a doll
+D: the chassis of a car",D,"[{' A': -9.38949e-05, ' D': -9.337359, ' B': -12.764864, ' C': -12.86165, ' E': -14.71612}]", A
+199,"FACT: reproduction produces offspring
+Q: Little puppies are a result of:
+A: reproduction ?
+B: pet store sale
+C: a begging child
+D: evolution",A,"[{' A': 0.0, ' B': -17.822823, ' D': -18.710281, ' C': -19.726234, ' E': -20.74948}]", A
+200,"FACT: storms can cause a landslide
+Q: During landslides there is often a lot of
+A: air
+B: mud
+C: snow
+D: wind",B,"[{' B': -2.0966954e-06, ' D': -13.133181, ' A': -16.998344, ' C': -17.73819, ' E': -20.151062}]", B
+201,"FACT: a satellite orbits a planet
+Q: A satellite orbits a
+A: empty space
+B: ocean
+C: terrestrial body
+D: air pocket",C,"[{' C': -4.7399757e-05, ' A': -10.072953, ' D': -12.254608, ' B': -14.587274, ' E': -18.761139}]", C
+202,"FACT: predators eat prey
+Q: Prey are eaten by
+A: an animal herded by sheep dogs
+B: the animal with a starring role in Bambi
+C: animals known for their memory
+D: the fastest mammal with four legs",D,"[{' D': -0.007666194, ' A': -5.1014314, ' B': -6.896643, ' C': -7.5284944, ' E': -16.186132}]", D
+203,"FACT: a thermometer is used to measure temperature
+Q: Thermometers
+A: can help you monitor a fever
+B: indicate levels of mercury in the blood
+C: read exactly at 98.6 degrees
+D: are used only for babies",A,"[{' D': -1.2708151e-05, ' A': -11.757588, ' C': -12.406369, ' B': -13.96188, ' E': -18.884556}]", D
+204,"FACT: the arctic environment is white in color from being covered in snow
+Q: The arctic is white in coloring
+A: because it's overpopulated with polar bears
+B: because it's covered in white lilies
+C: because it's blanketed in crystalline ice water
+D: because it's gets so little sunlight",C,"[{' D': -0.013139574, ' C': -4.3388305, ' A': -13.81321, ' B': -14.380311, ' E': -15.307282}]", D
+205,"FACT: an animal requires shelter
+Q: What would help to ensure that your dog remains free from hypothermia in January in Alaska?
+A: Lots of meat
+B: Lots of love
+C: Vitamin supplements
+D: An insulated room",D,"[{' D': -9.055464e-07, ' A': -14.607124, ' E': -15.094489, ' B': -15.752715, ' C': -15.804046}]", D
+206,"FACT: a seed is used for storing food for a new plant
+Q: Seeds
+A: are useless shells that need to be discarded
+B: store extra bits of chlorophyll
+C: need to be mashed to grow
+D: aid in feeding what grows from them",D,"[{' D': -1.7400124e-06, ' B': -13.981935, ' C': -14.280633, ' A': -15.395777, ' E': -16.442337}]", D
+207,"FACT: a hand dryer produces heat
+Q: Hand dryers can also be used to
+A: keep cold drinks cool
+B: dry out clothes after coming in from the rain
+C: hydrate your face and hands
+D: make a damp rag damper",B,"[{' B': -0.0065497644, ' C': -5.137012, ' D': -7.5440173, ' A': -8.995678, ' E': -17.911318}]", B
+208,"FACT: as a source of light becomes closer , that source will appear brighter
+Q: If a UFO is flying overhead and looks small, then large, then
+A: the UFO is calling
+B: the UFO had been close
+C: the UFO is approaching
+D: the UFO is leaving",C,"[{' B': -0.19260916, ' C': -1.9841588, ' D': -3.278165, ' A': -13.1438875, ' E': -15.065946}]", B
+209,"FACT: a paper clip is often made of ferromagnetic metals
+Q: Objects used to hold sheets of paper together are often
+A: large
+B: wooden
+C: ferromagnetic
+D: electronic",C,"[{' C': -5.460492e-07, ' D': -15.133591, ' A': -15.35208, ' B': -16.711975, ' E': -19.762756}]", C
+210,"FACT: wind is used for producing electricity
+Q: What type of useful product can be made from the moving winds?
+A: wood
+B: bananas
+C: electricity
+D: metal",C,"[{' C': -1.8841804e-07, ' A': -16.26847, ' D': -16.276314, ' B': -18.161964, ' E': -20.439888}]", C
+211,"FACT: meadow voles eat insects
+Q: A meadow vole just gave birth, and needs to feed herself so that she can produce milk for her babies. She searches for food in a field, and happily munches down on some
+A: oil
+B: deer
+C: bugs
+D: recycled plastic fruit",C,"[{' C': -1.2622395e-06, ' D': -13.994445, ' A': -14.8990555, ' B': -15.646348, ' E': -18.92486}]", C
+212,"FACT: iron is always magnetic
+Q: What would be more likely to attract a magnet?
+A: a plastic zipper
+B: flowing water
+C: a car engine
+D: A wooden desk",C,"[{' D': -0.035832115, ' A': -3.4550443, ' C': -5.7726865, ' B': -7.7149096, ' E': -9.818547}]", D
+213,"FACT: bees eat pollen
+Q: what are eaten by honey producing insects?
+A: they consume plants
+B: they eat cows
+C: plant reproduction parts
+D: they eat flowers",C,"[{' D': -0.005049477, ' C': -5.2914796, ' A': -13.1902895, ' B': -14.443671, ' E': -15.791204}]", D
+214,"FACT: hawks eat lizards
+Q: A red-tailed hawk is searching for prey. It is most likely to swoop down on
+A: an eagle
+B: a cow
+C: a gecko
+D: a deer",C,"[{' C': -4.1232483e-06, ' A': -12.4332695, ' B': -15.629452, ' D': -16.292736, ' E': -19.37463}]", C
+215,"FACT: break down means change from a whole into pieces
+Q: What material has already broken down?
+A: wood
+B: glass
+C: boulders
+D: sand",D,"[{' D': -0.00028746822, ' A': -8.263058, ' B': -10.836553, ' C': -11.542142, ' E': -15.431347}]", D
+216,"FACT: feeders attract animals to a location
+Q: Animals are drawn to
+A: gold
+B: houses
+C: feeders
+D: Carbon Dioxide",C,"[{' C': -4.277735e-07, ' D': -14.855339, ' A': -15.918137, ' B': -16.713493, ' E': -19.229614}]", C
+217,"FACT: some lizards live in desert habitats
+Q: which of these are you most likely to find in a desert?
+A: a hammer head shark
+B: a big tilapia fish
+C: a prickly horned male lizard
+D: none of these",C,"[{' C': -7.1062755e-06, ' D': -11.877463, ' A': -15.863958, ' B': -16.730017, ' E': -20.763153}]", C
+218,"FACT: a deer lives in a forest
+Q: There are various creatures that live in forests, such as
+A: giant fish
+B: enormous crabs
+C: whitetails
+D: desert jackals",C,"[{' C': -5.460492e-07, ' A': -15.160125, ' D': -15.163924, ' B': -16.341217, ' E': -18.940994}]", C
+219,"FACT: the moon 's surface contains many craters
+Q: The moon is known for having what feature?
+A: frozen streams of water
+B: large bowl shaped cavities
+C: caves formed by solar winds
+D: groups of large trees",B,"[{' B': -1.6207987e-06, ' D': -13.365312, ' A': -16.266245, ' C': -16.488955, ' E': -18.4824}]", B
+220,"FACT: usually coral lives in warm water
+Q: Coral grows in
+A: frigid waters
+B: tepid seas
+C: glacial environments
+D: jungle forests",B,"[{' B': -3.529076e-06, ' D': -13.066988, ' A': -14.123843, ' C': -14.195674, ' E': -20.05565}]", B
+221,"FACT: humans eat crops
+Q: What would cause a human to grow?
+A: light waves
+B: eating wheat
+C: photosynthesis
+D: marching",B,"[{' B': -4.1232483e-06, ' D': -12.621395, ' A': -14.596333, ' C': -14.847614, ' E': -18.90887}]", B
+222,"FACT: motion is a source of kinetic energy in an object
+Q: Kinetic energy can be found in objects that move, such as
+A: flower pots on a wagon
+B: cars that are in a lot
+C: kids that are sleeping soundly
+D: skateboards that are ridden all day",D,"[{' B': -0.02022157, ' D': -3.9114416, ' C': -11.930659, ' A': -15.098186, ' E': -19.016214}]", B
+223,"FACT: all animals breathe
+Q: Respiration is a
+A: happens for some species
+B: happens for only land dwelling mammals
+C: occurs for only sea creatures
+D: commonality among all animals",D,"[{' D': -7.8540467e-07, ' A': -14.884682, ' E': -15.446579, ' B': -16.085808, ' C': -16.365921}]", D
+224,"FACT: fire causes burning
+Q: exposure to fire could result in
+A: wet items
+B: cold items
+C: none of these
+D: combusted items",D,"[{' D': -1.5925843e-05, ' C': -11.046304, ' A': -16.631287, ' B': -16.91603, ' E': -20.117065}]", D
+225,"FACT: metal is an electrical energy conductor
+Q: Which is best an letting electricity pass through?
+A: tile flooring
+B: human flesh
+C: hockey stick
+D: a steak knife",D,"[{' C': -0.77017266, ' A': -0.9398046, ' D': -1.9798282, ' B': -4.8114476, ' E': -8.91922}]", C
+226,"FACT: explosions can cause harm to an organism
+Q: are explosions safe?
+A: they could harm living things
+B: they are very safe
+C: they cause nothing serious
+D: none of these",A,"[{' B': -0.080303475, ' D': -2.6696818, ' A': -4.84264, ' C': -12.631512, ' E': -16.829067}]", B
+227,"FACT: a beak is used for catching prey by some birds
+Q: birds use their peckers to catch
+A: dogs
+B: a tan
+C: a ball
+D: bees",D,"[{' D': -0.07177029, ' A': -2.7191777, ' C': -6.073006, ' B': -6.984207, ' E': -9.2530985}]", D
+228,"FACT: skin is used for protecting the body from harmful substances
+Q: If hot water were poured on an arm, what would happen to internal organs?
+A: they would be scalded
+B: organs would remain uneffected
+C: they would begin to decay
+D: they would experience pain",B,"[{' B': -9.055464e-07, ' D': -14.435875, ' A': -14.8331375, ' C': -17.956398, ' E': -19.078331}]", B
+229,"FACT: high means great in altitude
+Q: Which item has a higher altitude?
+A: Tile Floor
+B: Cars
+C: A 6'' Man
+D: A Picture Book",C,"[{' B': -0.010050707, ' A': -4.710627, ' D': -6.977701, ' C': -9.585123, ' E': -15.947573}]", B
+230,"FACT: a bat births live young
+Q: A bat starts its life similarly to a
+A: chicken
+B: pig
+C: butterfly
+D: duck",B,"[{' A': -0.019908931, ' C': -3.9551582, ' B': -7.555347, ' D': -10.315739, ' E': -15.896289}]", A
+231,"FACT: echolocation is when some animals detect objects by hearing echoes by emitting sound
+Q: Echolocation can't detect an object's
+A: distance
+B: shape
+C: size
+D: temperature",D,"[{' B': -0.12349677, ' A': -2.1526868, ' D': -12.825927, ' C': -13.647025, ' E': -17.34098}]", B
+232,"FACT: a stopwatch is used to measure time
+Q: What is a stopwatch used for?
+A: to rewind 5 minutes
+B: to tell what will happen 5 minutes from now
+C: to voice the time
+D: to measure minutes and hours",D,"[{' D': -5.460492e-07, ' A': -14.635422, ' C': -16.344337, ' B': -16.612274, ' E': -17.2322}]", D
+233,"FACT: a chipmunk eats acorns
+Q: what does a chipmunk do with acorns
+A: throw them at other chipmunks
+B: leave them where they're found
+C: use them to build shelter
+D: transfer them to the stomach",D,"[{' D': -3.051303e-06, ' B': -13.624812, ' C': -13.687198, ' A': -14.398851, ' E': -15.501109}]", D
+234,"FACT: a leaf performs photosynthesis
+Q: What food production happens in a leaf?
+A: nutrient making process
+B: the breathing
+C: the respiration
+D: the digestion",A,"[{' C': -0.023182625, ' A': -3.7958646, ' D': -7.7135663, ' B': -12.111347, ' E': -14.947408}]", C
+235,"FACT: as distance from an object decreases , that object will appear larger
+Q: as you get closer to something it begins to
+A: shrinks down to nothing
+B: grow in size visually
+C: show a large shadow
+D: rotate in a clockwise direction",B,"[{' B': -1.3823812e-06, ' D': -13.865418, ' A': -14.957742, ' C': -16.051523, ' E': -18.04004}]", B
+236,"FACT: as force exerted on an object increases , distance travelled will increase
+Q: The harder a child pushes a toy car
+A: decreases the distance it will travel
+B: the further it will roll across the floor
+C: the quicker the child will want to play with another toy
+D: determines how long the child with play with it",B,"[{' B': -1.2622395e-06, ' D': -14.3211355, ' A': -14.373871, ' C': -15.730384, ' E': -17.966705}]", B
+237,"FACT: An example of navigation is directing a boat
+Q: A sailor needs to navigate to the shore, and does this by
+A: closing the sails quickly
+B: setting out to sea
+C: making an adjustment to the rudder
+D: taking the afternoon off",C,"[{' C': -9.012677e-06, ' D': -11.916458, ' A': -13.293961, ' B': -14.19069, ' E': -18.212448}]", C
+238,"FACT: magnetism can cause objects to repel each other
+Q: Two fridge decorations when touched back to back
+A: shove each other away
+B: are attracted to each other
+C: have very little reaction
+D: are reflective when together",A,"[{' B': -0.33790767, ' C': -1.249895, ' A': -8.566576, ' D': -11.208238, ' E': -19.751436}]", B
+239,"FACT: drought means available water decreases in an environment
+Q: As a drought worsens the level at an aquifer will
+A: stay the same
+B: fluctuate wildly
+C: decrease
+D: increase",C,"[{' C': -5.460492e-07, ' A': -15.137794, ' B': -15.437439, ' D': -15.713287, ' E': -19.715141}]", C
+240,"FACT: An example of reproduction is laying eggs
+Q: What is an example of reproduction?
+A: farming
+B: egg depositing
+C: flying
+D: walking",B,"[{' B': -3.076318e-07, ' D': -15.198479, ' A': -16.93969, ' C': -17.646118, ' E': -19.738487}]", B
+241,"FACT: electrocution causes harm to an organism
+Q: The man's heart skipped a beat and he felt pain after touching which of these?
+A: ice cube
+B: water
+C: electrical transformer
+D: grass",C,"[{' C': -9.606849e-06, ' D': -11.668092, ' B': -13.969796, ' A': -15.114808, ' E': -18.698298}]", C
+242,"FACT: the colors of the parts of an organism are inherited characteristics
+Q: Inherited characteristics
+A: include mice being able to navigate a maze
+B: include learning to sit on command
+C: include dolphins doing tricks for their trainers
+D: include spots on a ladybug",D,"[{' D': -3.488097e-05, ' A': -10.903896, ' B': -11.131763, ' C': -13.165447, ' E': -19.281254}]", D
+243,"FACT: usually plants die or become dormant during the winter
+Q: Dead plants are easier to find in
+A: January
+B: July
+C: May
+D: September",A,"[{' A': -4.361666e-06, ' B': -12.356289, ' D': -15.715397, ' C': -18.159832, ' E': -19.68163}]", A
+244,"FACT: crop rotation has a positive impact on soil quality
+Q: Crop rotation has a positive impact on what?
+A: government mentality
+B: dirt quality
+C: town economies
+D: crop watering",B,"[{' B': -1.6999666e-05, ' D': -10.999688, ' C': -15.252838, ' A': -16.381897, ' E': -21.43042}]", B
+245,"FACT: evaporation causes amount of water to decrease
+Q: All of the following are examples of evaporation apart from
+A: Warm breath fogging up a mirror
+B: Morning dew drying on the grass
+C: The water level in a glass decreasing
+D: Sweat drying on skin",A,"[{' B': -0.000608224, ' D': -7.94782, ' C': -8.411611, ' A': -10.339894, ' E': -20.075033}]", B
+246,"FACT: sleet is made of ice
+Q: a person driving to work in which of these is most likely to lose control?
+A: a dry cobblestone road
+B: a sleet covered highway
+C: a dry paved road
+D: a dry gravel road",B,"[{' B': -9.055464e-07, ' A': -14.7193985, ' D': -14.944114, ' C': -15.475616, ' E': -18.77919}]", B
+247,"FACT: as temperature increases , the ability of that liquid to dissolve solids will increase
+Q: Which beverage would dissolve solids the best?
+A: A glass of ice-cold water
+B: A boiling hot mug of tea
+C: A cup of warm milk
+D: A room temperature glass of water",B,"[{' B': -3.4762696e-05, ' D': -10.714687, ' A': -11.295429, ' C': -15.6189995, ' E': -18.68787}]", B
+248,"FACT: a flower produces pollen and seeds
+Q: What produce pollen and seeds?
+A: lakes that are frozen over
+B: things you give a loved one in a bouquet
+C: various types of animals
+D: a person that is healthy",B,"[{' D': -0.13256794, ' B': -2.1100307, ' A': -5.880355, ' C': -8.962371, ' E': -14.821798}]", D
+249,"FACT: the number of body parts of an organism is an inherited characteristic
+Q: A girl and her mom have the same
+A: date of birth
+B: shirt
+C: number of toenails
+D: hair length",C,"[{' C': -5.460492e-07, ' B': -15.158371, ' D': -15.18914, ' A': -15.605773, ' E': -18.117996}]", C
+250,"FACT: different organisms reproduce differently
+Q: Which pair don't reproduce the same way?
+A: rabbit and hare
+B: mule and hinny
+C: cat and catfish
+D: caterpillar and butterfly",C,"[{' B': -3.170517e-06, ' D': -13.282397, ' A': -13.583575, ' C': -15.109424, ' E': -18.721033}]", B
+251,"FACT: sugar causes food to taste sweet
+Q: What would be the flavor if you ate the item that fell and is thought to have hit Sir Issac Newton's head
+A: Sweet
+B: Salty
+C: bitter
+D: sour",A,"[{' A': -0.00014122359, ' D': -8.870135, ' E': -14.78889, ' B': -14.878398, ' C': -17.37302}]", A
+252,"FACT: snowy means a large amount of snow
+Q: A place that is snowy has a large amount of
+A: wind
+B: storms
+C: frozen water
+D: rain",C,"[{' C': -0.013991115, ' D': -4.3057694, ' A': -7.858504, ' E': -11.531102, ' B': -11.870848}]", C
+253,"FACT: as distance from a source of light increases , that source of light will appear dimmer
+Q: Light from further away may appear to be less bright than other, closer sources, such as in which instance?
+A: the sun is always bright
+B: the moon is brighter than stars
+C: the moon is brighter than a floodlight
+D: the sun is darker than the moon",B,"[{' B': -0.0039927987, ' D': -5.5428567, ' C': -9.588816, ' A': -13.839335, ' E': -16.780085}]", B
+254,"FACT: webbed feet are used for moving faster through water by aquatic animals
+Q: What are the feet of Dendrocygna autumnalis designed for?
+A: catching prey
+B: aquatic speed
+C: flying
+D: walking",B,"[{' B': -1.8841804e-07, ' D': -16.06469, ' A': -16.480408, ' C': -17.211578, ' E': -20.285355}]", B
+255,"FACT: polar bears live in cold environments
+Q: Where would a polar bear be most comfortable?
+A: Arizona
+B: Georgia
+C: Florida
+D: Nebraska",D,"[{' D': -0.0014154925, ' C': -7.0716815, ' A': -7.5152626, ' B': -10.795826, ' E': -14.300151}]", D
+256,"FACT: sugars are transported from the leaves to the roots of a plant
+Q: Glucose travels
+A: from roots to leaves of a daffodil
+B: from a rose's leaves to the atmosphere
+C: from a daisy's leaves into it's underground support system
+D: from the sun to a sunflower's buds",C,"[{' C': -0.0011958607, ' D': -6.7934394, ' A': -10.00643, ' B': -10.453779, ' E': -16.149807}]", C
+257,"FACT: dairy is a source of Vitamin D
+Q: Dairy is a source of
+A: a vitamin that prevents blood loss
+B: a vitamin that treats amino acid deficiency
+C: a group of fat-soluble secosteroids
+D: a vitamin that helps treat liver problems",C,"[{' D': -0.00016924512, ' A': -8.82512, ' C': -10.763193, ' B': -13.925379, ' E': -16.292595}]", D
+258,"FACT: erosion causes deposition
+Q: Erosion could lead to
+A: a change in the direction of a stream
+B: a change in ocean temperatures
+C: an increase in rainy weather
+D: an increase in plants and animals",A,"[{' A': -0.2370325, ' D': -1.556193, ' C': -9.263826, ' B': -13.213472, ' E': -16.746103}]", A
+259,"FACT: storms cause bodies of water to increase amount of water they contain
+Q: After a storm
+A: ponds may dry out
+B: flowers will wilt and wither
+C: creek beds may be spilling over
+D: drinking water will be in short supply",C,"[{' C': -1.6207987e-06, ' D': -13.657693, ' A': -14.706399, ' B': -15.621797, ' E': -19.109407}]", C
+260,"FACT: predators eat prey
+Q: Predators eat
+A: lions
+B: humans
+C: bunnies
+D: grass",C,"[{' C': -0.00023857858, ' D': -8.349817, ' A': -13.633393, ' B': -13.862458, ' E': -18.876696}]", C
+261,"FACT: a landfill is a source of pollution
+Q: Sources of air pollution are
+A: Walking
+B: Landfills
+C: Water
+D: Chips",B,"[{' B': -1.8841804e-07, ' D': -15.688675, ' C': -16.871735, ' A': -16.944847, ' E': -20.24472}]", B
+262,"FACT: a beach ball contains gas
+Q: Which would you likely find inside a beach ball?
+A: cheese
+B: steam
+C: water
+D: air",D,"[{' D': -1.1430258e-06, ' A': -13.753494, ' E': -16.469406, ' B': -18.17463, ' C': -18.699104}]", D
+263,"FACT: evaporation means change from a liquid into a gas by adding heat energy
+Q: Water can turn to vapor
+A: when a pot of water is placed on an off stove burner
+B: when placing water in a freezer
+C: when boiling eggs on a stove top
+D: when placed in a room temperature setting",C,"[{' C': -0.0155855715, ' A': -4.2486024, ' D': -6.7561703, ' B': -10.985052, ' E': -17.202885}]", C
+264,"FACT: xylem carries water from the roots of a plant to the leaves of a plant
+Q: Xylem
+A: discourages pests from landing on leaves
+B: allows plants to move carbon dioxide from root to stems
+C: carries seedlings from roots to leaves
+D: allows plants to move rain thru their systems",D,"[{' C': -0.02850026, ' D': -3.59438, ' B': -7.3957257, ' A': -11.960796, ' E': -17.245861}]", C
+265,"FACT: plants are the source of fruit
+Q: if a student wants an orange, he would have to get it from which of these?
+A: from a live cow
+B: from a live plant
+C: from a volcano cave
+D: from a wild dog",B,"[{' B': -1.1430258e-06, ' D': -13.888794, ' A': -15.725463, ' C': -15.838516, ' E': -19.374619}]", B
+266,"FACT: herbivores only eat plants
+Q: An animal that only eats plants is a
+A: rat
+B: moth
+C: chimpanzee
+D: pig",B,"[{' D': -0.002184111, ' A': -6.1421757, ' B': -11.187639, ' C': -11.50641, ' E': -11.790919}]", D
+267,"FACT: a frog eats insects
+Q: What constitutes a frog's diet?
+A: it eats all plants
+B: it will eat dogs
+C: it only eats burgers
+D: it chomps on insects",D,"[{' D': -4.277735e-07, ' A': -15.559952, ' C': -15.735962, ' E': -16.553635, ' B': -16.66362}]", D
+268,"FACT: planting trees has a positive impact on an ecosystem
+Q: transplanting seedling oaks has a positive impact on
+A: fuel costs
+B: the economy
+C: housing value
+D: the environment",D,"[{' D': -1.8841804e-07, ' A': -15.784729, ' C': -16.251144, ' E': -17.133415, ' B': -18.579445}]", D
+269,"FACT: an equinox occurs twice per year
+Q: A person has a chance to experience an equinox
+A: weekly
+B: monthly
+C: annually
+D: biannually",D,"[{' D': -1.1398727e-05, ' C': -11.437433, ' B': -14.675882, ' E': -16.349726, ' A': -17.270052}]", D
+270,"FACT: calculating speed requires knowing distance travelled
+Q: to find out how fast you are going you first need to know
+A: where you're going
+B: distance traveled
+C: distance to travel
+D: home location",B,"[{' B': -4.277735e-07, ' A': -15.166298, ' D': -15.66346, ' C': -16.227592, ' E': -19.452698}]", B
+271,"FACT: pouring water onto soil causes that soil to wash away
+Q: A man's child runs through the yard in the sprinklers, getting mud all over their feet. The child then runs around on the porch, tracking mud everywhere. While the mud is still wet, the man decides to clean off the porch by
+A: getting a new child
+B: yelling at the mud
+C: asking the child to stop
+D: turning on the hose",D,"[{' C': -0.40264133, ' D': -1.1043321, ' B': -11.564095, ' A': -12.199897, ' E': -13.332632}]", C
+272,"FACT: sweat is used for adjusting to hot temperatures by some animals
+Q: Some animals use a liquid coming from their skin to adjust to
+A: cold
+B: water
+C: heat
+D: humidity",C,"[{' C': -1.2622395e-06, ' A': -13.732363, ' D': -15.664817, ' B': -16.026466, ' E': -20.848085}]", C
+273,"FACT: acid can cause chemical change
+Q: Acid can be used to make a new
+A: light
+B: substance
+C: electricity
+D: sound",B,"[{' B': -3.076318e-07, ' D': -15.493019, ' A': -16.538551, ' C': -17.799606, ' E': -21.120346}]", B
+274,"FACT: as heat increases , a flexible container containing gas will expand
+Q: A balloon is filled with helium for a party. After the party, the balloons are left in the living room, where a fireplace is heating the room. The balloons
+A: expand
+B: melt
+C: shrink
+D: fall",A,"[{' A': 0.0, ' E': -18.151115, ' B': -19.47815, ' D': -19.976501, ' C': -20.00913}]", A
+275,"FACT: a prism refracts light
+Q: Shining a light through a diamond can
+A: make a lot of bright lights shine
+B: summon a brilliant wave of color
+C: heat up a room
+D: make a lot of money",B,"[{' B': -4.6010214e-06, ' D': -12.54153, ' C': -14.173251, ' A': -14.870587, ' E': -18.716183}]", B
+276,"FACT: camouflage is a kind of protection against predators
+Q: A stick bug uses what to protect itself from predators?
+A: poison
+B: its appearance
+C: speed
+D: hearing",B,"[{' B': -1.022884e-06, ' A': -14.55033, ' D': -14.913894, ' C': -15.490234, ' E': -19.177704}]", B
+277,"FACT: medicine can cause people to have bad reactions
+Q: Medicine is used to cure but can cause people to have allergic reactions such as
+A: spider bites
+B: vomiting
+C: placebo effect
+D: dance fever",B,"[{' B': -3.076318e-07, ' D': -15.087463, ' C': -16.055565, ' A': -17.026505, ' E': -20.714348}]", B
+278,"FACT: offshore oil platforms might cause oil to leak into the water
+Q: One of the negative consequences of offshore oil platforms is
+A: evaporation of the surrounding water
+B: discharge of liquid petroleum in the surrounding sea
+C: improvement in the conditions of sea life
+D: increase in the birthrate of sea birds",B,"[{' B': -7.1062755e-06, ' D': -11.890708, ' C': -15.691084, ' A': -15.743238, ' E': -18.623365}]", B
+279,"FACT: if an animal eats another animal then that animal is a carnivore or omnivore or predator
+Q: A shark will be unable to survive on eating algae and moss, because
+A: it is a predator
+B: it is a vegetarian
+C: it is a freshwater fish
+D: it is a producer",A,"[{' A': -4.277735e-07, ' D': -14.859839, ' B': -16.38163, ' C': -17.586609, ' E': -18.084274}]", A
+280,"FACT: organisms live in their habitat
+Q: A tree is not the habitat of a
+A: squirrel
+B: woodpecker
+C: monkey
+D: lion",D,"[{' B': -0.009373972, ' A': -4.6745124, ' D': -15.788425, ' C': -16.299068, ' E': -17.996807}]", B
+281,"FACT: a plants require water for to grow
+Q: What is the formula of the substance which best helps plants grow
+A: NH4
+B: C4H4
+C: CO2
+D: H2O",D,"[{' D': -6.827632e-08, ' A': -16.066978, ' E': -16.810043, ' B': -17.55407, ' C': -17.669678}]", D
+282,"FACT: aquatic animals live in bodies of water
+Q: the  oceans are full of
+A: water lilies
+B: guppies
+C: sea life
+D: fresh water",C,"[{' C': -4.721163e-06, ' D': -12.331073, ' B': -15.377177, ' A': -16.568401, ' E': -19.846416}]", C
+283,"FACT: water is an electrical conductor
+Q: An example of water being an electrical conductor would be what?
+A: lightening hitting water and organisms inside dying
+B: standing in a puddle and avoiding being struck by lightening
+C: standing in a field and getting struck by lightening
+D: grabbing a fence and being shocked",A,"[{' B': -0.80580956, ' D': -1.2947164, ' A': -1.2970053, ' C': -5.1246037, ' E': -14.207465}]", B
+284,"FACT: musical instruments make sound when they are played
+Q: Members of rock bands often perform with
+A: flutes
+B: sandals
+C: earplugs
+D: gloves",C,"[{' B': -0.759759, ' C': -0.77033335, ' D': -3.0798426, ' A': -3.755242, ' E': -13.916833}]", B
+285,"FACT: landfills have a negative impact on the communities
+Q: Building new areas to dispose of refuse may lead to
+A: community concerns over environmental impact
+B: better air and soil quality
+C: higher value on land parcels
+D: improvement in water supply",A,"[{' A': -0.0044849543, ' B': -5.4093003, ' D': -16.06671, ' C': -16.653433, ' E': -19.488348}]", A
+286,"FACT: squirrels gather nuts in the autumn to eat during the winter
+Q: Squirrels spend their fall
+A: looking for pretty leaves to collect
+B: stockpiling rocks for fighting in the winter
+C: stockpiling pecans for the frigid months
+D: collecting twigs to keep warm",C,"[{' C': -2.693682e-06, ' D': -12.901347, ' B': -15.672587, ' A': -15.78541, ' E': -18.533344}]", C
+287,"FACT: if the population of an organism increases then the ecosystem may become overpopulated with that organism
+Q: Overpopulation can cause
+A: More fresh water for people to drink
+B: Lower Life Expectancy in Countries
+C: More food for more people
+D: More space for places to people to live",B,"[{' B': -0.003187689, ' D': -5.7560863, ' C': -10.924765, ' A': -13.674369, ' E': -17.051764}]", B
+288,"FACT: arctic animals live in an arctic environment
+Q: Seals are most likely to be found in what type of environment?
+A: desert
+B: arctic
+C: Mediterranean
+D: tropical",B,"[{' B': -1.8841804e-07, ' D': -15.895743, ' A': -16.166428, ' C': -16.302559, ' E': -19.710205}]", B
+289,"FACT: decomposition is when a decomposer recycles nutrients from dead organisms to the soil by eating those dead organisms
+Q: when worms return nutrients from dead organisms to the soil by eating them it is known as
+A: regurgitation
+B: decomposition
+C: recycling
+D: burial",B,"[{' B': -4.277735e-07, ' D': -14.804268, ' C': -17.113007, ' A': -17.330452, ' E': -19.661797}]", B
+290,"FACT: if a hot substance is touches a cold object then that substance will likely cool
+Q: Bill's arm got cold when he put it inside the
+A: refrigerator
+B: room
+C: jacket
+D: oven",A,"[{' A': -5.037998e-05, ' B': -10.197666, ' C': -11.276211, ' D': -14.443929, ' E': -18.928076}]", A
+291,"FACT: Matter in the liquid phase has variable shape
+Q: if you put wine from a jug into a thin bottle, how come it conforms?
+A: it exhibits absolute rigidity
+B: it is a solid mass
+C: all of these
+D: it is a variable substance",D,"[{' D': -2.9311614e-06, ' A': -13.309397, ' C': -13.778567, ' B': -15.525995, ' E': -17.902689}]", D
+292,"FACT: sunlight produces heat
+Q: An ice cube placed in sunlight will
+A: shrink
+B: change color
+C: grow
+D: freeze",A,"[{' A': -0.001135588, ' D': -6.78256, ' B': -13.869414, ' C': -14.321515, ' E': -16.258879}]", A
+293,"FACT: a consumer can not produce its own food
+Q: A deer is eating in a field, and wants more food. Regardless of how hard the deer tries, the deer is unable to produce
+A: longer antlers
+B: food for itself
+C: baby deer
+D: urine",B,"[{' B': -6.6294406e-06, ' D': -11.927671, ' C': -16.347288, ' A': -16.730278, ' E': -19.500929}]", B
+294,"FACT: a cactus stem is used for storing water
+Q: A cactus stem is used to store
+A: fruit
+B: liquid
+C: food
+D: spines",B,"[{' B': -3.076318e-07, ' D': -15.50296, ' A': -16.603912, ' C': -17.28669, ' E': -20.735176}]", B
+295,"FACT: an landfill is a source of pollution
+Q: which of these people would have the worst air quality at their residence?
+A: a man who lives next to a landfill
+B: a man who lives in a city with the best air quality
+C: none of these
+D: a man who lives in a great suburb",A,"[{' A': -6.827632e-08, ' C': -16.501617, ' B': -16.981781, ' D': -17.871017, ' E': -19.954384}]", A
+296,"FACT: each of the moon 's phases usually occurs once per month
+Q: In general, how many times per month is there a full moon?
+A: twice
+B: three times
+C: once
+D: four times",C,"[{' C': -4.9586424e-06, ' A': -12.662136, ' D': -13.6341505, ' B': -14.4503975, ' E': -17.730404}]", C
+297,"FACT: as the use of a resource decreases , the length of time that resource will be available increases
+Q: Conservation
+A: leads to longer drought of resources
+B: leads to longer availability of resources
+C: leads to more consumption
+D: leads to short supply of resources",B,"[{' B': -7.8540467e-07, ' D': -14.781425, ' A': -14.939514, ' C': -15.754546, ' E': -18.90181}]", B
+298,"FACT: nocturnal predators hunt during the night
+Q: Owls are likely to hunt at
+A: 3pm
+B: 2am
+C: 6pm
+D: 7am",B,"[{' B': -7.8540467e-07, ' D': -14.526198, ' A': -15.220107, ' C': -16.006874, ' E': -19.105598}]", B
+299,"FACT: cutting down trees in a forest causes the number of trees to decrease in that forest
+Q: Cutting down trees in a forest
+A: leads to more habitats for animals
+B: decreases the chance of erosion
+C: increases the number of trees in the forest
+D: leads to less habitats for animals",D,"[{' D': -1.9765537e-06, ' C': -13.332758, ' A': -15.074456, ' B': -15.610993, ' E': -17.654566}]", D
+300,"FACT: the first quarter phase of the moon occurs after the new moon
+Q: When does the first quarter phase of the moon occur?
+A: when you cannot see the moon in the sky at night
+B: after the first phase of the lunar month
+C: after a blue moon
+D: during the full moon",B,"[{' B': -1.022884e-06, ' D': -13.995377, ' A': -15.276703, ' C': -16.645653, ' E': -19.236832}]", B
+301,"FACT: if a new predator begins eating prey then the population of that prey will decrease
+Q: If a new species of predator joins a community
+A: the new species will become herbivores
+B: prey will experience an increase in population
+C: prey will experience a drop in population
+D: the old species will die out",C,"[{' C': -2.5744682e-06, ' D': -12.934846, ' B': -15.915773, ' A': -16.452868, ' E': -19.572824}]", C
+302,"FACT: special tissues in plants transport minerals throughout the plant
+Q: The special tissues in plants that transport minerals throughout the plant are similar to
+A: a wick
+B: a funnel
+C: a knife
+D: a whisk",A,"[{' A': -0.022490311, ' D': -4.356688, ' B': -4.7141104, ' C': -7.7063127, ' E': -14.152189}]", A
+303,"FACT: if liquid is boiling then that liquid is hot
+Q: A person is heating water in order to cook pasta. He spills the pot of water on his leg and finds that the water
+A: scalds
+B: cools
+C: toasts
+D: freezes",A,"[{' A': -6.827632e-08, ' B': -16.320984, ' C': -18.06865, ' D': -18.56453, ' E': -19.135246}]", A
+304,"FACT: bees convert nectar into honey
+Q: Nectar is taken to
+A: flowers
+B: a hive
+C: a stream
+D: a nest",B,"[{' B': -3.076318e-07, ' D': -15.17984, ' A': -16.134819, ' C': -17.25061, ' E': -20.313019}]", B
+305,"FACT: drought may cause wildfires
+Q: The chance of wildfires is increased by
+A: parched foliage
+B: torrential rain
+C: lush foliage
+D: careful fire maintenance",A,"[{' A': -2.8138238e-06, ' D': -12.977884, ' C': -14.641215, ' B': -15.860591, ' E': -19.325876}]", A
+306,"FACT: a seed is used for storing food for a new plant
+Q: A farmer harvests seeds from some plants, such as tomatoes, in order to plant them later on. These seeds, once planted
+A: have their own dirt
+B: have their own sunlight
+C: have a lot of sand
+D: contain their necessary nutrition",D,"[{' D': -2.462996e-05, ' B': -11.204789, ' A': -11.742692, ' C': -12.674729, ' E': -17.239197}]", D
+307,"FACT: An example of combining two substances is pouring one substance into the other substance
+Q: A teacher wants to show how to combine two substances together. The two things that he can use in order to mix them completely are
+A: water and soda
+B: water and oil
+C: sand and rocks
+D: salt and bark",A,"[{' B': -0.00040224646, ' A': -7.8232393, ' D': -13.628546, ' C': -14.177671, ' E': -18.18405}]", B
+308,"FACT: seconds are used to measure time
+Q: A measurement of time that is less than a minute is a
+A: day
+B: minute
+C: hour
+D: second",D,"[{' D': -4.277735e-07, ' A': -15.214691, ' E': -15.41053, ' C': -17.2723, ' B': -18.037598}]", D
+309,"FACT: some rabbits live in forests
+Q: where might a bunny live?
+A: a thicket
+B: atop palm trees
+C: a sewer system
+D: a deserted island",A,"[{' A': -0.0010459629, ' B': -7.0182195, ' C': -8.95929, ' D': -10.800164, ' E': -13.668405}]", A
+310,"FACT: rabbits eat plants
+Q: A rabbit may enjoy
+A: meat
+B: compost
+C: peas
+D: pebbles",C,"[{' C': -6.6619094e-07, ' D': -14.62999, ' A': -15.898772, ' B': -16.00621, ' E': -21.176552}]", C
+311,"FACT: tearing an object changes that object 's shape
+Q: when a circle is torn it is
+A: doubled
+B: changed
+C: a smaller circle
+D: a square",B,"[{' B': -2.2159093e-06, ' C': -13.747491, ' D': -13.816613, ' A': -15.449243, ' E': -19.199724}]", B
+312,"FACT: the ocean contains large amounts of salt water
+Q: A Mola Mola might live where?
+A: Lake Michigan
+B: The Mississippi River
+C: Bay of Bengal
+D: Lake Eerie",C,"[{' D': -0.5790188, ' C': -0.82932395, ' A': -5.86979, ' B': -7.86889, ' E': -13.1037}]", D
+313,"FACT: a closed circuit has continuous path
+Q: In order for your computer to operate, it must have an electrical path that is what?
+A: magical
+B: closed
+C: broken
+D: open",B,"[{' B': -1.8841804e-07, ' D': -15.5377655, ' A': -16.348198, ' C': -17.047356, ' E': -19.763176}]", B
+314,"FACT: plant requires seed dispersal for reproduction
+Q: Birds carrying away fruit helps the tree
+A: grow
+B: fertilize
+C: reproduce
+D: conquer",C,"[{' C': -0.0028963499, ' D': -6.0262265, ' A': -7.6808896, ' B': -11.036588, ' E': -18.563046}]", C
+315,"FACT: as the amount of rainfall increases in an area , the amount of available water in that area will increase
+Q: What will be more available in an area when rainfall increases?
+A: fire
+B: air
+C: dirt
+D: H2O",D,"[{' D': -5.460492e-07, ' A': -14.710312, ' E': -15.863654, ' C': -16.338127, ' B': -16.767517}]", D
+316,"FACT: a flashlight requires a source of electricity to produce light
+Q: A flashlight will need this in order to radiate photons:
+A: radiation
+B: acoustic energy
+C: vibrations
+D: electron flow",D,"[{' D': -6.6619094e-07, ' A': -14.951835, ' E': -15.285599, ' C': -15.684837, ' B': -18.37387}]", D
+317,"FACT: In the food chain process an animal has the role of consumer which eats producers for food
+Q: If a grizzly bear eats a salmon, what is the grizzly bear demonstrating?
+A: consumption
+B: cinematography
+C: direction
+D: production",A,"[{' A': 0.0, ' C': -18.107613, ' D': -18.179617, ' B': -19.34194, ' E': -19.354376}]", A
+318,"FACT: seeing is used for sensing visual things
+Q: What is used for sensing visual things?
+A: nerves
+B: tibia
+C: nostril
+D: cornea",D,"[{' D': -5.79217e-06, ' A': -12.103109, ' E': -15.663121, ' C': -15.906232, ' B': -18.075476}]", D
+319,"FACT: metal is a thermal conductor
+Q: The aluminum cans were much hotter than the
+A: gold jewelry
+B: wooden fence
+C: brass doorknob
+D: steel pole",B,"[{' C': -0.0028728554, ' D': -5.8640785, ' A': -10.629384, ' B': -12.2446165, ' E': -17.976337}]", C
+320,"FACT: carbohydrates are made of sugars
+Q: Carbohydrates are made of sugar, which means that a diabetic would need to exhibit care in consuming
+A: broccoli
+B: meat
+C: celery
+D: toast",D,"[{' D': -0.0005467358, ' C': -7.637853, ' A': -9.666982, ' B': -13.603039, ' E': -15.477406}]", D
+321,"FACT: eyes are used for seeing by animals by sensing light
+Q: The viewing oriented sensor of a prairie creature are for what?
+A: reproductive purposes
+B: viewing sounds
+C: sensing views
+D: sensing tastes",C,"[{' C': -4.680184e-05, ' D': -10.083733, ' A': -12.401619, ' B': -13.919807, ' E': -15.88784}]", C
+322,"FACT: if an object is hot then the surfaces of that object are hot
+Q: if a pot on the stove is described as hot, what does this mean?
+A: the body of the pot is of high temperature
+B: the body of the pot is cold
+C: all of these
+D: the body of the pot is wet",A,"[{' A': -6.827632e-08, ' D': -16.532013, ' B': -17.321648, ' C': -17.390358, ' E': -20.761673}]", A
+323,"FACT: a plant requires soil for to grow
+Q: A plant will grow strong if it has
+A: love
+B: heat
+C: earth
+D: sand",C,"[{' C': -1.8841804e-07, ' A': -16.101936, ' D': -16.706657, ' B': -17.108948, ' E': -20.320602}]", C
+324,"FACT: freezing point means temperature at which a liquid freezes
+Q: if coffee sits in the fridge and loses its liquid form, what is that point known as?
+A: the freezing point
+B: the prime point
+C: the boiling point
+D: the melting point",A,"[{' A': -1.2708151e-05, ' D': -11.280965, ' E': -16.359821, ' B': -16.828693, ' C': -18.194248}]", A
+325,"FACT: the circulatory system carries oxygen from the digestive and respiratory systems to the rest of the body
+Q: what system is needed for a body to get its needed supply of the gas humans breathe in?
+A: the circulatory system
+B: the digestive system
+C: the school system
+D: central nervous system",A,"[{' A': 0.0, ' B': -16.725998, ' C': -18.399696, ' E': -19.42733, ' D': -19.915825}]", A
+326,"FACT: eating food is used to get nutrients by living things
+Q: A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is
+A: breaks for birds on the road
+B: given a large breakfast
+C: eats a few corn cobs
+D: given two apples to watch",B,"[{' B': -1.2622395e-06, ' D': -13.66716, ' C': -16.296722, ' A': -16.303362, ' E': -18.415712}]", B
+327,"FACT: octopuses releasing ink into the water causes predators to have difficulty seeing the octopus
+Q: What animal is more difficult for predators to see in water?
+A: a fish
+B: a duck
+C: an octopus
+D: a crab",C,"[{' C': -2.3360508e-06, ' A': -13.183939, ' D': -15.069918, ' B': -15.562837, ' E': -19.305008}]", C
+328,"FACT: some humans live in houses
+Q: Which of these is a place where a human might live?
+A: igloo
+B: cloud
+C: Mars
+D: the Moon",A,"[{' A': -0.00015946814, ' B': -9.130492, ' D': -9.906211, ' C': -14.069632, ' E': -14.569159}]", A
+329,"FACT: a star is a source of light through nuclear reactions
+Q: Nuclear activity is the cause of what celestial occurrence?
+A: axial planetary rotation
+B: comets
+C: planetary formation
+D: the sun's rays",D,"[{' D': -0.00016447584, ' C': -8.754475, ' A': -12.147129, ' B': -13.457569, ' E': -16.725056}]", D
+330,"FACT: adding heat to something kills viruses in that something
+Q: When heat is added to something
+A: contaminates may be destroyed
+B: bacterial can grow more rapidly
+C: viruses may be picked up
+D: the thing loses energy",A,"[{' D': -0.6229288, ' A': -0.7687571, ' B': -10.634563, ' C': -11.062115, ' E': -15.07493}]", D
+331,"FACT: a reflector is used to reflect light especially on vehicles
+Q: If I want to go running at night, what can I use as a reflector?
+A: A black shirt
+B: Kitchen foil
+C: Sunglasses
+D: A megaphone",B,"[{' B': -0.0005709483, ' D': -7.5438523, ' A': -10.10417, ' C': -14.454962, ' E': -19.030172}]", B
+332,"FACT: coal is used to produce electricity by burning in coal-fire power stations
+Q: Coal-fire power stations heat coal to incredible temps in order to
+A: produce energy
+B: use heat energy
+C: burn energy
+D: fuel the world",A,"[{' A': -4.277735e-07, ' B': -15.253692, ' C': -15.68428, ' D': -15.828201, ' E': -20.12539}]", A
+333,"FACT: the coloration of fur is an inherited characteristic
+Q: How can we see that the coloration of fur is an inherited characteristic?
+A: puppies have soft fur
+B: kittens look like their parents
+C: all mammals are born with fur
+D: baby rats are mostly bald",B,"[{' B': -1.1278585e-05, ' D': -11.447054, ' A': -14.6029005, ' C': -16.157167, ' E': -17.610682}]", B
+334,"FACT: runoff contains pesticides from cropland
+Q: In order for crops to grow food safely, pesticides are used on them. When it floods, this causes t he what to be poisonous?
+A: air
+B: Corn
+C: Runoff
+D: farmers",C,"[{' C': -1.022884e-06, ' D': -14.303635, ' A': -14.983574, ' B': -15.870009, ' E': -19.056168}]", C
+335,"FACT: friction is used for stopping a vehicle by brakes
+Q: which of these would stop a car quicker?
+A: a wheel with wet brake pads
+B: a wheel without brake pads
+C: a wheel with worn brake pads
+D: a wheel with dry brake pads",D,"[{' D': -7.708367e-05, ' A': -9.52565, ' C': -12.767952, ' B': -13.534576, ' E': -17.69777}]", D
+336,"FACT: if battery in an electromagnet is active then the nail in the electromagnet will become magnetic
+Q: If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet?
+A: it loses its magnetization
+B: it loses its charge
+C: it may become magnetized
+D: it gains a charge",C,"[{' C': -1.8841804e-07, ' D': -15.895729, ' A': -16.535019, ' B': -17.05291, ' E': -19.816483}]", C
+337,"FACT: all cells perform cellular respiration
+Q: all cells use cellular respiration to
+A: photosynthesize
+B: release waste
+C: perform meiosis
+D: release energy",B,"[{' D': -1.8601542e-06, ' B': -13.20279, ' C': -16.563341, ' A': -16.939873, ' E': -18.272728}]", D
+338,"FACT: sound can travel through air
+Q: Which of these travels through the air?
+A: planets
+B: thoughts
+C: automobile
+D: music",D,"[{' D': -1.022884e-06, ' A': -14.318558, ' C': -15.151008, ' E': -15.812248, ' B': -16.027893}]", D
+339,"FACT: high means great in altitude
+Q: How could we determine approximately how far a bird is from the ground?
+A: Measure the altitude of the bird using a reference point, such as a tall building.
+B: Identify the species of bird
+C: Ask the bird how high it was when it returns back to earth
+D: Measure the bird's mass",A,"[{' A': -6.827632e-08, ' B': -15.687644, ' C': -16.91861, ' D': -17.786583, ' E': -19.81546}]", A
+340,"FACT: wind causes erosion
+Q: Wind can cause
+A: leaves to remain on branches
+B: trees to stand perfectly still
+C: dunes at the beach to be depleted
+D: still waters on the ocean",C,"[{' C': -0.0008072649, ' D': -7.122999, ' B': -14.730864, ' A': -15.21922, ' E': -18.453283}]", C
+341,"FACT: water is in the gas state , called water vapor , for temperatures between 100 and 100000000000 F
+Q: A pot of pasta is boiling on the stove, and the lid on top of the pot is shaking as the water boils more rapidly. A person goes to the stove and removes the pot, releasing steam into the air above, and so the steam is
+A: cold air
+B: water vapor
+C: very dry
+D: boiling water",B,"[{' B': -9.055464e-07, ' D': -14.249054, ' A': -15.518486, ' C': -15.619629, ' E': -17.621841}]", B
+342,"FACT: if an object undergoes chemical change then that object will have new chemical properties
+Q: A glass of water can undergo a chemical change by adding
+A: a cup of salt
+B: a cup of dirt
+C: a cup of water
+D: a cup of ice",A,"[{' B': -0.2969807, ' A': -1.3676825, ' D': -6.203383, ' C': -8.411017, ' E': -15.737066}]", B
+343,"FACT: as force exerted on an object increases , distance travelled will increase
+Q: The force exerted on an object and distance traveled have what kind of relationship?
+A: reverse
+B: inverse
+C: equal
+D: direct",D,"[{' D': -2.1171965e-05, ' B': -10.90106, ' A': -13.100103, ' C': -14.124968, ' E': -16.986723}]", D
+344,"FACT: the heart is mostly made of muscle
+Q: A person is considering various organs, and is looking at which ones will be most muscular. A contender for most muscular is
+A: the lungs
+B: the kidney
+C: the heart
+D: the liver",C,"[{' C': -1.1430258e-06, ' D': -14.261414, ' A': -14.544846, ' B': -17.128548, ' E': -18.009209}]", C
+345,"FACT: a stinger is used for defense by a wasp
+Q: Creatures sometimes have barbs on their backs that they use to sting, all of these do, outside of the
+A: wasp
+B: bee
+C: scorpion
+D: butterfly",D,"[{' A': -9.4729374e-05, ' B': -9.264972, ' C': -16.50046, ' E': -18.71947, ' D': -18.740648}]", A
+346,"FACT: earthworms create tunnels in soil
+Q: Earthworms create tunnels in
+A: ice
+B: dirt
+C: water
+D: concrete",B,"[{' B': -1.8841804e-07, ' D': -15.903266, ' A': -16.030304, ' C': -18.349403, ' E': -21.658203}]", B
+347,"FACT: muscles pull bones to move the bones
+Q: Muscles move bones to produce movement like when
+A: arms are resting
+B: hair is growing
+C: smiles are invisible
+D: toes are wiggled",D,"[{' D': -1.402038e-05, ' A': -11.517164, ' C': -12.465742, ' B': -15.374174, ' E': -19.523624}]", D
+348,"FACT: landslides often occur on mountains
+Q: There is a heightened threat of landslide in
+A: the desert
+B: The Andes
+C: the ocean
+D: Indiana",B,"[{' B': -2.4152187e-05, ' D': -10.695672, ' C': -13.598512, ' A': -15.071114, ' E': -19.715418}]", B
+349,"FACT: one year is equal to 365 days
+Q: How many times would someone change the page of a calendar in a year?
+A: 13
+B: 12
+C: 15
+D: 14",B,"[{' B': -0.0044059237, ' D': -5.4275703, ' A': -13.135837, ' C': -14.446437, ' E': -18.141771}]", B
+350,"FACT: kilometers km are a unit used for measuring distance generally used for values between 1 and 50000000
+Q: the dashboard reading in a jaguar would likely be set to which of these?
+A: set to calories
+B: set to volume
+C: set to kilometers
+D: set to width",C,"[{' C': -1.1430258e-06, ' D': -14.231392, ' A': -14.584496, ' B': -16.633522, ' E': -18.301537}]", C
+351,"FACT: heavy rains cause flooding
+Q: if a place has experienced flooding, what could be responsible?
+A: all of these
+B: there has been excess condensed water vapor
+C: the water lacks oxygen
+D: the local deities are angry",B,"[{' B': -0.08044086, ' A': -2.5602078, ' D': -13.17831, ' C': -16.922901, ' E': -18.432835}]", B
+352,"FACT: An example of evaporation is a body of water drying up by absorbing heat energy
+Q: A small creek absorbing heat energy can result in
+A: the creek water getting colder
+B: a parched creek bed
+C: tributaries branching off from the creek
+D: a runoff of extra water",B,"[{' B': -7.088388e-05, ' D': -9.560549, ' A': -14.963731, ' C': -16.027803, ' E': -18.277735}]", B
+353,"FACT: an ecosystem contains large numbers of living organisms in a particular place
+Q: a large cluster of humans, dogs, apple trees, atmosphere and more can be called
+A: army of ants
+B: a community
+C: a toy store
+D: a shopping mall",B,"[{' B': -9.055464e-07, ' D': -14.206329, ' A': -15.494377, ' C': -17.017784, ' E': -17.498032}]", B
+354,"FACT: a seed is used for storing food for a new plant
+Q: Seeds provide new plants with
+A: life sustaining elements
+B: essentials for photosynthesis
+C: water and hydrogen
+D: storage for roots",A,"[{' B': -4.883026e-05, ' A': -10.351466, ' D': -11.076433, ' C': -13.516276, ' E': -16.45831}]", B
+355,"FACT: electromagnets can be powered by electricity
+Q: Someone wants their electromagnets to work, but is having difficulty powering them. In order to make them work, they need to
+A: run wire through currants
+B: run a continuous current
+C: run around the wire
+D: currently run wire through",B,"[{' B': -2.4543265e-06, ' D': -13.299967, ' A': -14.423768, ' C': -15.196932, ' E': -19.912897}]", B
+356,"FACT: a plant requires a specific climate to grow and survive
+Q: A plant needs a specific climate to grow and
+A: wither
+B: persist
+C: die
+D: decay",B,"[{' B': -6.827632e-08, ' D': -16.66478, ' A': -16.877205, ' C': -17.664185, ' E': -20.244232}]", B
+357,"FACT: fossils are formed when layers of sediment cover the remains of organisms over time
+Q: What could have covered an organism in order to create a trilobite?
+A: Grass
+B: Water
+C: Snow
+D: Sand",D,"[{' D': -1.7400124e-06, ' B': -13.6251, ' A': -14.587472, ' C': -15.705201, ' E': -17.382708}]", D
+358,"FACT: an incandescent light bulb converts electricity into light by sending electricity through a filament
+Q: An incandescent bulb's filament produces similar light as an LED bulb, but more
+A: white light
+B: conversion
+C: heat
+D: sound",C,"[{' C': -0.048359964, ' A': -3.3017013, ' B': -4.568021, ' D': -11.495769, ' E': -15.2500725}]", C
+359,"FACT: a simple machine requires mechanical energy to function
+Q: A wedge requires
+A: electrical energy
+B: chemical energy
+C: mechanical energy
+D: heat energy",C,"[{' C': -1.5006569e-06, ' D': -13.476938, ' A': -16.191345, ' B': -17.075083, ' E': -19.455462}]", C
+360,"FACT: a closed circuit has continuous path
+Q: In a closed circuit, electricity will
+A: burn out
+B: charge itself
+C: loop endlessly
+D: resist flow",C,"[{' C': -5.912312e-06, ' D': -12.400777, ' B': -13.264401, ' A': -16.416372, ' E': -18.42076}]", C
+361,"FACT: aluminum is recyclable
+Q: The appropriate place to put this item is the recycling bin
+A: used motor oil
+B: used soda can
+C: used Styrofoam plates
+D: left over medicine",B,"[{' B': -2.0966954e-06, ' D': -13.087816, ' C': -16.059364, ' A': -16.678148, ' E': -18.737429}]", B
+362,"FACT: the Sun is the star that is closest to Earth
+Q: The Earth's closest heat source is
+A: our celestial fireball
+B: solar flares
+C: gamma rays
+D: big bang",A,"[{' B': -0.14069279, ' A': -2.0383368, ' D': -6.991423, ' C': -9.448295, ' E': -15.608817}]", B
+363,"FACT: a cactus stem is used for storing water
+Q: In the hottest months in the hottest desert, creatures such as birds may find water to drink
+A: in sticks
+B: in pebbles
+C: in sand
+D: in spiked plants",D,"[{' D': -1.022884e-06, ' C': -13.893867, ' A': -16.053535, ' B': -17.692513, ' E': -18.24868}]", D
+364,"FACT: a flower 's purpose is to produce seeds
+Q: The life work of a flower is to
+A: provide nice scents
+B: be successfully fertilized
+C: grow very tall
+D: look pretty",B,"[{' B': -0.33855477, ' D': -1.2476583, ' C': -10.66552, ' E': -14.795837, ' A': -15.7061}]", B
+365,"FACT: using less resources usually causes money to be saved
+Q: A person wants to start saving money so that they can afford a nice vacation at the end of the year. After looking over their budget and expenses, they decide the best way to save money is to
+A: make more phone calls
+B: quit eating lunch out
+C: buy less with monopoly money
+D: have lunch with friends",B,"[{' B': -1.022884e-06, ' A': -14.526344, ' D': -14.639801, ' C': -15.796418, ' E': -18.25293}]", B
+366,"FACT: seconds are used to measure time
+Q: A boy at school is waiting desperately for the school day to be over so that he can go home and play video games. He watches the time count down on the clock at the head of the class, counting the
+A: seconds
+B: days
+C: weeks
+D: years",A,"[{' A': 0.0, ' E': -17.858994, ' B': -18.39756, ' D': -19.97081, ' C': -20.606201}]", A
+367,"FACT: most canyons are formed by flowing rivers through erosion over long periods of time
+Q: The sides of the canyon are
+A: metal
+B: water
+C: rivers
+D: stone",D,"[{' D': -0.00017639951, ' C': -8.644532, ' A': -15.221199, ' B': -16.00138, ' E': -17.759209}]", D
+368,"FACT: a plant requires sunlight to grow
+Q: A plant left in the dark
+A: produces fruit
+B: grows faster
+C: fails to grow
+D: gets greener",C,"[{' C': -1.6999666e-05, ' D': -11.012063, ' B': -15.070877, ' A': -15.411285, ' E': -19.687294}]", C
+369,"FACT: fossils are formed when layers of sediment cover the remains of organisms over time
+Q: A lake environment is a good setup for what to happen to organic remains?
+A: bleaching
+B: burning
+C: fossilization
+D: drying",C,"[{' C': -1.1430258e-06, ' D': -13.986671, ' A': -14.8109665, ' B': -16.908768, ' E': -18.976585}]", C
+370,"FACT: friction acts to counter the motion of two objects when their surfaces are touching
+Q: When it's flying, a plane has no friction with the
+A: wings
+B: ground
+C: air
+D: clouds",B,"[{' C': -1.0800813e-05, ' A': -11.587246, ' B': -13.494884, ' D': -15.447169, ' E': -19.74442}]", C
+371,"FACT: plant cells can perform photosynthesis
+Q: Photosynthesis can be performed by
+A: a cabbage cell
+B: a bee cell
+C: a bear cell
+D: a cat cell",A,"[{' A': -0.004395929, ' D': -5.5507135, ' B': -7.604615, ' C': -12.574511, ' E': -16.720863}]", A
+372,"FACT: ethanol sometimes is made of corn
+Q: Corn is sometimes used to make
+A: a simple alcohol
+B: water
+C: glass
+D: milk",A,"[{' A': 0.0, ' B': -17.381645, ' C': -18.9628, ' D': -19.11248, ' E': -19.6781}]", A
+373,"FACT: seeing is used for sensing visual things
+Q: Eyes allow humans
+A: to detect when a traffic light changes
+B: detect sour flavors in candy
+C: hear music at concerts
+D: detect acrid odors in the air",A,"[{' B': -0.038972788, ' A': -3.2890944, ' C': -7.2886677, ' D': -8.284548, ' E': -17.45337}]", B
+374,"FACT: metal is an electrical energy conductor
+Q: Which object conducts electricity?
+A: Window
+B: Rubik's Cube
+C: Ship Anchor
+D: Boulder",C,"[{' A': -0.44873974, ' D': -1.9804779, ' C': -2.091791, ' B': -2.3017058, ' E': -11.428124}]", A
+375,"FACT: the skeletal system protects internal organs
+Q: The heart is an example of
+A: a part of the nervous system
+B: an organ that filters toxins
+C: a self-healing protector from germs
+D: something protected by the skeletal system",D,"[{' D': -1.2622395e-06, ' A': -14.021088, ' B': -15.469856, ' C': -15.5244, ' E': -15.672507}]", D
+376,"FACT: sometimes weathering smooths rocks
+Q: Over a period of time the weather can change
+A: The color of my hair
+B: The way I walk
+C: The size of a statue
+D: The sound a computer makes",C,"[{' D': -0.23399675, ' C': -1.6022446, ' A': -5.028835, ' B': -7.4269967, ' E': -9.896686}]", D
+377,"FACT: Earth is made of rock
+Q: Earth's four layers are comprised mainly of
+A: stone
+B: bacteria
+C: water
+D: air",A,"[{' A': 0.0, ' B': -17.383759, ' D': -17.854452, ' C': -18.16673, ' E': -19.195648}]", A
+378,"FACT: a reptile is cold-blooded
+Q: Cold-blooded animals are often
+A: fast
+B: large
+C: hairless
+D: slow",C,"[{' D': -1.022884e-06, ' A': -14.077675, ' C': -15.132507, ' B': -17.940193, ' E': -19.15596}]", D
+379,"FACT: carnivores are predators
+Q: Carnivores
+A: eat foliage and vegetables exclusively
+B: are the bottom of the food chain
+C: require prey to survive
+D: require carbon dioxide to survive",C,"[{' C': -1.022884e-06, ' B': -14.429803, ' D': -14.950882, ' A': -15.110794, ' E': -18.612473}]", C
+380,"FACT: renewable resources can be used over again
+Q: A renewable resource is
+A: fossil fuel
+B: turbine produced electricity
+C: copper
+D: coal lumps",B,"[{' B': -1.1753544e-05, ' D': -11.4668455, ' C': -13.941653, ' A': -14.786311, ' E': -17.852253}]", B
+381,"FACT: wind carries dirt from one place to another place
+Q: Wind frequently helps transport from one place to another
+A: marble statues
+B: molten magma
+C: subterranean termites
+D: exposed topsoil",D,"[{' D': -1.5006569e-06, ' C': -13.792406, ' A': -14.856256, ' B': -16.141151, ' E': -17.724062}]", D
+382,"FACT: water vapor is found in the atmosphere
+Q: Where water be located in its gas form?
+A: inside a disc golf driver
+B: inside of a brass pipe
+C: a mile up in the sky
+D: inside a leather baseball",C,"[{' C': -2.3360508e-06, ' A': -13.652452, ' B': -14.290254, ' D': -14.372553, ' E': -18.278122}]", C
+383,"FACT: a bat births live young
+Q: if a bat delivers a live offspring, what does this tell us?
+A: it is a mammal
+B: calling it a bird is wrong
+C: all of these
+D: it is capable of reproducing",C,"[{' D': -1.163433e-05, ' A': -11.429279, ' B': -14.120791, ' C': -16.605686, ' E': -18.886904}]", D
+384,"FACT: tuna eat fish
+Q: Tuna primarily eat
+A: parasites, soybeans and flaxseeds
+B: sea turtles, sharks and coral reefs
+C: spineless marine organisms, cartilaginous and gelatinous organisms
+D: sea vegetables like kelp, Irish moss and Arame",C,"[{' C': -2.5744682e-06, ' D': -13.120347, ' A': -14.747415, ' B': -15.329064, ' E': -19.291721}]", C
+385,"FACT: tapping two objects together causes the particles in those objects to vibrate
+Q: Tapping a drumstick to a drum will
+A: reverberate when touched together
+B: vibrate when next to each other
+C: shake around when near
+D: put each other down",A,"[{' B': -3.6482897e-06, ' D': -12.708346, ' A': -14.449138, ' C': -15.613596, ' E': -19.183687}]", B
+386,"FACT: the phases of the Moon change the appearance of the Moon
+Q: Moon phases
+A: change the moon into cheese
+B: alter the way the moon's facade looks
+C: change moon lakes into vapor
+D: cause lunar eclipse every day",B,"[{' B': -5.197998e-06, ' D': -12.204502, ' A': -15.323378, ' C': -16.439114, ' E': -18.171993}]", B
+387,"FACT: summer is when a hemisphere is tilted towards the sun
+Q: A hemisphere experiences summer when
+A: it's tilted towards Jupiter
+B: it's angled towards the moon
+C: it's angled towards the largest star in the solar system
+D: it spins counter clockwise on Earth's axis",C,"[{' C': -0.20564012, ' D': -1.6827595, ' A': -11.38213, ' B': -12.988308, ' E': -17.590565}]", C
+388,"FACT: xylem transports materials through the plant
+Q: Which of these is required for a plant to enjoy the product of a rain storm?
+A: xylem
+B: luck
+C: magic
+D: dirt",A,"[{' A': 0.0, ' B': -17.924551, ' D': -18.346304, ' C': -19.688047, ' E': -19.837044}]", A
+389,"FACT: tearing an object changes that object 's shape
+Q: To change an object's shape
+A: rip off a corner portion
+B: lay it flat on a table
+C: color the edges of it
+D: add a piece of tape to it",A,"[{' D': -0.00590495, ' A': -5.137031, ' C': -11.786652, ' B': -12.270905, ' E': -15.934997}]", D
+390,"FACT: cooking food requires adding heat energy
+Q: The inside of the Thanksgiving turkey is white instead of pink because of
+A: heat energy
+B: light energy
+C: color energy
+D: color transfusion",A,"[{' A': 0.0, ' D': -18.099106, ' B': -18.46282, ' C': -18.85141, ' E': -19.984655}]", A
+391,"FACT: the respiratory system transfers oxygen to the circulatory system
+Q: What does the respiratory system transfer to the circulatory system?
+A: food
+B: water
+C: nutrients
+D: O",D,"[{' D': -3.076318e-07, ' A': -14.9613495, ' C': -17.35579, ' B': -18.041573, ' E': -18.273567}]", D
+392,"FACT: the ocean contains large amounts of salt water
+Q: Which of the following contains large amounts of salt water?
+A: The Amazon
+B: The Nile
+C: The Indian
+D: The Mississippi",C,"[{' D': -0.30187455, ' A': -1.3458502, ' C': -8.557978, ' B': -9.845545, ' E': -12.02894}]", D
+393,"FACT: An electrical conductor is a vehicle for the flow of electricity
+Q: An electric car runs on electricity via
+A: gasoline
+B: a power station
+C: electrical conductors
+D: fuel",C,"[{' C': -7.698572e-06, ' D': -12.24462, ' B': -12.7729025, ' A': -16.160093, ' E': -19.272453}]", C
+394,"FACT: wind carries sand from one place to another place
+Q: How can we see how wind effects sand?
+A: sand is always moving
+B: sandstorms create ripples in sand
+C: sand is easy to move through
+D: beaches often have waves in the sand",B,"[{' B': -0.00016364138, ' D': -8.733546, ' A': -13.26887, ' C': -14.488955, ' E': -15.143557}]", B
+395,"FACT: Earth is made of rock
+Q: The reason Earth is so sturdy is because
+A: It is made from rock
+B: It eats three meals a day
+C: It has a loving family
+D: It is made from metal",A,"[{' A': -6.827632e-08, ' C': -16.794693, ' B': -16.87024, ' D': -17.981659, ' E': -19.912247}]", A
+396,"FACT: fossils are formed when layers of sediment cover the remains of organisms over time
+Q: Organisms covered by layers of sediment
+A: become fossils over night
+B: may end up reanimated over time
+C: develop characteristics for survival
+D: may end up fueling a car",D,"[{' A': -0.07515787, ' D': -2.6293495, ' B': -8.197228, ' C': -13.045563, ' E': -16.071716}]", A
+397,"FACT: phloem transports materials through the plant
+Q: Phloem moves things around a plant similar to how
+A: blood moves in a body
+B: leaves move in the wind
+C: water moves in a system
+D: cars move on a street",A,"[{' C': -0.0017846196, ' A': -7.2309327, ' B': -7.4989533, ' D': -7.589972, ' E': -17.699217}]", C
+398,"FACT: August is during the winter in the southern hemisphere
+Q: The eighth month of the year is winter in
+A: Brazil
+B: Indiana
+C: London
+D: Canada",A,"[{' A': -0.2783084, ' C': -2.008556, ' D': -2.3932986, ' B': -4.04977, ' E': -15.457591}]", A
+399,"FACT: thick feathers can be used for keeping warm
+Q: What can feathers on Spheniscidae be used for?
+A: keeping warm
+B: flying
+C: sleeping
+D: eating",A,"[{' A': -6.1516675e-06, ' B': -11.986127, ' C': -17.901472, ' D': -19.87309, ' E': -21.743856}]", A
+400,"FACT: if a substance absorbs solar energy then that substance will increase in temperature
+Q: What will increase when a substance absorbs solar energy?
+A: weight
+B: height
+C: hotness
+D: nutrition",C,"[{' C': -6.3900848e-06, ' A': -12.575239, ' D': -12.813909, ' B': -15.355398, ' E': -17.483648}]", C
+401,"FACT: eye color is an inherited characteristic
+Q: What is the best way to guess a babies eye color?
+A: The surroundings they are born in.
+B: Their parents usual diet.
+C: Just take a random guess.
+D: The genealogy records of their family.",D,"[{' D': -1.1430258e-06, ' A': -13.647041, ' E': -16.679245, ' C': -17.555145, ' B': -17.753716}]", D
+402,"FACT: a toaster converts electrical energy into heat energy for toasting
+Q: A toaster converts electrical energy into heat energy for toasting much like
+A: a campfire toasts bread
+B: a microwave heats soup
+C: a fire burns paper
+D: a small oven works",D,"[{' D': -0.2748022, ' C': -1.4543524, ' A': -5.2671804, ' B': -6.458083, ' E': -15.640899}]", D
+403,"FACT: when light hits a reflective object , that light bounces off that object
+Q: What kind of object does light bounce off of?
+A: tadpole
+B: any object
+C: item that reflects
+D: black hole",C,"[{' B': -0.0007492835, ' C': -7.1972213, ' D': -15.372544, ' A': -16.008041, ' E': -19.870697}]", B
+404,"FACT: snow falls during the winter in some environments
+Q: Snow is more likely to fall two months before
+A: June
+B: March
+C: September
+D: December",B,"[{' B': -2.200643e-05, ' D': -10.736136, ' A': -14.957006, ' C': -16.465315, ' E': -18.836233}]", B
+405,"FACT: a bird is warm-blooded
+Q: A dog is warm-blooded just like
+A: a snake
+B: a cardinal
+C: a spider
+D: a scorpion",B,"[{' B': -1.6207987e-06, ' D': -13.783029, ' A': -14.864428, ' C': -15.079278, ' E': -19.537546}]", B
+406,"FACT: a desert environment is dry
+Q: A desert environment is
+A: dry, grass covered, and humid
+B: lush, green, and tropical
+C: arid, parched, and sun-baked
+D: dry, damp, and lush",C,"[{' C': -0.007104584, ' D': -4.9521728, ' A': -11.394128, ' B': -15.398621, ' E': -18.624046}]", C
+407,"FACT: pollution is a source of pollutants
+Q: Which of these situations is an example of pollutants?
+A: plastic bags floating in the ocean
+B: mallard ducks floating on a lake
+C: cottonwood seeds floating in the air
+D: cirrus clouds floating in the sky",A,"[{' A': 0.0, ' C': -17.708601, ' B': -18.058378, ' D': -19.483467, ' E': -21.385124}]", A
+408,"FACT: musical instruments make sound when they are played
+Q: A sousaphone
+A: is ancient
+B: is a frog
+C: makes deep noises
+D: is a smartphone",C,"[{' C': -5.4364154e-06, ' D': -12.388411, ' A': -13.741765, ' B': -15.213819, ' E': -18.760715}]", C
+409,"FACT: runoff is when cropland water enters bodies of water
+Q: Runoff happens because of
+A: birds
+B: cattails
+C: people
+D: fish",C,"[{' C': -2.8087945e-05, ' B': -10.83434, ' A': -12.364499, ' D': -12.401242, ' E': -18.6863}]", C
+410,"FACT: adding salt to a solid decreases the freezing point of that solid
+Q: When ice buildup is on a sidewalk, the ice may be reduced by
+A: adding salt
+B: adding litter
+C: adding sand
+D: adding water",A,"[{' A': -6.827632e-08, ' B': -16.642715, ' C': -16.82872, ' D': -17.87265, ' E': -19.114273}]", A
+411,"FACT: gills are used for breathing water by aquatic animals
+Q: If you were attacked by a shark and had to punch it sharply where it pulls in air from, you'd use your hand to make contact with
+A: its snout
+B: its gills
+C: its nose
+D: its belly",B,"[{' B': -1.1430258e-06, ' A': -13.9969635, ' D': -15.133063, ' C': -15.897652, ' E': -18.548027}]", B
+412,"FACT: a predator eats other animals for food
+Q: Which animal is considered a predator?
+A: ant
+B: snake
+C: elephant
+D: giraffe",B,"[{' B': -6.6619094e-07, ' A': -14.356857, ' D': -15.873001, ' C': -17.100624, ' E': -19.91536}]", B
+413,"FACT: hibernation is an inherited behavior
+Q: Inherited behavior is exhibited when
+A: bears take a long winter sleep
+B: dogs sit on command
+C: seals clap for their trainers
+D: rats navigate thru a maze",A,"[{' A': -4.0040345e-06, ' D': -12.504566, ' B': -15.24638, ' C': -16.00095, ' E': -20.18417}]", A
+414,"FACT: burning a living thing usually causes harm to that living thing
+Q: Burning something that reproduces usually will:
+A: impair its well being in some way
+B: weed out weaker members of the species
+C: speed up its biological functions
+D: increase its population growth",A,"[{' A': -0.40410313, ' B': -1.1014146, ' D': -10.9194765, ' C': -12.012546, ' E': -16.237133}]", A
+415,"FACT: studying a soil sample means studying the microorganisms in that soil
+Q: When soil is viewed in a scientific way, what is seen and viewed is actually
+A: insects like big beetles
+B: tiny lifeforms in dirt
+C: small mammals living there
+D: a lot of tiny pebbles",B,"[{' B': -1.5006569e-06, ' D': -13.536195, ' C': -15.573052, ' A': -16.405052, ' E': -18.893417}]", B
+416,"FACT: ink is used for hiding from predators by octopuses
+Q: Cephalopod ink is by octopuses to
+A: mate
+B: feed
+C: hide
+D: play",C,"[{' C': -1.8841804e-07, ' D': -15.410645, ' A': -16.705711, ' B': -17.292229, ' E': -19.817795}]", C
+417,"FACT: if a leaf falls off of a tree then that leaf is dead
+Q: A fallen leaf
+A: will turn into a tree
+B: will become bright green
+C: will begin to recycle the nutrients that made up its structure
+D: is likely to continue to grow",C,"[{' C': -0.00022743117, ' D': -8.3897085, ' A': -15.911154, ' B': -16.187216, ' E': -19.250692}]", C
+418,"FACT: recyclable means a material can be recycled
+Q: A recyclable material can be
+A: transformed
+B: traded
+C: thrown away
+D: used more times",D,"[{' A': -0.16410013, ' D': -1.9087442, ' C': -6.4659495, ' B': -6.48841, ' E': -18.122267}]", A
+419,"FACT: creating paper requires cutting down trees
+Q: A company makes notebooks for college courses, so their main material is
+A: chips
+B: water
+C: grass
+D: trees",D,"[{' D': -6.6619094e-07, ' A': -14.482811, ' E': -16.005081, ' C': -16.973717, ' B': -17.818283}]", D
+420,"FACT: skills are learned characteristics
+Q: What type of characteristics are people not born with?
+A: genetics
+B: skills
+C: physical attributes
+D: height",B,"[{' B': -6.6619094e-07, ' D': -14.493584, ' A': -15.600296, ' C': -16.005585, ' E': -20.329414}]", B
+421,"FACT: cooking food requires adding heat energy
+Q: Roasting a turkey requires adding what type of energy
+A: Heat
+B: Kinetic
+C: Magnetic
+D: Chemical",A,"[{' A': 0.0, ' E': -18.275862, ' D': -19.323095, ' B': -19.51213, ' C': -21.077368}]", A
+422,"FACT: the moon is the celestial object that is closest to the Earth
+Q: which of these is the quickest to go visiting from our world?
+A: none of these
+B: a trip to mars
+C: a trip to the moon
+D: a trip to the northern star",C,"[{' C': -9.606849e-06, ' A': -12.209535, ' D': -12.488207, ' B': -13.996263, ' E': -18.246347}]", C
+423,"FACT: alloys are made of two or more metals
+Q: Which of these combinations would be desired if someone wanted to make a cutting implement that lasts a long time?
+A: ice and snow
+B: sticks and stones
+C: snow and water
+D: iron and carbon",D,"[{' D': -5.460492e-07, ' A': -15.00573, ' C': -15.852211, ' B': -16.535286, ' E': -17.041145}]", D
+424,"FACT: evaporation is when water is drawn back up into the air in the water cycle
+Q: Evaporation of water can lead to
+A: waterfalls
+B: blizzards
+C: earthquakes
+D: hot springs",B,"[{' B': -0.41780043, ' A': -1.1184306, ' D': -4.2222133, ' C': -9.950278, ' E': -14.796721}]", B
+425,"FACT: An example of playing a musical instrument is strumming a guitar string
+Q: What does someone do when creating music?
+A: hit a toy baseball with a bat
+B: shake a baby rattle with your hand
+C: bang the wall with your fist
+D: pluck the strings of a fingerboard with your fingers",D,"[{' D': -5.460492e-07, ' A': -14.986884, ' C': -15.569397, ' E': -15.694442, ' B': -16.84108}]", D
+426,"FACT: all minerals are formed by natural geological processes
+Q: If you wanted to make a necklace, how long would you have to wait for the materials to appear inside the Earth?
+A: millions of years
+B: 1 day
+C: 10 days
+D: 100 days",A,"[{' A': -0.05655795, ' B': -2.9010785, ' D': -10.954263, ' C': -11.934486, ' E': -14.94378}]", A
+427,"FACT: carbon steel is always magnetic
+Q: Carbon steel is always what?
+A: attractive to various objects that contain iron
+B: pleasant with a magnetic personality
+C: made up of iron and pieces of magnets
+D: hard as a magnetizing rod",A,"[{' D': -0.0020619598, ' A': -6.428682, ' C': -7.788378, ' B': -10.390497, ' E': -15.738908}]", D
+428,"FACT: plasma is formed by electrons separating from atoms in stars
+Q: what is the closest source of plasma to our planet?
+A: all of these
+B: the cloud in the sky
+C: the nearest star sulfur burning heavenly body
+D: the bare moon surface",C,"[{' C': -0.00041059483, ' A': -8.156065, ' D': -9.038824, ' B': -12.2478075, ' E': -15.856076}]", C
+429,"FACT: the Sun is the star that is closest to Earth
+Q: although there are many stars visible in the night sky, which is most visible in the day?
+A: the single moon close to us
+B: the orion star cluster
+C: the sun that shines all day
+D: all of these",C,"[{' C': -4.9586424e-06, ' D': -12.445569, ' A': -13.937588, ' B': -15.410877, ' E': -18.334202}]", C
+430,"FACT: An example of conservation is not using fossil fuel
+Q: An example of conservation is avoiding the use of
+A: gasoline
+B: air
+C: snow
+D: clothes",A,"[{' A': -7.8540467e-07, ' D': -14.189606, ' B': -15.848297, ' C': -16.84533, ' E': -18.69912}]", A
+431,"FACT: Matter in the solid phase has definite shape
+Q: In solid phase matter has a/an
+A: concrete configuration
+B: ambiguous form
+C: shapeless form
+D: radioactive glow",A,"[{' A': -4.144026e-05, ' D': -11.02917, ' B': -11.260623, ' C': -11.295641, ' E': -19.603846}]", A
+432,"FACT: rest has a positive impact on a health
+Q: To improve health, what is a good strategy?
+A: high risk lifestyle
+B: restaurant food
+C: business trip
+D: a spa trip",D,"[{' D': -0.21653421, ' A': -1.6383252, ' B': -8.097263, ' E': -10.017864, ' C': -10.106884}]", D
+433,"FACT: some animals live in zoo exhibits
+Q: Endangered pandas are sometimes
+A: accidentally dropped into volcanoes
+B: confined to enclosures to be viewed by the public
+C: found eating corn in the middle of North America
+D: made into delicious rare steaks",B,"[{' B': -1.7400124e-06, ' D': -13.656022, ' A': -14.975031, ' C': -15.224374, ' E': -18.97375}]", B
+434,"FACT: photosynthesis means green plants convert from carbon dioxide, water, and solar energy into oxygen for themselves
+Q: If photosynthesis was a recipe it would require these ingredients
+A: CO2, water, and argon
+B: sunlight, oxygen, and fertilizer
+C: CO2, H20, and cloudy skies
+D: CO2, H20, and sun rays",D,"[{' D': -0.033117652, ' B': -3.4269621, ' C': -9.409552, ' A': -11.761586, ' E': -16.339575}]", D
+435,"FACT: camouflage is used for hiding by animals from predators
+Q: Which animal is hiding from a predator?
+A: a tadpole losing its tail as it grows
+B: an angler fish using its Esca to lure another fish
+C: an octopus mimicking the color and texture of a rocky outcrop
+D: a great white shark breaching the water's surface",C,"[{' C': -7.8540467e-07, ' D': -14.429489, ' B': -15.844437, ' A': -15.85762, ' E': -20.123505}]", C
+436,"FACT: as number of organisms in a group increases , the chance of survival of each organism will increase
+Q: It's easier for human's to survive in:
+A: a cave
+B: the ocean.
+C: a town
+D: alone",C,"[{' C': -0.0011796867, ' B': -6.8348737, ' D': -9.377972, ' A': -10.880268, ' E': -17.917576}]", C
+437,"FACT: the lunar surface contains many craters
+Q: What explains the characteristic lunar formations?
+A: remains of ancient ponds
+B: many collisions that have occured
+C: volcanic explosions over millions of years
+D: sink holes due to the moons porous nature",B,"[{' B': -5.460492e-07, ' C': -14.758194, ' D': -16.072037, ' A': -16.293785, ' E': -19.087051}]", B
+438,"FACT: metal is sometimes magnetic
+Q: Atomic 26 is drawn to a device, it could be
+A: magnetized
+B: Na
+C: compass
+D: K",A,"[{' A': -5.4432137e-05, ' B': -10.20511, ' D': -10.962335, ' C': -15.728279, ' E': -18.223085}]", A
+439,"FACT: as the size of an object appears larger , that object will be seen more easily
+Q: The size of an object and the ability to see it more easily have what kind of relationship?
+A: equal
+B: inverse
+C: direct
+D: reverse",C,"[{' C': -1.1278585e-05, ' B': -11.530444, ' D': -13.902262, ' A': -14.38853, ' E': -19.93864}]", C
+440,"FACT: the summer solstice is on June 21st in the northern hemisphere
+Q: The summer solstice in the northern hemisphere is four months before
+A: May
+B: July
+C: April
+D: October",D,"[{' C': -0.0005456611, ' A': -7.517147, ' B': -13.21574, ' D': -15.802409, ' E': -19.66974}]", C
+441,"FACT: as the time a tool lasts increases , the number of tools discarded will decrease
+Q: Which of these saws will last longer?
+A: iron saw
+B: aluminium saw
+C: plastic saw
+D: wooden saw",A,"[{' D': -0.22283734, ' B': -1.871931, ' A': -3.1322308, ' C': -6.0752006, ' E': -11.59535}]", D
+442,"FACT: eating food that contains pesticides can have a negative impact on humans
+Q: Which of these foods might have a negative impact on humans?
+A: Organic corn
+B: Conventional corn
+C: Organic potato
+D: Organic Apples",B,"[{' B': -2.2159093e-06, ' A': -13.626458, ' D': -13.83172, ' C': -15.710694, ' E': -17.756578}]", B
+443,"FACT: a Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring
+Q: A tool used to identify the percent chance of a trait being passed down has at least
+A: four boxes
+B: eight boxes
+C: two boxes
+D: six boxes",A,"[{' A': -0.12849872, ' B': -2.115559, ' D': -11.2196455, ' C': -12.052951, ' E': -15.292224}]", A
+444,"FACT: coral lives in the ocean
+Q: A school trip is going to study the coral reef for a class. They want to see how strong coral is, and what species of life live in and around it. Therefore, the class
+A: takes a trip to the desert
+B: climbs a tall mountain
+C: travels to the seaside
+D: visits a remote jungle",C,"[{' C': -1.7400124e-06, ' D': -13.476357, ' A': -15.047128, ' B': -15.612223, ' E': -18.028831}]", C
+445,"FACT: a desert environment usually has a lot of sunlight
+Q: Are deserts characterized by high sunshine?
+A: they get low sunlight
+B: deserts get surplus sun
+C: deserts get little sun
+D: deserts are always cloudy",B,"[{' B': -1.2351458e-05, ' D': -11.3549385, ' C': -14.414188, ' A': -15.352352, ' E': -18.603832}]", B
+446,"FACT: the volume of an object can be used to describe the size of that object
+Q: It takes more water to fill a bathtub than a
+A: lake
+B: pool
+C: stomach
+D: holding tank",C,"[{' B': -0.0014203867, ' D': -6.6749883, ' A': -8.771348, ' C': -13.009049, ' E': -18.73452}]", B
+447,"FACT: cutting down trees in a forest causes the number of trees to decrease in that forest
+Q: What likely explains deforestation?
+A: Increased insect populations
+B: Clearing for farming
+C: reduction in rainfall
+D: More carbon dioxide",B,"[{' B': -1.2622395e-06, ' D': -13.770951, ' A': -15.620881, ' C': -17.569557, ' E': -19.722452}]", B
+448,"FACT: fog is formed by water vapor condensing in the air
+Q: There is most likely going to be fog around:
+A: a marsh
+B: a tundra
+C: the plains
+D: a desert",A,"[{' A': -7.8540467e-07, ' B': -14.282294, ' C': -15.3830185, ' D': -18.300766, ' E': -20.523697}]", A
+449,"FACT: a decrease in visibility while driving can cause people to crash their car
+Q: What can cause people to crash their car?
+A: Seeing a solar eclipse
+B: Using their turn signals
+C: Driving the speed limit
+D: Keeping their eyes on the road",A,"[{' D': -2.2958224e-05, ' A': -10.816284, ' B': -13.39627, ' C': -13.484359, ' E': -17.112389}]", D
+450,"FACT: seeing is used for sensing visual things
+Q: A person can see
+A: a radio recording
+B: an emotion
+C: a written message
+D: an abstract idea",C,"[{' D': -0.5951561, ' C': -0.8030113, ' A': -7.866884, ' B': -8.726732, ' E': -15.589265}]", D
+451,"FACT: an animal requires energy to move
+Q: Which requires energy to move?
+A: weasel
+B: willow
+C: mango
+D: poison ivy",A,"[{' A': -0.00011547263, ' B': -9.263619, ' D': -10.864739, ' C': -13.6545105, ' E': -14.935211}]", A
+452,"FACT: bears eat berries
+Q: Some berries may be eaten by
+A: a bear or person
+B: a bear or shark
+C: a bear or lion
+D: a bear or wolf",A,"[{' A': -0.0023864529, ' B': -6.5360246, ' D': -6.97801, ' C': -13.689993, ' E': -18.389921}]", A
+453,"FACT: a balance is used for measuring mass of an object
+Q: The balance result will be number of
+A: kilowatts
+B: kilobytes
+C: kilograms
+D: kilometers",C,"[{' C': -4.277735e-07, ' D': -15.438255, ' A': -15.511771, ' B': -16.37564, ' E': -18.882683}]", C
+454,"FACT: camouflage is used for hiding by animals against predators
+Q: Why might a polar bear grow white hair?
+A: look fancy
+B: random
+C: blend in
+D: stand out",C,"[{' C': -4.2433903e-06, ' D': -12.6037035, ' A': -14.173725, ' B': -15.227406, ' E': -17.717999}]", C
+455,"FACT: wind causes erosion
+Q: Wind can cause
+A: basements to flood due to weather
+B: small birds to kill large birds
+C: waterfalls to flow backwards
+D: stones to weather down to pebbles",D,"[{' D': -2.0966954e-06, ' C': -13.220864, ' A': -15.15243, ' B': -16.37703, ' E': -16.960533}]", D
+456,"FACT: hunting means humans kill animals in the wild
+Q: What is an example of hunting?
+A: humans throwing a spear through an animal
+B: humans chewing on boiled animal muscles
+C: humans gathering animals in a gate
+D: humans plucking fruit from a tree",A,"[{' A': -6.031526e-06, ' B': -12.181432, ' D': -14.095198, ' C': -15.511891, ' E': -19.333181}]", A
+457,"FACT: using tools is a learned characteristic
+Q: A learned behavior is exhibited when
+A: squinting in bright light
+B: inhaling and exhaling during sleep
+C: blinking and gulping air
+D: nailing up a picture frame",D,"[{' D': -0.001257805, ' C': -6.757033, ' B': -9.416555, ' A': -11.245894, ' E': -18.26457}]", D
+458,"FACT: plants are a source of biofuel
+Q: What could I use as biofuel
+A: Gold
+B: Car
+C: Diamonds
+D: Pine Needles",D,"[{' D': -2.693682e-06, ' B': -13.485034, ' A': -13.643908, ' C': -16.391817, ' E': -17.300508}]", D
+459,"FACT: birds with beaks of different shapes eat different foods
+Q: Beak shape can influence a bird's ability
+A: to give birth to live young
+B: to mate with it's partner
+C: to fly to warmer climates
+D: to chew up certain worms",D,"[{' D': -8.4157e-06, ' A': -12.1886215, ' C': -13.127732, ' B': -13.446938, ' E': -17.089737}]", D
+460,"FACT: tunnels in soil loosen that soil
+Q: loose soil can be caused by one of these
+A: a koala sitting on a tree
+B: none of these
+C: a worm burrowing through the earth
+D: a bird flying through the air",C,"[{' C': -9.055464e-07, ' B': -14.334335, ' D': -15.369362, ' A': -16.24311, ' E': -19.965721}]", C
+461,"FACT: panting is when an animal hangs its tongue out of its mouth to adjust to hot temperatures
+Q: An animal might pant
+A: on a sunny day
+B: during a rain storm
+C: when it is snowing
+D: during the night time",A,"[{' A': -1.8841804e-07, ' B': -15.6465225, ' D': -16.744133, ' C': -18.079086, ' E': -20.553589}]", A
+462,"FACT: skidding causes friction
+Q: When a kid slams on the brakes on their bike what is caused?
+A: bike helmet
+B: avoiding accidents
+C: friction
+D: gearing",C,"[{' C': -1.1430258e-06, ' D': -13.829216, ' A': -15.711403, ' B': -16.155197, ' E': -19.362091}]", C
+463,"FACT: storms cause bodies of water to increase amount of water they contain
+Q: After a torrential downpour over a week, a man notices that the pond in his backyard is
+A: melted
+B: dehydrated
+C: bloated
+D: salted",C,"[{' C': -1.6207987e-06, ' A': -13.846033, ' D': -14.42927, ' B': -16.345095, ' E': -16.482172}]", C
+464,"FACT: if something is in the sunlight then that something will absorb solar energy
+Q: the closest star to our planet delivers solar energy to the planet
+A: maybe
+B: all of these
+C: this is sure
+D: this is uncertain",C,"[{' D': -7.8540467e-07, ' B': -14.162621, ' A': -15.682037, ' C': -17.677223, ' E': -18.52053}]", D
+465,"FACT: a Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring
+Q: A Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring, so
+A: certain things may be featured
+B: certain features may be predicted
+C: certain traits may be given
+D: certain features may be guaranteed",B,"[{' B': -2.693682e-06, ' C': -12.948092, ' A': -15.0638, ' D': -15.759478, ' E': -20.732693}]", B
+466,"FACT: feeling is when an living thing senses through touch
+Q: Having a sense of touch means
+A: I am the water
+B: I am a tree
+C: I am an Ant
+D: I am the Air",C,"[{' C': -0.01326816, ' B': -4.7515416, ' D': -5.4020085, ' A': -10.277382, ' E': -15.430457}]", C
+467,"FACT: a warm something is a source of heat
+Q: A food that is a source of heat is
+A: ramen
+B: salad
+C: ice cream
+D: sushi",A,"[{' A': -0.0018969432, ' D': -6.277737, ' B': -10.950405, ' C': -16.673557, ' E': -17.927265}]", A
+468,"FACT: the Grand Canyon was formed by the Colorado River flowing over long periods of time
+Q: The Grand Canyon was formed by
+A: a volcano erupting in 1782
+B: a river named after the 20th state to join the union flowing over time
+C: a river named after the 38th state to join the union flowing over time
+D: the Great Lakes drying up",C,"[{' B': -1.5448071e-05, ' C': -11.087677, ' D': -15.794456, ' A': -17.29953, ' E': -21.030266}]", B
+469,"FACT: polar bears live in cold environments
+Q: How do polar bears survive the cold?
+A: B and D
+B: Double Fur Coats
+C: Cold blooded
+D: Compact ears",A,"[{' B': -3.690939e-05, ' D': -10.367765, ' A': -12.166655, ' C': -15.16393, ' E': -17.727499}]", B
+470,"FACT: a desert environment usually has a lot of sunlight
+Q: Desert environments features
+A: tropical plants
+B: tons of sun
+C: massive rain totals
+D: icy precipitation",B,"[{' B': -1.8841804e-07, ' D': -15.640877, ' A': -16.282104, ' C': -16.525925, ' E': -19.5654}]", B
+471,"FACT: cows only eat plants
+Q: What would a Jersey most likely be fed?
+A: hamburger
+B: moles
+C: alfalfa
+D: cow",C,"[{' C': -4.3108244e-05, ' D': -10.062871, ' A': -14.655094, ' B': -16.862698, ' E': -20.081692}]", C
+472,"FACT: DNA is a vehicle for passing inherited characteristics from parent to offspring
+Q: DNA is a vehicle for passing
+A: clothes types
+B: school grades
+C: elbow size
+D: language and dialect",C,"[{' D': -0.000673174, ' C': -7.3233047, ' A': -11.276567, ' B': -14.725336, ' E': -16.651072}]", D
+473,"FACT: a star is a source of light through nuclear reactions
+Q: A star, burning far, far away, has enormous pressure and temperature. This allows for
+A: a room to have overhead lights
+B: night on Earth to be dimly lit
+C: plastic stars to decorate a ceiling
+D: a person to be the star of a show",B,"[{' B': -0.0047613084, ' D': -5.352501, ' C': -11.237624, ' A': -14.248329, ' E': -17.08062}]", B
+474,"FACT: photosynthesis makes food for the plant by converting carbon dioxide, water, and sunlight into carbohydrates
+Q: Photosynthesis does what by converting carbon dioxide, water, and sunlight into carbohydrates?
+A: nourishes small protein bits that need to eat with tiny shakes
+B: providing nourishment which enables some growth to vegetation
+C: mixes carbs into soluble plant matter
+D: makes good vegetable protein",B,"[{' B': -8.709908e-05, ' D': -9.362674, ' A': -13.814447, ' C': -14.884691, ' E': -16.84566}]", B
+475,"FACT: biofuel is used to produce electricity by burning
+Q: A positive effect of burning biofuel is
+A: shortage of crops for the food supply
+B: an increase in air pollution
+C: powering the lights in a home
+D: deforestation in the amazon to make room for crops",C,"[{' C': -3.2906587e-06, ' D': -12.8251295, ' A': -14.783052, ' B': -15.169458, ' E': -18.192072}]", C
+476,"FACT: aluminum is recyclable
+Q: Aluminum is what?
+A: reprocessable
+B: plastic
+C: liquid
+D: absorbent",A,"[{' A': -1.1991961e-05, ' B': -11.485089, ' C': -13.376767, ' D': -15.135762, ' E': -20.111637}]", A
+477,"FACT: humans changing an environment sometimes causes that environment to be destroyed
+Q: A construction group wants to put a shopping center in town, but the only place available is a small nature park with a trail. Deer and other wildlife frequent the park, since it is the only place in the city where trees and fresh water are available for them. The construction group decides to build the shopping center, which means that
+A: the deer are moved to a zoo
+B: the trail is expanded
+C: the mall has a nature park in it
+D: the wildlife environment is destroyed",D,"[{' D': -9.055464e-07, ' A': -14.119834, ' E': -16.166214, ' C': -16.172394, ' B': -17.394997}]", D
+478,"FACT: grey clouds are a source of precipitation
+Q: Grey clouds can bring
+A: sunlight
+B: falling water molecules
+C: blooming flowers
+D: drought conditions",B,"[{' B': -6.6619094e-07, ' D': -14.407944, ' C': -16.22293, ' A': -16.681473, ' E': -20.382423}]", B
+479,"FACT: a thermal insulator slows the transfer of heat
+Q: What is the primary reason my duck feather filled jacket works well against the snow
+A: feathers slows heat transfer
+B: the natural duck wax
+C: a synthetic thick liner
+D: small flexible solar panels",A,"[{' B': -0.08911332, ' A': -2.4655628, ' D': -8.327355, ' C': -9.803842, ' E': -15.872911}]", B
+480,"FACT: an earthquake causes the ground to shake
+Q: Earthquakes
+A: only happen in California
+B: cause solar and lunar eclipses
+C: will break your vases
+D: make bridges much safer",C,"[{' D': -0.24649057, ' C': -1.6514742, ' B': -4.124237, ' A': -4.5547256, ' E': -13.74417}]", D
+481,"FACT: tidal energy can be used to produce electricity
+Q: How is electricity produced from the ocean?
+A: decaying organic material from sealife
+B: energy is accessed underwater from tides
+C: drills to access oil supplies
+D: chemical reactions produced from the salt in the water",B,"[{' B': -5.460492e-07, ' D': -14.731225, ' A': -15.217078, ' C': -17.054794, ' E': -17.780678}]", B
+482,"FACT: dairy is a source of Vitamin D
+Q: A prisoner is kept in a stone room, unable to see the sun. The prisoner knows that he needs vitamin D to survive, so he
+A: asks for milk
+B: asks for television
+C: asks for water
+D: asks for sleep",A,"[{' A': -6.827632e-08, ' B': -16.240509, ' D': -18.121735, ' E': -18.45665, ' C': -19.299347}]", A
+483,"FACT: electric devices require electrical energy to function
+Q: A boy wants to use his Walkman so that he can listen to some music. When he tries to turn it on, it us unable to, and the boy realizes that he will need
+A: heat
+B: metal
+C: lithium-ion
+D: plastic",C,"[{' C': -2.665838e-05, ' D': -11.148533, ' A': -11.804507, ' E': -12.825099, ' B': -13.093669}]", C
+484,"FACT: the amount of daylight is least in the winter
+Q: What date is the amount of daylight minimized
+A: Jul 4th
+B: Feb 29th
+C: May 3rd
+D: Sep 1st",B,"[{' B': -1.3422466e-05, ' D': -11.339193, ' A': -14.157339, ' E': -14.19653, ' C': -16.17285}]", B
+485,"FACT: live birth means developing inside the mother instead of an egg
+Q: Live birth is exemplified in
+A: snakes slithering out of eggs
+B: a calf emerging from a mother giraffe
+C: owlets pecking out of their encasement
+D: sea turtles emerging from their shells",B,"[{' B': -7.4639065e-06, ' D': -12.501493, ' C': -12.620742, ' A': -14.475744, ' E': -18.514181}]", B
+486,"FACT: if a population decreases to zero then that organism is extinct
+Q: In a hypothetical world, black bears decrease in numbers until there are zero black bears left on this world. The black bear species
+A: would cease existing
+B: would be troubled
+C: would be thriving
+D: would be endangered",A,"[{' A': -3.6482897e-06, ' D': -12.663577, ' E': -14.78998, ' C': -16.24254, ' B': -16.574535}]", A
+487,"FACT: water causes the most soil and rock erosion
+Q: The leading cause of soil and rock erosion is
+A: H2O
+B: CO2
+C: NaCl
+D: Fe",A,"[{' A': -6.827632e-08, ' D': -17.065552, ' B': -17.285042, ' C': -19.108734, ' E': -19.606384}]", A
+488,"FACT: the type of seed of a plant is an inherited characteristic
+Q: Which of these is a factor in the shape of a fern's seed?
+A: luck
+B: humans
+C: gold
+D: inheritance",D,"[{' D': -4.277735e-07, ' E': -15.166893, ' A': -15.592887, ' C': -16.91124, ' B': -17.802513}]", D
+489,"FACT: algae is found in bodies of water
+Q: Algae can be found in
+A: reservoir
+B: meat
+C: street
+D: tree",A,"[{' A': -0.00023333247, ' C': -8.372578, ' D': -13.158015, ' B': -14.9071, ' E': -19.300327}]", A
+490,"FACT: a pulley is used to lift a flag on a flagpole
+Q: A pulley is used to lift a flag on a flagpole by
+A: moving a rope sideways
+B: putting something in the air
+C: moving things with wheels
+D: yanking string up a wheel",D,"[{' A': -4.5847235e-05, ' D': -10.233002, ' B': -12.024963, ' C': -12.444785, ' E': -19.682152}]", A
+491,"FACT: sunlight contains ultraviolet light
+Q: A woman, with a pale complexion, wants to spend the bright, sunny day at the beach. She makes sure that she stops at the store to pick up some sunblock before she begins to enjoy her day filled with sand and surf. She applies the sunblock carefully and thoroughly, because she knows that
+A: UV rays are harmful
+B: sunlight will be fun
+C: the sun is close
+D: the sun is in space",A,"[{' A': 0.0, ' D': -18.135801, ' B': -18.208382, ' E': -18.916008, ' C': -20.354574}]", A
+492,"FACT: the ocean contains large amounts of salt water
+Q: Ocean water contains
+A: copious amounts of seltzer
+B: scant amounts of sodium chloride
+C: scant amounts of carbonation
+D: copious amounts of the combination of Na and Cl",D,"[{' B': -0.036186855, ' D': -3.3371818, ' C': -12.761253, ' A': -15.651382, ' E': -16.68068}]", B
+493,"FACT: sunlight and rain can cause a rainbow
+Q: Rainbows are always found after what?
+A: A fire
+B: A tornado
+C: Rainfall
+D: Cereal",C,"[{' C': -3.7684315e-06, ' D': -12.55659, ' B': -15.79603, ' A': -16.073534, ' E': -19.435305}]", C
+494,"FACT: conserving water can be used for survival in a dry environment
+Q: Water conservation could be a survival tactic in
+A: The Appalachian Mountains
+B: New York City
+C: The Amazon
+D: The Gobi Desert",D,"[{' D': -9.055464e-07, ' C': -14.566887, ' A': -14.993927, ' B': -16.130043, ' E': -16.659767}]", D
+495,"FACT: if a tree falls then sunlight becomes available to the surrounding plants
+Q: What could be a positive aspect of a tree being cut down?
+A: the plants that were under the tree will have access to more light
+B: the squirrels that were in that tree will have an easier time getting to their home
+C: Plants under the tree will get cooled off by the shade
+D: The sun will shine brighter than before",A,"[{' A': -4.1232483e-06, ' B': -12.438617, ' D': -15.356258, ' C': -19.369434, ' E': -19.65588}]", A
+496,"FACT: tuna eat fish
+Q: What do tuna eat?
+A: Atlantic menhaden
+B: Swedish fish
+C: gummy fish
+D: laminariales",A,"[{' A': -0.08402873, ' C': -2.6805787, ' D': -5.0453324, ' B': -5.179236, ' E': -15.986265}]", A
+497,"FACT: sand dunes are made of sand
+Q: Dunes can be made out of the same thing as
+A: clothes
+B: food
+C: forests
+D: castles",D,"[{' D': -0.22194575, ' A': -1.7146063, ' C': -4.20214, ' B': -5.5113206, ' E': -12.943931}]", D
+498,"FACT: a decrease in visibility while driving can cause people to crash their car
+Q: Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of
+A: reports of tornadoes in the area
+B: a dog running across the highway behind Steve's car
+C: a sudden fog moving into the area
+D: ice forming on the road",C,"[{' C': -3.3212986e-05, ' D': -10.376551, ' B': -13.642908, ' A': -13.851787, ' E': -18.769999}]", C
+499,"FACT: as the roughness of something increases , the friction of that something will increase when its surface moves against another surface
+Q: I chipped away at a toy doll and the surface became really rough, when I rub it against a piece of wood that will create an increase in
+A: animals
+B: resistance
+C: water
+D: sunshine",B,"[{' B': -2.9311614e-06, ' D': -13.006396, ' A': -14.427309, ' C': -15.747698, ' E': -16.636806}]", B

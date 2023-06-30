@@ -1,0 +1,21 @@
+{
+    "is_classification": true,
+    "classes": [
+        "A",
+        "B",
+        "C",
+        "D"
+    ],
+    "soft_classes": [
+        " A",
+        " B",
+        " C",
+        " D"
+    ],
+    "training_data": {
+      "train": "train_soft.csv",
+      "test": "test_soft.csv"
+    },
+    "prompt_in": "This is a multiple choice test in social science. Only answer one letter, producing no more output.\n",
+    "prompt_out": "\n OUTPUT:"
+  }

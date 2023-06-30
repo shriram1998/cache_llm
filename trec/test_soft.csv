@@ -1,0 +1,501 @@
+input,gold_hard,fine_label,llm_soft,llm_hard
+How far is it from Denver to Aspen ?,numeric value,40,"[{'n': -0.00074713683, 'location': -7.654723, 'entity': -8.337188, 'description': -10.355689, 'ab': -13.253066}]",n
+"What county is Modesto , California in ?",location,32,"[{'location': -0.0051917667, 'entity': -5.304256, 'ab': -9.414928, 'description': -9.671397, 'n': -9.672176}]",location
+Who was Galileo ?,human being,31,"[{'human': -0.3642911, 'entity': -1.2614088, 'description': -3.8152187, 'n': -10.911776, 'location': -12.264811}]",human
+What is an atom ?,description,24,"[{'entity': -0.17757417, 'description': -1.8158798, 'n': -12.001655, 'ab': -15.293007, 'location': -16.95664}]",entity
+When did Hawaii become a state ?,numeric value,39,"[{'n': -0.23171517, 'entity': -1.6710157, 'description': -4.4742002, 'location': -5.306567, 'ab': -6.332202}]",n
+How tall is the Sears Building ?,numeric value,40,"[{'n': -0.01347753, 'description': -4.9756737, 'entity': -5.052448, 'location': -9.489513, 'ab': -11.700626}]",n
+George Bush purchased a small interest in which baseball team ?,human being,28,"[{'entity': -0.03282738, 'human': -4.182531, 'description': -4.3294735, 'location': -5.726225, 'n': -7.573316}]",entity
+What is Australia 's national flower ?,entity,14,"[{'description': -0.39003387, 'entity': -1.1302453, 'location': -11.729648, 'n': -12.548999, 'ab': -14.950678}]",description
+Why does the moon turn orange ?,description,27,"[{'description': -7.698572e-06, 'entity': -11.919143, 'n': -13.854101, 'location': -16.592184, 'human': -17.122633}]",description
+What is autism ?,description,24,"[{'description': -0.001087851, 'entity': -6.8247113, 'n': -14.603756, 'human': -15.29002, 'ab': -16.84637}]",description
+What city had a world fair in 1900 ?,location,32,"[{'location': -0.00021800993, 'entity': -8.600765, 'description': -10.467266, 'n': -12.126506, 'ab': -15.608014}]",location
+What person 's head is on a dime ?,human being,29,"[{'human': -0.015574008, 'entity': -4.1887536, 'description': -8.168338, 'n': -13.131762, 'ab': -13.175653}]",human
+What is the average weight of a Yellow Labrador ?,numeric value,49,"[{'n': -0.000114638155, 'entity': -9.295944, 'description': -10.697151, 'human': -15.864164, 'ab': -15.918417}]",n
+Who was the first man to fly across the Pacific Ocean ?,human being,29,"[{'human': -0.15905431, 'entity': -1.9412045, 'description': -5.67033, 'n': -9.902576, 'location': -10.8401375}]",human
+When did Idaho become a state ?,numeric value,39,"[{'n': -0.35121992, 'entity': -1.287194, 'description': -4.46209, 'location': -5.1069264, 'ab': -6.2094116}]",n
+What is the life expectancy for crickets ?,numeric value,43,"[{'n': -0.0005447074, 'entity': -8.151195, 'description': -8.274386, 'ab': -13.809314, 'location': -15.594302}]",n
+What metal has the highest melting point ?,entity,18,"[{'n': -0.3272826, 'entity': -1.3732649, 'description': -3.6579633, 'ab': -10.151997, 'location': -11.418644}]",n
+Who developed the vaccination against polio ?,human being,29,"[{'entity': -0.688521, 'human': -0.8560471, 'description': -2.6201234, 'n': -10.275129, 'location': -11.178808}]",entity
+What is epilepsy ?,description,24,"[{'description': -0.0011148814, 'entity': -6.800919, 'n': -13.503662, 'ab': -16.355568, 'human': -16.635323}]",description
+What year did the Titanic sink ?,numeric value,39,"[{'n': -0.000118931544, 'entity': -9.137547, 'description': -11.518467, 'ab': -13.518841, 'location': -15.676273}]",n
+Who was the first American to walk in space ?,human being,29,"[{'human': -0.063727506, 'entity': -2.8021612, 'description': -6.87049, 'n': -10.9864025, 'location': -12.145292}]",human
+What is a biosphere ?,description,24,"[{'description': -0.03427476, 'entity': -3.390537, 'n': -12.717616, 'location': -14.790028, 'ab': -16.78825}]",description
+What river in the US is known as the Big Muddy ?,location,35,"[{'location': -0.25752398, 'entity': -1.6840377, 'description': -3.1855783, 'n': -9.815019, 'ab': -12.279892}]",location
+What is bipolar disorder ?,description,24,"[{'description': -0.00048072237, 'entity': -7.642647, 'n': -13.843223, 'human': -16.236008, 'ab': -16.396706}]",description
+What is cholesterol ?,description,24,"[{'description': -0.009349183, 'entity': -4.6788816, 'n': -11.073054, 'human': -14.659166, 'ab': -15.2239485}]",description
+Who developed the Macintosh computer ?,human being,29,"[{'entity': -0.051609684, 'human': -3.0539057, 'description': -5.7714653, 'n': -11.559382, 'location': -13.731915}]",entity
+What is caffeine ?,description,24,"[{'description': -0.13342339, 'entity': -2.0802236, 'n': -13.15721, 'ab': -13.585517, 'human': -16.77964}]",description
+What imaginary line is halfway between the North and South Poles ?,location,35,"[{'location': -0.35922903, 'entity': -1.5815419, 'description': -2.4946277, 'n': -4.655371, 'ab': -5.5005636}]",location
+Where is John Wayne airport ?,location,35,"[{'location': -4.7875652e-05, 'entity': -10.0835285, 'n': -12.83162, 'ab': -12.935533, 'description': -13.697077}]",location
+What hemisphere is the Philippines in ?,location,35,"[{'location': -0.004245193, 'description': -6.0145445, 'entity': -6.3346586, 'n': -11.066424, 'ab': -12.493159}]",location
+What is the average speed of the horses at the Kentucky Derby ?,numeric value,46,"[{'n': -1.4974988e-05, 'entity': -11.433394, 'description': -12.438231, 'ab': -15.823393, 'location': -16.517456}]",n
+Where are the Rocky Mountains ?,location,34,"[{'location': -4.3227457e-05, 'entity': -10.388768, 'description': -11.486874, 'n': -13.07365, 'ab': -16.084713}]",location
+What are invertebrates ?,description,24,"[{'description': -0.029331163, 'entity': -3.5437584, 'n': -14.273714, 'ab': -17.416256, 'location': -17.625666}]",description
+What is the temperature at the center of the earth ?,numeric value,47,"[{'n': -7.3745825e-05, 'entity': -9.631993, 'description': -11.820507, 'location': -14.612439, 'ab': -14.772144}]",n
+When did John F. Kennedy get elected as President ?,numeric value,39,"[{'human': -0.7982254, 'n': -1.2408067, 'entity': -1.4093475, 'description': -4.155372, 'ab': -7.686416}]",human
+How old was Elvis Presley when he died ?,numeric value,44,"[{'n': -0.27044263, 'human': -1.5064961, 'entity': -4.281917, 'description': -6.5415688, 'location': -11.636897}]",n
+Where is the Orinoco River ?,location,35,"[{'location': -3.8217877e-05, 'entity': -10.250129, 'description': -13.049163, 'n': -14.153197, 'ab': -17.509323}]",location
+How far is the service line from the net in tennis ?,numeric value,40,"[{'n': -0.007311586, 'description': -5.577273, 'location': -6.2998676, 'entity': -6.4118066, 'ab': -10.69784}]",n
+How much fiber should you have per day ?,numeric value,38,"[{'n': -6.746778e-06, 'description': -12.435851, 'entity': -12.807303, 'ab': -15.937507, 'location': -18.251234}]",n
+How many Great Lakes are there ?,numeric value,38,"[{'n': -3.4089344e-06, 'entity': -12.623209, 'description': -15.787433, 'ab': -16.73666, 'location': -18.572474}]",n
+Material called linen is made from what plant ?,entity,14,"[{'entity': -0.15564536, 'description': -1.9372003, 'n': -10.925435, 'ab': -12.0974865, 'location': -12.135701}]",entity
+What is Teflon ?,description,24,"[{'description': -0.25295988, 'entity': -1.4983668, 'n': -12.38359, 'ab': -13.114019, 'human': -17.648825}]",description
+What is amitriptyline ?,description,24,"[{'description': -0.049078844, 'entity': -3.039641, 'ab': -10.25112, 'n': -11.941145, 'human': -16.73213}]",description
+What is a shaman ?,description,24,"[{'description': -0.04008463, 'entity': -3.2367857, 'human': -13.456017, 'n': -14.58882, 'location': -17.204575}]",description
+What is the proper name for a female walrus ?,entity,2,"[{'entity': -0.02497561, 'description': -3.7204785, 'human': -7.7487755, 'n': -11.462269, 'location': -13.169042}]",entity
+What is a group of turkeys called ?,entity,2,"[{'entity': -0.31641346, 'description': -1.3049235, 'n': -10.011672, 'ab': -13.255134, 'location': -13.694168}]",entity
+How long did Rip Van Winkle sleep ?,numeric value,44,"[{'n': -2.0098154e-05, 'description': -10.977391, 'entity': -12.776806, 'ab': -15.24715, 'location': -17.28355}]",n
+What are triglycerides ?,description,24,"[{'description': -0.00231924, 'entity': -6.0692897, 'n': -12.548385, 'ab': -16.067223, 'human': -16.18335}]",description
+How many liters in a gallon ?,numeric value,38,"[{'n': -3.076318e-07, 'entity': -15.338759, 'description': -16.313011, 'ab': -16.60286, 'location': -20.739235}]",n
+What is the name of the chocolate company in San Francisco ?,human being,28,"[{'location': -0.37330607, 'entity': -1.1676633, 'description': -7.7238154, 'n': -11.721229, 'ab': -13.081116}]",location
+What are amphibians ?,description,24,"[{'description': -0.0085531045, 'entity': -4.765755, 'n': -15.113075, 'location': -17.905281, 'ab': -18.494698}]",description
+Who discovered x-rays ?,human being,29,"[{'human': -0.3820169, 'entity': -1.1627176, 'description': -5.334699, 'n': -10.209912, 'location': -10.847821}]",human
+Which comedian 's signature line is `` Can we talk '' ?,human being,29,"[{'description': -0.22531974, 'entity': -1.6804665, 'human': -4.172463, 'ab': -10.551621, 'n': -11.974267}]",description
+What is fibromyalgia ?,description,24,"[{'description': -0.0036408037, 'entity': -5.6185617, 'n': -12.7016, 'ab': -14.1141205, 'human': -14.516984}]",description
+What is done with worn or outdated flags ?,description,25,"[{'description': -1.6402679e-05, 'entity': -11.043785, 'n': -14.636383, 'location': -17.915071, 'ab': -18.76603}]",description
+What does cc in engines mean ?,description,24,"[{'ab': -1.9860674e-05, 'entity': -11.681561, 'description': -11.97385, 'n': -12.181233, 'location': -20.09776}]",ab
+When did Elvis Presley die ?,numeric value,39,"[{'human': -0.038665134, 'entity': -3.2831945, 'description': -8.010428, 'n': -9.519256, 'location': -11.455016}]",human
+What is the capital of Yugoslavia ?,location,32,"[{'location': -0.0030285267, 'entity': -5.8132544, 'description': -11.023955, 'n': -11.117591, 'ab': -12.176046}]",location
+Where is Milan ?,location,32,"[{'location': -5.4364154e-06, 'entity': -12.3285265, 'n': -14.226698, 'description': -15.106313, 'ab': -17.34737}]",location
+What is the speed hummingbirds fly ?,numeric value,46,"[{'n': -0.015666578, 'description': -4.305019, 'entity': -6.196605, 'ab': -11.972912, 'location': -13.918446}]",n
+What is the oldest city in the United States ?,location,32,"[{'entity': -0.24376012, 'description': -2.1542597, 'location': -2.586091, 'n': -3.6941688, 'human': -8.884103}]",entity
+What was W.C. Fields ' real name ?,human being,29,"[{'entity': -0.1856397, 'human': -1.9864514, 'description': -3.43699, 'n': -9.426812, 'location': -12.832971}]",entity
+"What river flows between Fargo , North Dakota and Moorhead , Minnesota ?",location,35,"[{'location': -0.22464125, 'entity': -1.8073744, 'description': -3.299905, 'n': -8.450182, 'ab': -11.356948}]",location
+What do bats eat ?,entity,9,"[{'description': -0.03340523, 'entity': -3.4160879, 'n': -11.346012, 'location': -14.571849, 'human': -14.98962}]",description
+What state did the Battle of Bighorn take place in ?,location,36,"[{'location': -0.0006388203, 'entity': -7.4294567, 'description': -10.75466, 'ab': -10.899412, 'n': -12.145864}]",location
+Who was Abraham Lincoln ?,human being,31,"[{'human': -0.16305627, 'entity': -1.9502572, 'description': -4.803521, 'n': -11.192673, 'location': -12.585976}]",human
+What do you call a newborn kangaroo ?,entity,21,"[{'description': -0.014794985, 'entity': -4.220941, 'n': -13.670288, 'human': -16.292671, 'location': -16.775375}]",description
+What are spider veins ?,description,24,"[{'description': -0.00011523515, 'entity': -9.072335, 'n': -14.622345, 'human': -18.09797, 'ab': -18.679428}]",description
+What day and month did John Lennon die ?,numeric value,39,"[{'n': -0.6240582, 'description': -1.1099819, 'entity': -2.071751, 'human': -5.0049405, 'ab': -6.8348117}]",n
+What strait separates North America from Asia ?,location,35,"[{'location': -0.51749104, 'entity': -1.1436813, 'description': -2.4704483, 'ab': -7.3640556, 'n': -8.749279}]",location
+What is the population of Seattle ?,numeric value,43,"[{'n': -5.6818186e-05, 'entity': -9.814258, 'location': -13.550324, 'description': -14.057483, 'ab': -16.120264}]",n
+How much was a ticket for the Titanic ?,numeric value,41,"[{'n': -7.899194e-05, 'entity': -9.533038, 'description': -11.969744, 'ab': -15.243906, 'location': -18.254457}]",n
+What is the largest city in the world ?,location,32,"[{'location': -0.63063765, 'entity': -0.962173, 'description': -2.4992292, 'n': -5.688949, 'human': -8.908622}]",location
+What American composer wrote the music for `` West Side Story '' ?,human being,29,"[{'entity': -0.2854341, 'human': -1.4457428, 'description': -4.3656874, 'n': -10.47903, 'location': -12.282442}]",entity
+Where is the Mall of the America ?,location,35,"[{'location': -2.7371756e-05, 'entity': -10.62714, 'n': -13.287273, 'description': -13.597813, 'ab': -15.368609}]",location
+What is the pH scale ?,description,24,"[{'n': -0.2966619, 'description': -1.4053884, 'entity': -4.502472, 'ab': -7.9641495, 'location': -12.946846}]",n
+What type of currency is used in Australia ?,entity,6,"[{'entity': -0.056037135, 'ab': -3.1408682, 'description': -4.667617, 'n': -6.3031373, 'location': -10.670272}]",entity
+"How tall is the Gateway Arch in St. Louis , MO ?",numeric value,40,"[{'n': -0.0010164292, 'entity': -7.574701, 'location': -7.9047103, 'description': -8.935769, 'ab': -13.2930155}]",n
+How much does the human adult female brain weigh ?,numeric value,49,"[{'n': -0.0008030889, 'entity': -7.211351, 'description': -9.703156, 'human': -12.889681, 'ab': -14.009127}]",n
+Who was the first governor of Alaska ?,human being,29,"[{'human': -0.3511721, 'entity': -1.2315356, 'description': -5.468924, 'n': -10.16918, 'location': -10.188742}]",human
+What is a prism ?,description,24,"[{'description': -0.026589405, 'entity': -3.6405952, 'n': -13.058433, 'ab': -16.502106, 'location': -16.935417}]",description
+When was the first liver transplant ?,numeric value,39,"[{'n': -0.032612506, 'entity': -3.6329696, 'description': -5.1996655, 'human': -9.171581, 'ab': -10.86388}]",n
+Who was elected president of South Africa in 1994 ?,human being,29,"[{'entity': -0.5133486, 'human': -0.920354, 'description': -5.8284726, 'n': -9.159429, 'location': -9.4023485}]",entity
+What is the population of China ?,numeric value,43,"[{'n': -0.00014063035, 'entity': -8.883647, 'description': -13.253032, 'location': -15.659556, 'ab': -15.85403}]",n
+When was Rosa Parks born ?,numeric value,39,"[{'n': -0.0096403, 'entity': -4.730229, 'human': -7.601986, 'description': -8.517536, 'location': -9.996685}]",n
+Why is a ladybug helpful ?,description,27,"[{'description': -8.697986e-05, 'entity': -9.355838, 'n': -14.431612, 'location': -16.86371, 'human': -17.557772}]",description
+What is amoxicillin ?,description,24,"[{'description': -0.3117175, 'entity': -1.3177522, 'ab': -9.574008, 'n': -12.075305, 'human': -16.19527}]",description
+Who was the first female United States Representative ?,human being,29,"[{'human': -0.38460222, 'entity': -1.1741759, 'description': -4.591412, 'n': -10.293591, 'location': -10.373356}]",human
+What are xerophytes ?,description,24,"[{'description': -0.008725292, 'entity': -4.7459993, 'n': -13.835201, 'ab': -17.006023, 'location': -17.040882}]",description
+What country did Ponce de Leon come from ?,location,33,"[{'entity': -0.39535975, 'location': -1.143132, 'description': -4.87489, 'ab': -10.038938, 'human': -10.048954}]",entity
+The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?,entity,8,"[{'entity': -0.36909097, 'description': -1.27042, 'ab': -4.1704593, 'n': -4.6468844, 'location': -6.374034}]",entity
+What is desktop publishing ?,description,24,"[{'description': -0.004392637, 'entity': -5.431608, 'ab': -12.000905, 'n': -14.153333, 'location': -17.497755}]",description
+What is the temperature of the sun 's surface ?,numeric value,47,"[{'n': -3.869565e-05, 'entity': -10.345253, 'description': -11.976897, 'ab': -15.276634, 'location': -16.498642}]",n
+What year did Canada join the United Nations ?,numeric value,39,"[{'n': -4.489638e-05, 'entity': -10.105612, 'ab': -13.068877, 'description': -13.114667, 'location': -16.995169}]",n
+What is the oldest university in the US ?,human being,28,"[{'entity': -0.15340656, 'location': -2.2817483, 'n': -3.6326315, 'description': -4.296099, 'human': -10.61548}]",entity
+Where is Prince Edward Island ?,location,35,"[{'location': -3.0707724e-05, 'entity': -10.494812, 'description': -13.2610855, 'n': -13.612938, 'ab': -15.586571}]",location
+"Mercury , what year was it discovered ?",numeric value,39,"[{'n': -0.61006814, 'entity': -0.9205159, 'description': -2.9411075, 'ab': -5.906691, 'human': -6.014822}]",n
+What is cryogenics ?,description,24,"[{'description': -0.012679182, 'entity': -4.3744802, 'n': -13.00476, 'ab': -13.101477, 'location': -16.59876}]",description
+What are coral reefs ?,description,24,"[{'description': -0.00036801858, 'entity': -7.908853, 'n': -14.51893, 'location': -17.512024, 'ab': -19.795397}]",description
+What is the longest major league baseball-winning streak ?,entity,13,"[{'n': -0.0022973742, 'entity': -6.6046453, 'description': -6.9727864, 'ab': -12.681343, 'location': -14.859795}]",n
+What is neurology ?,description,24,"[{'description': -0.0016078887, 'entity': -6.4341106, 'n': -14.271123, 'ab': -15.263661, 'human': -17.853544}]",description
+Who invented the calculator ?,human being,29,"[{'human': -0.33414927, 'entity': -1.2681473, 'description': -5.953915, 'n': -9.22987, 'location': -12.360989}]",human
+How do you measure earthquakes ?,description,26,"[{'n': -0.22585772, 'description': -1.6618851, 'entity': -4.396123, 'ab': -9.793805, 'location': -12.4090605}]",n
+Who is Duke Ellington ?,human being,31,"[{'human': -0.5430778, 'entity': -0.88148713, 'description': -5.3281116, 'n': -10.7530155, 'location': -13.948122}]",human
+"What county is Phoenix , AZ in ?",location,32,"[{'location': -0.0023527553, 'entity': -6.1020155, 'n': -9.631518, 'ab': -10.486529, 'description': -10.937938}]",location
+What is a micron ?,description,24,"[{'ab': -0.014681869, 'entity': -4.3270826, 'description': -6.6534834, 'n': -9.445804, 'location': -16.507318}]",ab
+"The sun 's core , what is the temperature ?",numeric value,47,"[{'n': -1.6402679e-05, 'entity': -11.261345, 'description': -12.605836, 'ab': -15.119606, 'location': -17.323174}]",n
+What is the Ohio state bird ?,entity,2,"[{'entity': -0.09694565, 'description': -2.3820333, 'location': -10.4700985, 'n': -13.08261, 'ab': -13.302985}]",entity
+When were William Shakespeare 's twins born ?,numeric value,39,"[{'n': -0.033776674, 'entity': -3.693803, 'description': -4.8577666, 'human': -7.747468, 'location': -9.472878}]",n
+What is the highest dam in the U.S. ?,location,35,"[{'location': -0.5382177, 'entity': -0.88461506, 'description': -6.341127, 'n': -6.4549503, 'ab': -12.504641}]",location
+What color is a poison arrow frog ?,entity,4,"[{'description': -0.00020406157, 'entity': -8.499997, 'n': -14.372197, 'location': -17.610844, 'ab': -18.168768}]",description
+What is acupuncture ?,description,24,"[{'description': -0.0006864756, 'entity': -7.284942, 'n': -14.473708, 'ab': -17.388931, 'human': -18.367079}]",description
+What is the length of the coastline of the state of Alaska ?,numeric value,40,"[{'n': -7.398424e-05, 'entity': -9.867803, 'description': -10.776021, 'location': -13.675893, 'ab': -15.703496}]",n
+What is the name of Neil Armstrong 's wife ?,human being,29,"[{'human': -0.11258014, 'entity': -2.2495735, 'description': -6.889694, 'n': -11.804757, 'location': -12.491264}]",human
+What is Hawaii 's state flower ?,entity,14,"[{'description': -0.2702476, 'entity': -1.4408637, 'location': -9.561706, 'n': -11.100677, 'ab': -14.292678}]",description
+Who won Ms. American in 1989 ?,human being,29,"[{'human': -0.51025534, 'entity': -0.9292694, 'description': -5.397287, 'n': -8.315591, 'ab': -10.570916}]",human
+When did the Hindenberg crash ?,numeric value,39,"[{'n': -0.831762, 'entity': -0.94410473, 'description': -1.8148552, 'location': -4.4108405, 'ab': -7.6153235}]",n
+What mineral helps prevent osteoporosis ?,entity,18,"[{'description': -0.23915821, 'entity': -1.5479732, 'n': -10.645057, 'ab': -12.508208, 'human': -13.089103}]",description
+What was the last year that the Chicago Cubs won the World Series ?,numeric value,39,"[{'n': -0.011671525, 'entity': -4.6563244, 'description': -6.2104626, 'ab': -9.466993, 'location': -11.305677}]",n
+Where is Perth ?,location,35,"[{'location': -1.0204763e-05, 'entity': -11.616868, 'n': -14.300066, 'description': -14.338343, 'ab': -16.733568}]",location
+What year did WWII begin ?,numeric value,39,"[{'n': -0.00017759066, 'entity': -8.828065, 'description': -10.797525, 'ab': -11.486979, 'location': -15.329477}]",n
+What is the diameter of a golf ball ?,numeric value,40,"[{'n': -1.5925843e-05, 'entity': -11.734947, 'description': -11.758317, 'ab': -16.27858, 'location': -19.020363}]",n
+What is an eclipse ?,description,24,"[{'description': -0.0021135649, 'entity': -6.1609344, 'n': -13.792458, 'location': -17.14372, 'ab': -17.697233}]",description
+Who discovered America ?,human being,29,"[{'entity': -0.2003964, 'description': -1.8874614, 'human': -3.5838876, 'location': -6.1256356, 'n': -8.664927}]",entity
+What is the earth 's diameter ?,numeric value,40,"[{'n': -0.00016018527, 'entity': -9.134819, 'description': -9.864731, 'ab': -15.0675125, 'location': -15.650329}]",n
+Which president was unmarried ?,human being,29,"[{'human': -0.058314603, 'description': -3.361476, 'entity': -3.8198802, 'n': -10.713016, 'location': -11.751993}]",human
+How wide is the Milky Way galaxy ?,numeric value,40,"[{'n': -0.002931919, 'entity': -6.0693226, 'description': -7.3992023, 'location': -13.070031, 'ab': -13.8347025}]",n
+During which season do most thunderstorms occur ?,numeric value,39,"[{'description': -0.004751366, 'entity': -5.946668, 'n': -6.215856, 'location': -9.031697, 'ab': -12.098332}]",description
+What is Wimbledon ?,description,24,"[{'entity': -0.33182532, 'description': -1.2670747, 'location': -7.286255, 'ab': -10.25708, 'n': -11.2732}]",entity
+What is the gestation period for a cat ?,numeric value,44,"[{'n': -0.0007905034, 'description': -7.4414253, 'entity': -8.508907, 'ab': -13.209506, 'location': -15.266422}]",n
+How far is a nautical mile ?,numeric value,40,"[{'n': -8.709908e-05, 'description': -9.939212, 'entity': -10.190005, 'ab': -13.683641, 'location': -15.171106}]",n
+Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?,human being,29,"[{'human': -0.14505036, 'entity': -2.0196307, 'description': -6.075165, 'n': -11.430283, 'ab': -12.492362}]",human
+What does target heart rate mean ?,description,24,"[{'description': -0.012638919, 'entity': -4.88889, 'n': -5.3778124, 'ab': -7.8255806, 'human': -11.376469}]",description
+What was the first satellite to go into space ?,entity,15,"[{'entity': -0.005791337, 'description': -5.1631546, 'n': -9.966675, 'location': -12.965798, 'human': -13.644295}]",entity
+What is foreclosure ?,description,24,"[{'description': -0.0013848128, 'entity': -6.584316, 'n': -13.279094, 'ab': -15.618449, 'location': -17.160618}]",description
+What is the major fault line near Kentucky ?,entity,13,"[{'location': -0.018533476, 'entity': -4.0357223, 'description': -7.304247, 'n': -11.315026, 'ab': -12.200768}]",location
+Where is the Holland Tunnel ?,location,35,"[{'location': -3.5477948e-05, 'entity': -10.369282, 'description': -13.217556, 'n': -13.334118, 'ab': -14.231525}]",location
+Who wrote the hymn `` Amazing Grace '' ?,human being,29,"[{'entity': -0.16492128, 'human': -1.9113048, 'description': -5.4874, 'n': -11.606892, 'location': -12.789363}]",entity
+What position did Willie Davis play in baseball ?,human being,30,"[{'entity': -0.09489976, 'description': -2.512075, 'human': -4.7019477, 'location': -8.467061, 'n': -9.081297}]",entity
+What are platelets ?,description,24,"[{'description': -0.026716178, 'entity': -3.6359155, 'n': -12.99323, 'human': -15.617611, 'ab': -15.817571}]",description
+What is severance pay ?,description,24,"[{'description': -0.006253545, 'entity': -5.0984316, 'n': -9.026204, 'human': -12.293698, 'ab': -12.804624}]",description
+What is the name of Roy Roger 's dog ?,entity,2,"[{'entity': -0.0073767924, 'description': -4.9429846, 'human': -8.462896, 'n': -12.303731, 'location': -14.731916}]",entity
+Where are the National Archives ?,location,35,"[{'location': -0.00018629384, 'entity': -8.627901, 'description': -12.301012, 'n': -13.098711, 'ab': -14.240442}]",location
+What is a baby turkey called ?,entity,2,"[{'description': -0.09449658, 'entity': -2.4062338, 'n': -11.214934, 'human': -13.989859, 'ab': -15.011046}]",description
+What is poliomyelitis ?,description,24,"[{'description': -0.01886105, 'entity': -3.9806836, 'n': -11.684555, 'ab': -12.821, 'human': -15.047059}]",description
+What is the longest bone in the human body ?,entity,3,"[{'entity': -0.61456645, 'description': -0.9577214, 'n': -2.9489245, 'human': -3.7776675, 'location': -9.478382}]",entity
+Who is a German philosopher ?,human being,29,"[{'human': -0.2718698, 'entity': -1.6691859, 'description': -3.0031548, 'n': -11.397526, 'location': -12.686617}]",human
+What were Christopher Columbus ' three ships ?,entity,22,"[{'entity': -0.14152625, 'description': -2.0348673, 'n': -6.68364, 'human': -11.481537, 'location': -11.934334}]",entity
+What does Phi Beta Kappa mean ?,description,24,"[{'ab': -0.00025300472, 'entity': -8.57235, 'description': -9.687509, 'n': -13.307008, 'location': -20.471535}]",ab
+What is nicotine ?,description,24,"[{'description': -0.10709121, 'entity': -2.287183, 'n': -12.91554, 'ab': -13.365765, 'human': -15.921551}]",description
+What is another name for vitamin B1 ?,entity,21,"[{'ab': -0.011243516, 'entity': -4.669332, 'description': -6.3204246, 'n': -12.74706, 'location': -18.139767}]",ab
+Who discovered radium ?,human being,29,"[{'entity': -0.53308636, 'human': -0.91136706, 'description': -4.494748, 'n': -10.312306, 'location': -10.373602}]",entity
+What are sunspots ?,description,24,"[{'description': -0.0010126107, 'entity': -6.897458, 'n': -13.294515, 'location': -16.927967, 'ab': -17.14192}]",description
+When was Algeria colonized ?,numeric value,39,"[{'entity': -0.43166205, 'description': -1.3962007, 'n': -2.3375306, 'location': -5.15563, 'human': -7.314001}]",entity
+What baseball team was the first to make numbers part of their uniform ?,human being,28,"[{'entity': -0.057885494, 'description': -2.9495327, 'n': -6.036164, 'ab': -6.5435724, 'location': -10.135903}]",entity
+What continent is Egypt on ?,location,35,"[{'location': -0.072096996, 'entity': -2.6678, 'description': -8.878646, 'n': -11.317435, 'ab': -12.711012}]",location
+What is the capital of Mongolia ?,location,32,"[{'location': -0.0026980839, 'entity': -5.941891, 'description': -10.172696, 'n': -10.586072, 'ab': -12.463398}]",location
+What is nanotechnology ?,description,24,"[{'description': -0.011653436, 'entity': -4.4581866, 'n': -13.084139, 'ab': -14.955774, 'location': -17.13936}]",description
+In the late 1700 's British convicts were used to populate which colony ?,location,35,"[{'location': -0.46495104, 'entity': -1.1349033, 'description': -3.0080416, 'n': -7.2262955, 'human': -8.293404}]",location
+What state is the geographic center of the lower 48 states ?,location,36,"[{'location': -1.688045e-05, 'entity': -11.222099, 'description': -13.271928, 'n': -13.384927, 'ab': -15.081825}]",location
+What is an obtuse angle ?,description,24,"[{'description': -0.0017230592, 'n': -6.588339, 'entity': -7.9723415, 'human': -15.63011, 'ab': -15.633696}]",description
+What are polymers ?,description,24,"[{'description': -0.007868312, 'entity': -4.849032, 'n': -13.395243, 'ab': -17.183573, 'human': -19.430124}]",description
+When is hurricane season in the Caribbean ?,numeric value,39,"[{'location': -0.5179642, 'description': -1.1801498, 'entity': -2.7552993, 'n': -3.4013562, 'ab': -9.20393}]",location
+Where is the volcano Mauna Loa ?,location,35,"[{'location': -3.3450466e-05, 'entity': -10.365717, 'n': -13.62279, 'description': -14.100085, 'ab': -16.658403}]",location
+What is another astronomic term for the Northern Lights ?,entity,21,"[{'description': -0.13167895, 'entity': -2.0929065, 'ab': -10.259921, 'n': -11.566089, 'location': -12.408824}]",description
+What peninsula is Spain part of ?,location,35,"[{'location': -0.19096524, 'entity': -1.7802672, 'description': -5.2586913, 'n': -10.320741, 'ab': -11.496155}]",location
+When was Lyndon B. Johnson born ?,numeric value,39,"[{'entity': -0.78297096, 'human': -0.95924824, 'n': -1.8502318, 'description': -6.363751, 'location': -7.1296353}]",entity
+What is acetaminophen ?,description,24,"[{'description': -0.063534334, 'entity': -2.7878842, 'n': -12.50291, 'ab': -12.704516, 'human': -17.018871}]",description
+What state has the least amount of rain per year ?,location,36,"[{'n': -0.096699014, 'location': -2.4029198, 'entity': -6.477405, 'description': -8.740146, 'ab': -10.848049}]",n
+Who founded American Red Cross ?,human being,29,"[{'entity': -0.48386818, 'human': -0.96461153, 'description': -6.0434146, 'location': -9.573559, 'n': -10.495243}]",entity
+What year did the Milwaukee Braves become the Atlanta Braves ?,numeric value,39,"[{'n': -0.00030785665, 'entity': -8.331309, 'description': -10.041864, 'ab': -10.688768, 'location': -14.352723}]",n
+How fast is alcohol absorbed ?,numeric value,46,"[{'n': -0.1160756, 'description': -2.2228336, 'entity': -6.6580524, 'ab': -12.089205, 'human': -14.324838}]",n
+When is the summer solstice ?,numeric value,39,"[{'n': -0.27892986, 'entity': -2.1217184, 'description': -2.1461632, 'location': -5.106017, 'ab': -7.523246}]",n
+What is supernova ?,description,24,"[{'description': -0.029507026, 'entity': -3.537907, 'n': -13.281398, 'ab': -16.36594, 'location': -17.210085}]",description
+Where is the Shawnee National Forest ?,location,35,"[{'location': -1.9980816e-05, 'entity': -10.954503, 'n': -13.523747, 'description': -13.65694, 'ab': -17.100706}]",location
+What U.S. state 's motto is `` Live free or Die '' ?,location,36,"[{'ab': -0.51651937, 'entity': -1.5628299, 'description': -1.8333452, 'location': -3.3864455, 'n': -8.761697}]",ab
+Where is the Lourve ?,location,35,"[{'location': -5.1215375e-05, 'entity': -9.924542, 'description': -13.854154, 'n': -13.90897, 'ab': -14.7143135}]",location
+When was the first stamp issued ?,numeric value,39,"[{'n': -0.08733916, 'entity': -2.6657617, 'description': -4.272611, 'ab': -9.320242, 'human': -10.387601}]",n
+What primary colors do you mix to make orange ?,entity,4,"[{'description': -0.00085337984, 'entity': -7.0948935, 'n': -10.677695, 'human': -15.261839, 'location': -15.26338}]",description
+How far is Pluto from the sun ?,numeric value,40,"[{'n': -0.00017127168, 'entity': -8.801624, 'description': -11.29394, 'location': -11.864733, 'ab': -13.550197}]",n
+What body of water are the Canary Islands in ?,location,35,"[{'entity': -0.19842535, 'location': -1.7744981, 'description': -4.605736, 'n': -7.8436966, 'ab': -10.723801}]",entity
+What is neuropathy ?,description,24,"[{'description': -0.005990034, 'entity': -5.1208806, 'n': -13.800872, 'ab': -15.1566, 'human': -16.325264}]",description
+Where is the Euphrates River ?,location,35,"[{'location': -0.0001754468, 'entity': -8.6751175, 'description': -12.43621, 'n': -14.1414175, 'ab': -17.558022}]",location
+What is cryptography ?,description,24,"[{'description': -0.005324009, 'entity': -5.2384477, 'n': -13.719381, 'ab': -15.144712, 'location': -17.805693}]",description
+What is natural gas composed of ?,entity,18,"[{'description': -0.0040519247, 'entity': -5.511124, 'n': -13.108787, 'ab': -15.891776, 'human': -17.080183}]",description
+Who is the Prime Minister of Canada ?,human being,29,"[{'human': -0.21848442, 'entity': -1.6317763, 'description': -7.321397, 'n': -11.197296, 'location': -11.978279}]",human
+What French ruler was defeated at the battle of Waterloo ?,human being,29,"[{'entity': -0.011794192, 'human': -4.7983155, 'description': -5.6698213, 'n': -10.758239, 'location': -11.447981}]",entity
+What is leukemia ?,description,24,"[{'description': -0.0017993686, 'entity': -6.321952, 'n': -13.650389, 'ab': -16.954115, 'human': -17.464231}]",description
+Where did Howard Hughes die ?,location,35,"[{'location': -0.00025574747, 'entity': -8.351115, 'description': -11.271533, 'ab': -12.617808, 'n': -12.921215}]",location
+What is the birthstone for June ?,entity,18,"[{'entity': -0.14525235, 'description': -2.176739, 'n': -3.834896, 'ab': -9.395962, 'human': -9.588482}]",entity
+What is the sales tax in Minnesota ?,entity,13,"[{'n': -1.6999666e-05, 'entity': -11.152527, 'location': -13.44339, 'description': -13.923042, 'ab': -14.848718}]",n
+What is the distance in miles from the earth to the sun ?,numeric value,40,"[{'n': -1.9765537e-06, 'entity': -13.326464, 'description': -14.954653, 'ab': -16.50425, 'location': -17.131882}]",n
+What is the average life span for a chicken ?,numeric value,44,"[{'n': -7.052812e-05, 'entity': -10.049868, 'description': -10.51513, 'ab': -15.21708, 'human': -17.598192}]",n
+When was the first Wal-Mart store opened ?,numeric value,39,"[{'n': -0.04209504, 'entity': -3.220745, 'description': -6.863048, 'location': -8.431744, 'ab': -10.6431}]",n
+What is relative humidity ?,description,24,"[{'description': -0.02231903, 'n': -3.8531296, 'entity': -7.0617166, 'ab': -13.747484, 'location': -15.985925}]",description
+What city has the zip code of 35824 ?,location,32,"[{'location': -0.001771365, 'n': -6.5203104, 'entity': -8.13791, 'description': -12.525552, 'ab': -14.030243}]",location
+What currency is used in Algeria ?,entity,6,"[{'entity': -0.30882847, 'ab': -1.3832989, 'n': -4.7083263, 'description': -5.1400967, 'location': -9.743536}]",entity
+Who invented the hula hoop ?,human being,29,"[{'human': -0.6846573, 'entity': -0.7305328, 'description': -4.266818, 'n': -10.074816, 'location': -11.124507}]",human
+What was the most popular toy in 1957 ?,entity,15,"[{'description': -0.021859266, 'entity': -3.8448877, 'n': -8.374833, 'location': -13.267602, 'human': -13.977661}]",description
+What is pastrami made of ?,entity,18,"[{'description': -0.0007968252, 'entity': -7.1371336, 'n': -13.390909, 'ab': -16.951303, 'location': -17.244188}]",description
+What is the name of the satellite that the Soviet Union sent into space in 1957 ?,entity,15,"[{'entity': -0.00048728072, 'description': -7.642524, 'n': -12.055906, 'location': -14.087028, 'ab': -14.097981}]",entity
+What city 's newspaper is called `` The Enquirer '' ?,location,32,"[{'entity': -0.2782643, 'location': -1.9555714, 'description': -2.4902089, 'ab': -3.9907122, 'n': -10.190427}]",entity
+Who invented the slinky ?,human being,29,"[{'human': -0.5856304, 'entity': -0.88281816, 'description': -3.5208108, 'n': -9.967901, 'location': -12.00861}]",human
+What are the animals that don 't have backbones called ?,entity,2,"[{'description': -0.18956028, 'entity': -1.7563481, 'n': -12.865251, 'location': -15.403427, 'ab': -15.774139}]",description
+What is the melting point of copper ?,numeric value,43,"[{'n': -1.4377073e-05, 'entity': -11.221463, 'description': -13.932501, 'ab': -16.12654, 'location': -18.428434}]",n
+Where is the volcano Olympus Mons located ?,location,35,"[{'location': -2.2958224e-05, 'entity': -10.789276, 'description': -13.589195, 'n': -13.699874, 'ab': -17.138563}]",location
+Who was the 23rd president of the United States ?,human being,29,"[{'entity': -0.70413196, 'human': -0.708847, 'n': -4.5648117, 'description': -5.878471, 'ab': -10.77349}]",entity
+What is the average body temperature ?,numeric value,47,"[{'n': -3.051303e-06, 'entity': -13.108927, 'description': -13.755252, 'ab': -16.941454, 'human': -18.461657}]",n
+What does a defibrillator do ?,description,25,"[{'description': -0.00010212031, 'entity': -9.2023115, 'n': -13.646319, 'ab': -17.202333, 'human': -17.294352}]",description
+What is the effect of acid rain ?,description,25,"[{'description': -5.5556293e-06, 'entity': -12.290219, 'n': -13.855856, 'location': -18.4091, 'ab': -19.067251}]",description
+What year did the United States abolish the draft ?,numeric value,39,"[{'n': -7.016862e-05, 'entity': -9.701898, 'description': -11.998315, 'ab': -12.795503, 'location': -16.503275}]",n
+How fast is the speed of light ?,numeric value,46,"[{'n': -0.0016745188, 'entity': -6.7030983, 'description': -7.7358127, 'ab': -11.6473255, 'location': -15.036014}]",n
+What province is Montreal in ?,location,36,"[{'location': -0.008465999, 'entity': -4.804776, 'description': -8.72244, 'ab': -9.676053, 'n': -11.170704}]",location
+What New York City structure is also known as the Twin Towers ?,location,35,"[{'entity': -0.08236348, 'description': -2.5450559, 'location': -7.447155, 'n': -12.206371, 'ab': -12.44595}]",entity
+What is fungus ?,description,24,"[{'description': -0.007619827, 'entity': -4.8809257, 'n': -13.899205, 'ab': -17.683964, 'location': -17.96491}]",description
+What is the most frequently spoken language in the Netherlands ?,entity,11,"[{'description': -0.25264996, 'entity': -1.5096385, 'n': -6.364863, 'location': -7.778025, 'human': -8.98266}]",description
+What is sodium chloride ?,description,24,"[{'description': -0.28621197, 'entity': -1.3908033, 'ab': -11.324823, 'n': -11.590601, 'human': -17.722475}]",description
+What are the spots on dominoes called ?,entity,21,"[{'description': -0.27630207, 'entity': -1.4214512, 'n': -10.130619, 'ab': -11.542399, 'human': -13.250887}]",description
+How many pounds in a ton ?,numeric value,38,"[{'n': -4.277735e-07, 'entity': -15.027069, 'description': -15.793288, 'ab': -16.62622, 'location': -20.27069}]",n
+What is influenza ?,description,24,"[{'description': -0.019674381, 'entity': -3.9383676, 'n': -13.4721575, 'ab': -14.2441225, 'human': -16.052938}]",description
+What is ozone depletion ?,description,24,"[{'description': -0.00035490093, 'entity': -7.948299, 'n': -13.311725, 'ab': -17.31213, 'human': -18.774555}]",description
+What year was the Mona Lisa painted ?,numeric value,39,"[{'n': -0.0053434223, 'entity': -5.468905, 'description': -6.8600264, 'ab': -9.795604, 'human': -11.932817}]",n
+What does `` Sitting Shiva '' mean ?,description,24,"[{'description': -0.10467311, 'entity': -2.5078027, 'ab': -4.0214825, 'n': -11.920269, 'location': -13.93855}]",description
+"What is the electrical output in Madrid , Spain ?",entity,13,"[{'n': -9.012677e-06, 'entity': -11.889748, 'location': -13.6970825, 'description': -13.858734, 'ab': -15.524376}]",n
+Which mountain range in North America stretches from Maine to Georgia ?,location,34,"[{'location': -0.18409942, 'entity': -2.4096625, 'description': -2.547579, 'n': -10.585344, 'ab': -12.251383}]",location
+What is plastic made of ?,entity,18,"[{'description': -0.006592423, 'entity': -5.0256276, 'n': -12.6751175, 'ab': -16.154053, 'location': -16.865532}]",description
+What is the population of Nigeria ?,numeric value,43,"[{'n': -0.00016662253, 'entity': -8.710059, 'description': -13.524993, 'location': -15.197394, 'ab': -15.817686}]",n
+What does your spleen do ?,description,25,"[{'description': -0.0010216809, 'entity': -6.8929887, 'n': -12.524153, 'human': -13.045652, 'location': -14.73406}]",description
+Where is the Grand Canyon ?,location,35,"[{'location': -2.28437e-05, 'entity': -10.899604, 'description': -12.890892, 'n': -13.170066, 'ab': -16.884499}]",location
+Who invented the telephone ?,human being,29,"[{'human': -0.17512348, 'entity': -1.8425657, 'description': -6.111898, 'n': -11.033407, 'location': -12.676931}]",human
+What year did the U.S. buy Alaska ?,numeric value,39,"[{'n': -7.684431e-05, 'entity': -9.555733, 'ab': -12.350624, 'description': -13.528397, 'location': -14.825935}]",n
+What is the name of the leader of Ireland ?,human being,29,"[{'human': -0.2925697, 'entity': -1.3730903, 'description': -8.146428, 'location': -10.47695, 'n': -11.163228}]",human
+What is phenylalanine ?,description,24,"[{'description': -0.37666866, 'entity': -1.1589181, 'ab': -10.753537, 'n': -11.550359, 'location': -15.809705}]",description
+How many gallons of water are there in a cubic foot ?,numeric value,38,"[{'n': -6.6619094e-07, 'entity': -14.482392, 'description': -16.006844, 'ab': -17.269539, 'location': -20.805817}]",n
+What are the two houses of the Legislative branch ?,entity,13,"[{'entity': -0.4865926, 'description': -0.9699605, 'ab': -5.166707, 'human': -8.389287, 'n': -8.399472}]",entity
+What is sonar ?,description,24,"[{'ab': -0.11186729, 'entity': -2.5808613, 'description': -3.5030339, 'n': -10.701016, 'location': -16.555883}]",ab
+"In Poland , where do most people live ?",location,35,"[{'location': -7.899194e-05, 'entity': -10.013414, 'description': -10.336473, 'n': -13.288911, 'ab': -15.847841}]",location
+What is phosphorus ?,description,24,"[{'description': -0.1839342, 'entity': -1.7837802, 'n': -11.870968, 'ab': -14.82481, 'location': -15.923389}]",description
+What is the location of the Sea of Tranquility ?,location,35,"[{'location': -1.022884e-06, 'n': -14.204834, 'entity': -15.200989, 'description': -15.851456, 'ab': -19.983772}]",location
+How fast is sound ?,numeric value,46,"[{'n': -0.08530696, 'description': -2.5348766, 'entity': -6.0213037, 'ab': -9.5833845, 'location': -13.055285}]",n
+What French province is cognac produced in ?,location,36,"[{'location': -0.0014925548, 'entity': -6.5561194, 'description': -9.669339, 'n': -12.560627, 'ab': -12.569545}]",location
+What is Valentine 's Day ?,description,24,"[{'description': -0.009538961, 'entity': -4.6588154, 'n': -11.211144, 'location': -13.752521, 'human': -13.944231}]",description
+What causes gray hair ?,description,27,"[{'description': -3.965026e-05, 'entity': -10.156983, 'n': -14.289025, 'human': -15.646646, 'location': -17.631556}]",description
+What is hypertension ?,description,24,"[{'description': -0.001996977, 'entity': -6.2191143, 'n': -12.650862, 'ab': -14.460965, 'human': -15.249646}]",description
+What is bandwidth ?,description,24,"[{'description': -0.19090925, 'entity': -1.8079898, 'ab': -4.68035, 'n': -7.53697, 'location': -15.194754}]",description
+What is the longest suspension bridge in the U.S. ?,location,35,"[{'entity': -0.5019281, 'location': -0.965841, 'description': -4.602415, 'n': -5.535856, 'ab': -12.360379}]",entity
+What is a parasite ?,description,24,"[{'description': -0.10291619, 'entity': -2.3248703, 'n': -13.474382, 'ab': -17.59398, 'location': -17.790638}]",description
+What is home equity ?,description,24,"[{'description': -0.0982547, 'entity': -2.376491, 'n': -7.2982817, 'ab': -10.463695, 'location': -14.497812}]",description
+What do meteorologists do ?,description,25,"[{'description': -3.559716e-05, 'entity': -10.304204, 'n': -13.385486, 'human': -14.718547, 'location': -16.395046}]",description
+What is the criterion for being legally blind ?,entity,13,"[{'description': -0.001221224, 'entity': -6.734024, 'n': -10.714226, 'human': -12.036514, 'ab': -12.833533}]",description
+Who is the tallest man in the world ?,human being,29,"[{'human': -0.2384285, 'entity': -1.6618141, 'description': -4.024737, 'n': -5.41514, 'location': -10.7475605}]",human
+What are the twin cities ?,location,32,"[{'location': -0.0022636794, 'entity': -6.2780814, 'description': -7.9112062, 'ab': -11.33804, 'n': -12.086965}]",location
+What did Edward Binney and Howard Smith invent in 1903 ?,entity,13,"[{'description': -0.44166008, 'entity': -1.0302908, 'n': -9.225855, 'human': -10.516878, 'location': -12.92557}]",description
+What is the statue of liberty made of ?,entity,18,"[{'description': -0.06541135, 'entity': -2.759709, 'location': -12.441166, 'n': -12.596677, 'ab': -15.658764}]",description
+What is pilates ?,description,24,"[{'description': -0.008319098, 'entity': -4.7937117, 'ab': -13.012317, 'n': -14.343111, 'human': -15.624453}]",description
+What planet is known as the `` red '' planet ?,location,35,"[{'description': -0.14731635, 'entity': -1.9885105, 'location': -9.836884, 'ab': -10.93631, 'n': -11.706345}]",description
+What is the depth of the Nile river ?,numeric value,40,"[{'n': -4.0246297e-05, 'entity': -10.462335, 'description': -11.419465, 'location': -14.289972, 'ab': -15.731874}]",n
+What is the colorful Korean traditional dress called ?,entity,21,"[{'description': -0.061214916, 'entity': -2.8238413, 'n': -13.747936, 'location': -15.559063, 'ab': -15.626004}]",description
+What is Mardi Gras ?,description,24,"[{'description': -0.005555997, 'entity': -5.196588, 'location': -12.62761, 'n': -13.3370905, 'ab': -14.922021}]",description
+Mexican pesos are worth what in U.S. dollars ?,numeric value,41,"[{'n': -4.3347598e-05, 'entity': -10.264737, 'description': -11.9842415, 'ab': -12.980953, 'location': -17.219402}]",n
+Who was the first African American to play for the Brooklyn Dodgers ?,human being,29,"[{'human': -0.53019077, 'entity': -0.9226926, 'description': -4.2678466, 'n': -10.539491, 'location': -10.777368}]",human
+Who was the first Prime Minister of Canada ?,human being,29,"[{'human': -0.60111654, 'entity': -0.80206716, 'description': -5.692524, 'n': -10.971531, 'location': -11.5105095}]",human
+How many Admirals are there in the U.S. Navy ?,numeric value,38,"[{'n': -1.7475562e-05, 'entity': -10.960222, 'description': -16.504465, 'ab': -16.75371, 'location': -18.650576}]",n
+What instrument did Glenn Miller play ?,entity,10,"[{'description': -0.14298818, 'entity': -2.0669076, 'human': -5.0305767, 'n': -9.116713, 'ab': -11.455587}]",description
+How old was Joan of Arc when she died ?,numeric value,44,"[{'n': -0.000107247215, 'entity': -9.35244, 'description': -10.963066, 'human': -12.775543, 'ab': -15.409959}]",n
+What does the word fortnight mean ?,description,24,"[{'description': -0.6160283, 'ab': -0.78227276, 'entity': -5.997338, 'n': -9.664047, 'location': -14.507278}]",description
+What is dianetics ?,description,24,"[{'entity': -0.1879598, 'description': -2.0710166, 'ab': -3.094904, 'n': -11.147599, 'location': -14.554117}]",entity
+What is the capital of Ethiopia ?,location,32,"[{'location': -0.0014498152, 'entity': -6.5618134, 'n': -11.0108185, 'description': -11.076286, 'ab': -12.5800085}]",location
+For how long is an elephant pregnant ?,numeric value,44,"[{'n': -0.00020131696, 'description': -9.108255, 'entity': -9.341525, 'ab': -13.515643, 'human': -13.618006}]",n
+How did Janice Joplin die ?,description,26,"[{'description': -0.022070566, 'entity': -3.8547728, 'human': -7.354368, 'n': -11.822714, 'location': -12.7246065}]",description
+What is the primary language in Iceland ?,entity,11,"[{'description': -0.113032594, 'entity': -2.2375596, 'location': -9.092097, 'n': -10.447291, 'human': -11.105548}]",description
+What is the difference between AM radio stations and FM radio stations ?,description,25,"[{'description': -9.0675334e-05, 'entity': -9.328391, 'n': -13.408857, 'ab': -15.3012, 'human': -16.980627}]",description
+What is osteoporosis ?,description,24,"[{'description': -0.0005966542, 'entity': -7.4278574, 'n': -13.144807, 'human': -16.71206, 'ab': -16.831459}]",description
+Who was the first woman governor in the U.S. ?,human being,29,"[{'entity': -0.066545635, 'human': -3.2987921, 'description': -3.5992832, 'location': -9.403269, 'n': -10.61091}]",entity
+What is peyote ?,description,24,"[{'entity': -0.6492966, 'description': -0.7390183, 'n': -12.554219, 'ab': -14.213201, 'location': -15.815473}]",entity
+What is the esophagus used for ?,description,27,"[{'description': -0.0005530567, 'entity': -7.502879, 'n': -13.791462, 'human': -15.411297, 'location': -15.954989}]",description
+What is viscosity ?,description,24,"[{'description': -0.0017898141, 'entity': -6.4031034, 'n': -8.940838, 'ab': -14.012997, 'human': -16.395023}]",description
+What year did Oklahoma become a state ?,numeric value,39,"[{'n': -8.018216e-05, 'entity': -9.507099, 'description': -12.566767, 'ab': -13.075512, 'location': -15.143077}]",n
+What is the abbreviation for Texas ?,abbreviation,0,"[{'ab': -4.277735e-07, 'n': -14.526893, 'entity': -17.445145, 'description': -19.269325, 'location': -19.31469}]",ab
+What is a mirror made out of ?,entity,18,"[{'description': -0.0009496076, 'entity': -6.9611697, 'n': -13.666874, 'location': -16.685793, 'ab': -17.55105}]",description
+Where on the body is a mortarboard worn ?,location,35,"[{'description': -0.5217696, 'location': -1.0353346, 'entity': -3.009265, 'human': -6.3186064, 'n': -8.252833}]",description
+What was J.F.K. 's wife 's name ?,human being,29,"[{'entity': -0.06244006, 'human': -2.9797678, 'description': -4.650674, 'ab': -8.716409, 'n': -12.291321}]",entity
+What does I.V. stand for ?,abbreviation,1,"[{'ab': -7.8540467e-07, 'n': -14.294312, 'entity': -15.225364, 'description': -17.663322, 'location': -21.996033}]",ab
+What is the chunnel ?,description,24,"[{'ab': -0.13245443, 'entity': -2.3534856, 'description': -3.542954, 'location': -9.582741, 'n': -10.669914}]",ab
+Where is Hitler buried ?,location,35,"[{'location': -0.0014863457, 'entity': -6.535734, 'description': -10.330229, 'n': -13.772039, 'ab': -13.972297}]",location
+What are antacids ?,description,24,"[{'description': -0.002418061, 'entity': -6.026542, 'n': -13.691404, 'ab': -16.73538, 'human': -17.321281}]",description
+What is pulmonary fibrosis ?,description,24,"[{'description': -0.00039544783, 'entity': -7.839148, 'n': -13.426466, 'ab': -17.128706, 'human': -18.587019}]",description
+What are Quaaludes ?,description,24,"[{'description': -0.496338, 'entity': -0.9438554, 'ab': -6.1585317, 'n': -12.414764, 'human': -16.111687}]",description
+What is naproxen ?,description,24,"[{'entity': -0.36668915, 'description': -1.1812797, 'ab': -9.446637, 'n': -11.510915, 'human': -15.409024}]",entity
+What is strep throat ?,description,24,"[{'description': -0.00092544575, 'entity': -6.9868183, 'n': -13.957582, 'ab': -16.118364, 'human': -16.36349}]",description
+What is the largest city in the U.S. ?,location,32,"[{'location': -0.0627694, 'entity': -2.808573, 'description': -7.9497933, 'n': -8.570238, 'ab': -12.55102}]",location
+What is foot and mouth disease ?,entity,7,"[{'description': -0.004857974, 'entity': -5.3300223, 'n': -13.180562, 'ab': -15.14015, 'human': -16.41418}]",description
+What is the life expectancy of a dollar bill ?,numeric value,43,"[{'n': -0.00095247134, 'entity': -7.4034634, 'description': -7.9938335, 'ab': -12.19905, 'human': -15.397421}]",n
+What do you call a professional map drawer ?,entity,21,"[{'description': -0.04764053, 'entity': -3.0682704, 'human': -11.134348, 'n': -12.394219, 'location': -13.165003}]",description
+What are Aborigines ?,description,24,"[{'entity': -0.30544016, 'description': -1.3348439, 'ab': -14.073171, 'n': -14.261754, 'human': -14.934239}]",entity
+What is hybridization ?,description,24,"[{'description': -0.0024149541, 'entity': -6.02792, 'n': -13.675297, 'ab': -14.7812, 'location': -18.236132}]",description
+What color is indigo ?,entity,4,"[{'description': -0.0001118973, 'entity': -9.109548, 'n': -13.665273, 'human': -16.130085, 'ab': -17.148968}]",description
+How old do you have to be in order to rent a car in Italy ?,numeric value,44,"[{'n': -7.279122e-05, 'entity': -9.935604, 'description': -10.725346, 'human': -13.657009, 'location': -13.854526}]",n
+What does a barometer measure ?,entity,13,"[{'description': -0.42283502, 'n': -1.1680437, 'entity': -3.3961241, 'ab': -8.339811, 'location': -9.460143}]",description
+What color is a giraffe 's tongue ?,entity,4,"[{'description': -0.00013240307, 'entity': -8.95637, 'n': -12.62388, 'human': -16.433802, 'location': -17.090548}]",description
+What does USPS stand for ?,abbreviation,1,"[{'ab': -1.7400124e-06, 'entity': -13.783631, 'n': -14.073373, 'description': -16.995768, 'location': -21.547419}]",ab
+What year did the NFL go on strike ?,numeric value,39,"[{'n': -0.00072602095, 'entity': -7.6263366, 'description': -8.530175, 'ab': -10.133683, 'human': -14.149612}]",n
+What is solar wind ?,description,24,"[{'description': -0.006236633, 'entity': -5.0809665, 'n': -12.874232, 'ab': -14.237956, 'location': -16.727869}]",description
+What date did Neil Armstrong land on the moon ?,numeric value,39,"[{'n': -0.0015421616, 'entity': -6.590989, 'description': -8.888162, 'ab': -10.555664, 'location': -12.561417}]",n
+When was Hiroshima bombed ?,numeric value,39,"[{'n': -0.3545667, 'entity': -1.2860547, 'description': -3.9285717, 'location': -6.1227856, 'human': -8.58618}]",n
+Where is the Savannah River ?,location,35,"[{'location': -3.4403198e-05, 'entity': -10.406109, 'description': -12.693447, 'n': -13.784664, 'ab': -16.789951}]",location
+Who was the first woman killed in the Vietnam War ?,human being,29,"[{'human': -0.39854798, 'entity': -1.2157706, 'description': -3.4405477, 'location': -9.268931, 'n': -9.403781}]",human
+What planet has the strongest magnetic field of all the planets ?,location,35,"[{'entity': -0.07692746, 'description': -2.834679, 'location': -4.4648213, 'n': -5.588028, 'ab': -9.986908}]",entity
+Who is the governor of Alaska ?,human being,29,"[{'entity': -0.64768696, 'human': -0.7459306, 'location': -6.5358624, 'description': -6.967083, 'n': -9.780904}]",entity
+What year did Mussolini seize power in Italy ?,numeric value,39,"[{'n': -0.00017163117, 'entity': -8.782077, 'description': -11.21599, 'ab': -12.299021, 'location': -15.565973}]",n
+What is the capital of Persia ?,location,32,"[{'location': -0.0020564622, 'entity': -6.202442, 'description': -11.04591, 'n': -11.624088, 'ab': -12.196727}]",location
+Where is the Eiffel Tower ?,location,35,"[{'location': -0.0001991712, 'entity': -8.548737, 'description': -12.464805, 'n': -13.495582, 'ab': -16.282524}]",location
+How many hearts does an octopus have ?,numeric value,38,"[{'n': -0.00012894507, 'entity': -9.0656805, 'description': -11.263884, 'ab': -14.858054, 'location': -15.833311}]",n
+What is pneumonia ?,description,24,"[{'description': -0.0007618708, 'entity': -7.1819215, 'n': -13.562452, 'ab': -16.852972, 'human': -17.497908}]",description
+What is the deepest lake in the US ?,location,35,"[{'location': -0.08419588, 'entity': -2.587629, 'n': -5.284567, 'description': -7.6412024, 'ab': -13.675626}]",location
+What is a fuel cell ?,description,24,"[{'description': -0.031243626, 'entity': -3.481622, 'n': -12.822267, 'ab': -14.858285, 'location': -16.818115}]",description
+Who was the first U.S. president to appear on TV ?,human being,29,"[{'entity': -0.555255, 'human': -0.8884611, 'description': -4.344844, 'ab': -6.3515577, 'n': -9.851634}]",entity
+Where is the Little League Museum ?,location,35,"[{'location': -4.8353428e-05, 'entity': -10.054178, 'description': -12.262391, 'n': -14.410485, 'ab': -16.07429}]",location
+What are the two types of twins ?,entity,13,"[{'description': -0.004342289, 'entity': -5.4445124, 'human': -11.446236, 'n': -13.128526, 'location': -15.93354}]",description
+What is the brightest star ?,location,35,"[{'entity': -0.6343954, 'description': -0.75586313, 'n': -9.0964155, 'location': -10.6982155, 'human': -12.375086}]",entity
+What is diabetes ?,description,24,"[{'description': -0.0022105114, 'entity': -6.118696, 'n': -11.988577, 'ab': -14.901442, 'human': -15.088736}]",description
+When was President Kennedy shot ?,numeric value,39,"[{'entity': -0.5017246, 'human': -1.5886005, 'description': -2.3432543, 'n': -2.477486, 'location': -4.604439}]",entity
+What is TMJ ?,abbreviation,1,"[{'ab': -1.7236207e-05, 'entity': -11.103633, 'n': -13.209452, 'description': -14.55021, 'location': -19.956606}]",ab
+What color is yak milk ?,entity,4,"[{'description': -0.00023977255, 'entity': -8.348712, 'n': -12.713794, 'human': -16.558926, 'ab': -17.198862}]",description
+What date was Dwight D. Eisenhower born ?,numeric value,39,"[{'n': -0.5167565, 'entity': -1.2022423, 'human': -2.3008978, 'description': -6.0149407, 'location': -7.970995}]",n
+What does the technical term ISDN mean ?,abbreviation,1,"[{'ab': -0.00015493727, 'entity': -8.901117, 'description': -11.137865, 'n': -12.395678, 'human': -20.28097}]",ab
+Why is the sun yellow ?,description,27,"[{'description': -1.6521892e-05, 'entity': -11.100068, 'n': -13.573312, 'human': -16.507431, 'location': -17.38878}]",description
+What is the conversion rate between dollars and pounds ?,numeric value,41,"[{'n': -4.1200903e-05, 'entity': -10.212054, 'description': -12.550044, 'ab': -13.815653, 'human': -18.524843}]",n
+When was Abraham Lincoln born ?,numeric value,39,"[{'n': -0.0044296333, 'entity': -5.4676785, 'description': -9.006467, 'location': -10.26238, 'human': -10.458287}]",n
+What is the Milky Way ?,description,24,"[{'description': -0.2845426, 'entity': -1.3958097, 'location': -12.2283745, 'n': -12.336918, 'ab': -16.15578}]",description
+What is mold ?,description,24,"[{'description': -0.001083796, 'entity': -6.828743, 'n': -13.712134, 'ab': -17.636618, 'human': -19.109884}]",description
+What year was Mozart born ?,numeric value,39,"[{'n': -0.001097997, 'entity': -6.870299, 'description': -9.909499, 'ab': -11.960463, 'location': -13.02529}]",n
+What is a group of frogs called ?,entity,2,"[{'entity': -0.30796093, 'description': -1.3278812, 'n': -11.124213, 'ab': -13.208625, 'location': -14.233368}]",entity
+What is the name of William Penn 's ship ?,entity,22,"[{'entity': -0.008327214, 'description': -4.7940555, 'human': -12.022983, 'n': -12.330836, 'location': -12.853633}]",entity
+What is the melting point of gold ?,numeric value,43,"[{'n': -2.4866502e-05, 'entity': -10.651505, 'description': -13.737298, 'ab': -15.893708, 'location': -18.107964}]",n
+What is the street address of the White House ?,location,35,"[{'location': -6.396884e-05, 'n': -10.345752, 'entity': -10.5818205, 'description': -11.9839735, 'ab': -15.521777}]",location
+What is semolina ?,description,24,"[{'description': -0.0052571353, 'entity': -5.251595, 'n': -12.434516, 'ab': -16.05088, 'location': -18.397629}]",description
+What fruit is Melba sauce made from ?,entity,9,"[{'description': -0.36801428, 'entity': -1.1780499, 'n': -11.294864, 'location': -13.631525, 'human': -14.759951}]",description
+What is Ursa Major ?,description,24,"[{'description': -0.13862717, 'entity': -2.0445032, 'n': -13.37561, 'location': -13.578538, 'ab': -15.39682}]",description
+What is the percentage of water content in the human body ?,numeric value,45,"[{'n': -4.1232483e-06, 'entity': -12.770351, 'description': -13.59988, 'ab': -16.040668, 'human': -18.185505}]",n
+How much does water weigh ?,numeric value,49,"[{'n': -2.319758e-05, 'entity': -11.267082, 'description': -11.498824, 'ab': -14.861954, 'location': -18.476227}]",n
+What was President Lyndon Johnson 's reform program called ?,entity,8,"[{'entity': -0.66606665, 'description': -0.7234244, 'ab': -6.760541, 'n': -10.715909, 'human': -12.130437}]",entity
+"What is the murder rate in Windsor , Ontario ?",numeric value,45,"[{'n': -4.144026e-05, 'entity': -10.146007, 'description': -13.47475, 'location': -14.446712, 'ab': -14.997897}]",n
+Who is the only president to serve 2 non-consecutive terms ?,human being,29,"[{'human': -0.09865018, 'entity': -2.4487555, 'description': -4.919382, 'n': -8.759142, 'ab': -9.5595875}]",human
+What is the population of Australia ?,numeric value,43,"[{'n': -0.00010963327, 'entity': -9.133135, 'description': -13.697512, 'location': -14.8659, 'ab': -15.9944105}]",n
+Who painted the ceiling of the Sistine Chapel ?,human being,29,"[{'entity': -0.08342036, 'description': -2.938149, 'human': -3.6097722, 'n': -11.798279, 'location': -11.976219}]",entity
+Name a stimulant .,entity,7,"[{'entity': -0.12191745, 'description': -2.1652524, 'human': -10.468543, 'n': -10.772582, 'ab': -11.733648}]",entity
+What is the effect of volcanoes on the climate ?,description,25,"[{'description': -0.0002085915, 'entity': -8.4956455, 'n': -12.416018, 'location': -15.927812, 'ab': -17.479853}]",description
+What year did the Andy Griffith show begin ?,numeric value,39,"[{'n': -0.00021097568, 'entity': -8.70905, 'description': -10.225446, 'ab': -11.598202, 'location': -14.932446}]",n
+What is acid rain ?,description,24,"[{'description': -0.0001668619, 'entity': -8.705031, 'n': -13.818366, 'location': -17.545927, 'ab': -17.81745}]",description
+What is the date of Mexico 's independence ?,numeric value,39,"[{'n': -0.0027665799, 'entity': -5.984601, 'description': -8.403249, 'ab': -10.961056, 'location': -12.56326}]",n
+What is the location of Lake Champlain ?,location,35,"[{'location': -9.055464e-07, 'n': -13.965362, 'entity': -16.852463, 'description': -16.994156, 'ab': -20.819725}]",location
+What is the Illinois state flower ?,entity,14,"[{'entity': -0.4243972, 'description': -1.0621307, 'location': -9.123135, 'n': -11.806187, 'ab': -13.892024}]",entity
+What is Maryland 's state bird ?,entity,2,"[{'entity': -0.15199366, 'description': -1.9592751, 'location': -10.122841, 'n': -12.72821, 'ab': -12.882774}]",entity
+What is quicksilver ?,description,24,"[{'entity': -0.06442769, 'description': -2.7778063, 'ab': -8.424695, 'n': -13.215535, 'human': -16.068335}]",entity
+Who wrote `` The Divine Comedy '' ?,human being,29,"[{'human': -0.65932304, 'entity': -0.7319625, 'description': -6.311308, 'n': -11.052412, 'location': -13.365018}]",human
+What is the speed of light ?,numeric value,46,"[{'n': -0.0006877887, 'entity': -7.4588785, 'description': -9.127709, 'ab': -12.867692, 'location': -16.55732}]",n
+What is the width of a football field ?,numeric value,40,"[{'n': -3.023464e-05, 'description': -10.849463, 'entity': -11.442367, 'ab': -15.792006, 'location': -17.455885}]",n
+Why in tennis are zero points called love ?,description,27,"[{'description': -0.00042413018, 'entity': -7.9495053, 'n': -9.73769, 'ab': -11.818348, 'human': -12.291317}]",description
+What kind of dog was Toto in the Wizard of Oz ?,entity,2,"[{'description': -0.040648013, 'entity': -3.2231965, 'n': -12.554791, 'human': -13.289915, 'location': -15.109831}]",description
+What is a thyroid ?,description,24,"[{'description': -0.06329332, 'entity': -2.7915416, 'n': -12.273574, 'ab': -14.876174, 'human': -15.003425}]",description
+What does ciao mean ?,description,24,"[{'ab': -0.015489741, 'entity': -4.52263, 'description': -5.407259, 'n': -10.5771885, 'location': -15.093469}]",ab
+What is the only artery that carries blue blood from the heart to the lungs ?,entity,3,"[{'description': -0.05184275, 'entity': -2.9890983, 'n': -8.813058, 'human': -10.850853, 'location': -10.87558}]",description
+How often does Old Faithful erupt at Yellowstone National Park ?,numeric value,43,"[{'n': -0.0011792108, 'description': -7.329845, 'entity': -7.6158786, 'location': -10.490528, 'ab': -12.960437}]",n
+What is acetic acid ?,description,24,"[{'description': -0.102876484, 'entity': -2.325258, 'n': -12.878411, 'ab': -14.032472, 'location': -17.510086}]",description
+"What is the elevation of St. Louis , MO ?",numeric value,40,"[{'n': -2.9280032e-05, 'location': -10.966681, 'entity': -11.5445, 'description': -13.030439, 'ab': -15.59741}]",n
+What color does litmus paper turn when it comes into contact with a strong acid ?,entity,4,"[{'description': -9.251094e-06, 'entity': -11.761873, 'n': -13.413491, 'ab': -18.745981, 'location': -18.98285}]",description
+What are the colors of the German flag ?,entity,4,"[{'description': -0.00025407854, 'entity': -8.280588, 'n': -14.211794, 'location': -16.45418, 'ab': -17.545298}]",description
+What is the Moulin Rouge ?,description,24,"[{'description': -0.25447297, 'entity': -1.493151, 'location': -11.747949, 'n': -12.657472, 'ab': -15.133341}]",description
+What soviet seaport is on the Black Sea ?,location,35,"[{'location': -0.0012955237, 'entity': -6.6584682, 'description': -11.994198, 'n': -12.44621, 'ab': -13.404859}]",location
+What is the atomic weight of silver ?,numeric value,49,"[{'n': -2.8565719e-05, 'entity': -10.492704, 'description': -14.2177105, 'ab': -15.3960705, 'human': -19.030338}]",n
+What currency do they use in Brazil ?,entity,6,"[{'entity': -0.3350548, 'ab': -1.3368629, 'n': -4.3863087, 'description': -4.6616845, 'location': -8.970346}]",entity
+What are pathogens ?,description,24,"[{'description': -0.036193095, 'entity': -3.336974, 'n': -13.428885, 'ab': -16.32174, 'location': -17.115194}]",description
+What is mad cow disease ?,description,24,"[{'description': -0.009407665, 'entity': -4.6710973, 'n': -13.49195, 'ab': -15.38517, 'human': -16.437874}]",description
+Name a food high in zinc .,entity,9,"[{'entity': -0.41135043, 'description': -1.0889934, 'n': -7.3093753, 'human': -11.178264, 'location': -12.109585}]",entity
+When did North Carolina enter the union ?,numeric value,39,"[{'n': -0.6851037, 'entity': -0.7751688, 'location': -4.009368, 'description': -4.6118917, 'ab': -5.053359}]",n
+Where do apple snails live ?,location,35,"[{'location': -0.00014206085, 'description': -9.539144, 'entity': -9.578754, 'n': -14.008656, 'ab': -16.341991}]",location
+What are ethics ?,description,24,"[{'description': -0.00010796247, 'entity': -9.139672, 'n': -14.35785, 'ab': -16.374657, 'human': -16.796974}]",description
+What does CPR stand for ?,abbreviation,1,"[{'ab': -1.9765537e-06, 'n': -13.57895, 'entity': -14.365418, 'description': -16.327097, 'location': -21.54393}]",ab
+What is an annuity ?,description,24,"[{'description': -0.010112541, 'entity': -4.6007876, 'n': -11.043468, 'ab': -13.443797, 'human': -15.52586}]",description
+Who killed John F. Kennedy ?,human being,29,"[{'entity': -0.20713644, 'human': -1.788786, 'description': -3.9179366, 'location': -10.519552, 'n': -11.100339}]",entity
+Who was the first vice president of the U.S. ?,human being,29,"[{'entity': -0.047730364, 'human': -3.1367803, 'description': -5.7774057, 'ab': -9.720445, 'n': -10.753358}]",entity
+What birthstone is turquoise ?,entity,18,"[{'description': -0.6757979, 'entity': -0.75512064, 'n': -3.8651211, 'ab': -8.180879, 'human': -10.044175}]",description
+Who was the first US President to ride in an automobile to his inauguration ?,human being,29,"[{'human': -0.58715916, 'entity': -1.0924311, 'description': -2.22046, 'n': -9.372246, 'location': -10.039406}]",human
+How old was the youngest president of the United States ?,numeric value,44,"[{'n': -2.200643e-05, 'entity': -11.160391, 'description': -12.138426, 'human': -12.948835, 'ab': -16.371191}]",n
+When was Ulysses S. Grant born ?,numeric value,39,"[{'n': -0.56845224, 'entity': -0.86508316, 'human': -5.009584, 'description': -5.2613616, 'location': -7.317239}]",n
+What is Muscular Dystrophy ?,description,24,"[{'description': -0.0007492835, 'entity': -7.1986322, 'n': -13.516617, 'ab': -16.51052, 'human': -16.733032}]",description
+Who lived in the Neuschwanstein castle ?,human being,29,"[{'entity': -0.46976158, 'human': -1.6217543, 'location': -2.2842681, 'description': -2.5874298, 'n': -8.362072}]",entity
+What is propylene glycol ?,description,24,"[{'description': -0.20881258, 'entity': -1.6689413, 'n': -12.119578, 'ab': -14.081936, 'location': -17.99772}]",description
+What is a panic disorder ?,description,24,"[{'description': -0.0005473328, 'entity': -7.5132504, 'n': -13.671178, 'human': -15.969206, 'ab': -16.259733}]",description
+Who invented the instant Polaroid camera ?,human being,29,"[{'human': -0.3102954, 'entity': -1.3386692, 'description': -5.39904, 'n': -10.018234, 'location': -11.711608}]",human
+What is a carcinogen ?,description,24,"[{'description': -0.020032186, 'entity': -3.9204836, 'n': -13.56812, 'ab': -16.470226, 'location': -17.067495}]",description
+What is a baby lion called ?,entity,2,"[{'description': -0.21178542, 'entity': -1.6562663, 'n': -11.636337, 'human': -12.983025, 'ab': -14.984307}]",description
+What is the world 's population ?,numeric value,43,"[{'n': -0.00014587646, 'entity': -8.845704, 'description': -13.326416, 'ab': -15.443695, 'human': -16.535805}]",n
+What is nepotism ?,description,24,"[{'description': -0.0021807638, 'entity': -6.130416, 'n': -12.976316, 'ab': -14.926107, 'human': -16.803282}]",description
+What is die-casting ?,description,24,"[{'description': -0.008826854, 'entity': -4.734695, 'ab': -13.251715, 'n': -13.631689, 'location': -17.915777}]",description
+What is myopia ?,description,24,"[{'description': -0.008901237, 'entity': -4.7274985, 'ab': -11.570027, 'n': -12.523312, 'human': -15.853756}]",description
+What is the sales tax rate in New York ?,numeric value,43,"[{'n': -1.9028084e-05, 'entity': -10.973346, 'description': -13.957844, 'location': -14.1230955, 'ab': -14.887806}]",n
+Developing nations comprise what percentage of the world 's population ?,numeric value,45,"[{'n': -4.277735e-07, 'entity': -15.002586, 'description': -15.850304, 'ab': -17.043442, 'location': -19.638535}]",n
+What is the fourth highest mountain in the world ?,location,34,"[{'n': -0.20827532, 'entity': -1.7038349, 'description': -5.423798, 'location': -6.439392, 'human': -10.958038}]",n
+What is Shakespeare 's nickname ?,human being,29,"[{'description': -0.213324, 'entity': -1.6535553, 'human': -7.8331895, 'ab': -8.0209255, 'n': -11.487181}]",description
+What is the heaviest naturally occurring element ?,entity,18,"[{'n': -0.082353376, 'entity': -2.8046663, 'description': -3.994516, 'ab': -9.190431, 'human': -12.087213}]",n
+When is Father 's Day ?,numeric value,39,"[{'n': -0.39053157, 'description': -1.2414151, 'entity': -3.4366665, 'ab': -6.5285163, 'human': -7.5874}]",n
+What does the acronym NASA stand for ?,abbreviation,1,"[{'ab': -1.1159372e-05, 'entity': -11.584964, 'n': -13.328097, 'description': -15.2214775, 'location': -20.647022}]",ab
+How long is the Columbia River in miles ?,numeric value,40,"[{'n': -3.883893e-06, 'entity': -12.676548, 'description': -14.164707, 'ab': -16.035595, 'location': -16.97542}]",n
+What city 's newspaper is called `` The Star '' ?,location,32,"[{'location': -0.6800939, 'entity': -0.84572047, 'description': -2.8340852, 'ab': -5.2271295, 'n': -10.147104}]",location
+What is carbon dioxide ?,description,24,"[{'description': -0.06344821, 'entity': -2.7891407, 'n': -12.74206, 'ab': -14.965402, 'location': -18.033838}]",description
+Where is the Mason/Dixon line ?,location,35,"[{'location': -0.00032347863, 'entity': -8.42451, 'description': -9.261348, 'n': -11.832063, 'ab': -13.257479}]",location
+When was the Boston tea party ?,numeric value,39,"[{'n': -0.6534461, 'description': -1.3206444, 'entity': -1.6062126, 'location': -4.5261955, 'human': -6.969837}]",n
+What is metabolism ?,description,24,"[{'description': -0.00684619, 'entity': -4.9879174, 'n': -12.843378, 'ab': -15.100809, 'human': -17.225122}]",description
+Which U.S.A. president appeared on `` Laugh-In '' ?,human being,29,"[{'human': -0.37694103, 'entity': -1.2698854, 'description': -3.4141953, 'ab': -8.722316, 'n': -9.521037}]",human
+What are cigarettes made of ?,entity,18,"[{'description': -0.0009550958, 'entity': -6.9559493, 'n': -13.377465, 'location': -16.70769, 'ab': -17.105782}]",description
+What is the capital of Zimbabwe ?,location,32,"[{'location': -0.0026877464, 'entity': -5.9545918, 'description': -10.021509, 'n': -10.149263, 'ab': -11.921159}]",location
+What does NASA stand for ?,abbreviation,1,"[{'ab': -7.3446927e-06, 'entity': -12.101806, 'n': -13.284002, 'description': -15.805228, 'location': -21.00031}]",ab
+What is the state flower of Michigan ?,entity,14,"[{'entity': -0.09600685, 'description': -2.4018846, 'location': -6.923025, 'n': -11.715452, 'ab': -13.135092}]",entity
+What are semiconductors ?,description,24,"[{'description': -0.020838376, 'entity': -3.8814185, 'n': -13.704118, 'ab': -16.74647, 'location': -18.013735}]",description
+What is nuclear power ?,description,24,"[{'description': -0.005192605, 'entity': -5.2635236, 'n': -13.142132, 'ab': -16.661068, 'location': -17.153255}]",description
+What is a tsunami ?,description,24,"[{'description': -0.0012308902, 'entity': -6.702563, 'n': -13.010813, 'location': -16.244257, 'ab': -17.80124}]",description
+Who is the congressman from state of Texas on the armed forces committee ?,human being,29,"[{'entity': -0.71473473, 'human': -0.82324004, 'location': -2.7299097, 'description': -5.0685096, 'n': -8.851392}]",entity
+Who was president in 1913 ?,human being,29,"[{'human': -0.0575589, 'entity': -2.908282, 'description': -6.650301, 'n': -9.821222, 'ab': -11.635949}]",human
+When was the first kidney transplant ?,numeric value,39,"[{'n': -0.022250278, 'entity': -3.973895, 'description': -5.7753625, 'human': -9.422739, 'ab': -11.175142}]",n
+What are Canada 's two territories ?,location,35,"[{'entity': -0.5221001, 'location': -0.9669929, 'description': -3.666601, 'n': -7.0078177, 'ab': -10.839964}]",entity
+What was the name of the plane Lindbergh flew solo across the Atlantic ?,entity,22,"[{'entity': -0.031256292, 'description': -3.482756, 'human': -9.981962, 'n': -12.819082, 'location': -13.935117}]",entity
+What is genocide ?,description,24,"[{'description': -0.0015801301, 'entity': -6.452561, 'n': -12.953804, 'human': -16.328522, 'ab': -16.767517}]",description
+What continent is Argentina on ?,location,35,"[{'location': -0.114053935, 'entity': -2.235491, 'description': -7.1172967, 'n': -10.459131, 'ab': -11.428064}]",location
+What monastery was raided by Vikings in the late eighth century ?,entity,13,"[{'location': -0.10139135, 'entity': -2.7583127, 'description': -3.4113352, 'n': -10.653759, 'ab': -13.685986}]",location
+What is an earthquake ?,description,24,"[{'description': -0.009208648, 'entity': -4.6926575, 'n': -12.464774, 'location': -14.926658, 'human': -17.349129}]",description
+Where is the tallest roller coaster located ?,location,35,"[{'location': -2.7611111e-05, 'entity': -10.620015, 'description': -13.256503, 'n': -13.455371, 'ab': -17.454945}]",location
+What are enzymes ?,description,24,"[{'description': -0.011745644, 'entity': -4.450199, 'n': -14.3679, 'ab': -15.995257, 'human': -17.40507}]",description
+Who discovered oxygen ?,human being,29,"[{'entity': -0.49170175, 'human': -1.0706125, 'description': -3.0891595, 'location': -9.955423, 'n': -10.546008}]",entity
+What is bangers and mash ?,description,24,"[{'description': -0.00035108434, 'entity': -7.9570694, 'n': -14.030349, 'ab': -18.453308, 'location': -18.724546}]",description
+What is the name given to the Tiger at Louisiana State University ?,entity,2,"[{'entity': -0.03162964, 'description': -3.4996548, 'human': -7.018217, 'location': -11.068701, 'n': -11.379904}]",entity
+Where are the British crown jewels kept ?,location,35,"[{'location': -0.0003392808, 'entity': -8.139613, 'description': -9.9799, 'n': -13.761317, 'ab': -15.831774}]",location
+Who was the first person to reach the North Pole ?,human being,29,"[{'human': -0.0057216175, 'entity': -5.1763225, 'location': -10.139991, 'description': -11.296592, 'n': -12.318754}]",human
+What is an ulcer ?,description,24,"[{'description': -0.0032163328, 'entity': -5.741665, 'n': -13.362979, 'human': -15.699047, 'ab': -17.432339}]",description
+What is vertigo ?,description,24,"[{'description': -0.0015637131, 'entity': -6.4627757, 'n': -13.716109, 'ab': -14.212279, 'human': -15.355017}]",description
+What is the spirometer test ?,description,24,"[{'description': -0.00019320888, 'entity': -8.555788, 'n': -14.504413, 'ab': -15.2065525, 'human': -17.707827}]",description
+When is the official first day of summer ?,numeric value,39,"[{'n': -0.50628936, 'description': -0.9827907, 'entity': -3.849078, 'location': -6.6242704, 'ab': -8.103091}]",n
+What does the abbreviation SOS mean ?,abbreviation,1,"[{'ab': -4.277735e-07, 'n': -14.465354, 'description': -19.018166, 'entity': -20.38073, 'location': -22.408234}]",ab
+What is the smallest bird in Britain ?,entity,2,"[{'description': -0.24069315, 'entity': -1.5426494, 'n': -9.313652, 'location': -11.288101, 'human': -14.542786}]",description
+Who invented Trivial Pursuit ?,human being,29,"[{'human': -0.34892282, 'entity': -1.2324525, 'description': -5.83802, 'n': -9.821525, 'location': -12.156058}]",human
+What gasses are in the troposphere ?,entity,18,"[{'description': -0.005689966, 'entity': -5.172575, 'n': -12.5738735, 'location': -14.921399, 'ab': -16.309528}]",description
+Which country has the most water pollution ?,location,33,"[{'location': -0.019284923, 'entity': -3.9996543, 'description': -7.239545, 'n': -9.716458, 'ab': -15.196293}]",location
+What is the scientific name for elephant ?,entity,2,"[{'entity': -0.026623193, 'description': -3.6397212, 'n': -11.784747, 'ab': -13.024029, 'human': -13.292004}]",entity
+Who is the actress known for her role in the movie `` Gypsy '' ?,human being,29,"[{'human': -0.1432696, 'entity': -2.0340245, 'description': -5.927525, 'n': -12.16843, 'location': -13.778279}]",human
+What breed of hunting dog did the Beverly Hillbillies own ?,entity,2,"[{'description': -0.30380836, 'entity': -1.3394681, 'n': -12.004003, 'human': -12.503232, 'location': -13.237172}]",description
+What is the rainiest place on Earth ?,location,35,"[{'location': -0.009083291, 'description': -4.794453, 'entity': -7.256222, 'n': -9.717946, 'ab': -14.181553}]",location
+Who was the first African American to win the Nobel Prize in literature ?,human being,29,"[{'human': -0.24203031, 'entity': -1.5977736, 'description': -4.373912, 'n': -11.44256, 'location': -11.929369}]",human
+When is St. Patrick 's Day ?,numeric value,39,"[{'entity': -0.71068203, 'description': -0.9644585, 'ab': -2.105114, 'location': -5.7382007, 'n': -6.034237}]",entity
+What was FDR 's dog 's name ?,entity,2,"[{'entity': -0.27422038, 'description': -1.4314622, 'human': -7.0965314, 'n': -10.168423, 'ab': -11.792546}]",entity
+What colors need to be mixed to get the color pink ?,entity,4,"[{'description': -3.9172486e-05, 'entity': -10.197404, 'n': -13.17205, 'human': -17.147362, 'location': -17.565247}]",description
+What is the most popular sport in Japan ?,entity,17,"[{'description': -0.23680538, 'entity': -1.5576748, 'n': -9.113087, 'location': -9.325802, 'human': -10.44286}]",description
+What is the active ingredient in baking soda ?,entity,9,"[{'entity': -0.60110176, 'description': -0.7947892, 'n': -9.223683, 'ab': -10.995678, 'human': -14.136531}]",entity
+When was Thomas Jefferson born ?,numeric value,39,"[{'n': -0.0019413161, 'entity': -6.312594, 'description': -9.499171, 'human': -10.497699, 'location': -10.898341}]",n
+How cold should a refrigerator be ?,numeric value,47,"[{'n': -0.015339323, 'description': -4.21574, 'entity': -7.708408, 'ab': -11.86404, 'location': -12.715282}]",n
+When was the telephone invented ?,numeric value,39,"[{'entity': -0.7771427, 'description': -0.98035926, 'n': -1.818166, 'human': -5.9621477, 'ab': -9.0158205}]",entity
+What is the most common eye color ?,entity,4,"[{'description': -0.012193056, 'entity': -4.4967585, 'n': -7.21058, 'human': -8.361199, 'location': -13.521852}]",description
+Where was the first golf course in the United States ?,location,35,"[{'location': -3.7983213e-05, 'entity': -10.373343, 'description': -12.249717, 'n': -13.152541, 'ab': -17.783516}]",location
+What is schizophrenia ?,description,24,"[{'description': -0.0058005694, 'entity': -5.1531396, 'n': -13.198731, 'human': -14.814936, 'ab': -15.16739}]",description
+What is angiotensin ?,description,24,"[{'description': -0.62122256, 'entity': -0.90871346, 'ab': -2.8195484, 'n': -10.206542, 'human': -14.667411}]",description
+What did Jesse Jackson organize ?,human being,28,"[{'description': -0.04859928, 'entity': -3.0502853, 'human': -9.371201, 'location': -12.231657, 'n': -13.429435}]",description
+What is New York 's state bird ?,entity,2,"[{'entity': -0.18672153, 'description': -1.7708204, 'location': -8.978629, 'n': -12.544302, 'ab': -13.020514}]",entity
+What is the National Park in Utah ?,location,35,"[{'location': -0.0016222782, 'entity': -6.4466677, 'description': -10.429044, 'n': -12.161992, 'ab': -14.711804}]",location
+What is Susan B. Anthony 's birthday ?,numeric value,39,"[{'n': -0.049316388, 'entity': -3.28656, 'human': -5.090576, 'description': -5.412636, 'ab': -9.445304}]",n
+In which state would you find the Catskill Mountains ?,location,36,"[{'location': -6.6294406e-06, 'entity': -12.197447, 'description': -13.791663, 'n': -14.285856, 'ab': -16.674294}]",location
+What do you call a word that is spelled the same backwards and forwards ?,entity,21,"[{'entity': -0.007514187, 'description': -4.909095, 'ab': -9.411811, 'n': -10.641364, 'human': -14.177015}]",entity
+What are pediatricians ?,description,24,"[{'description': -0.3735177, 'entity': -1.2784402, 'human': -3.4047675, 'n': -12.289945, 'ab': -14.603391}]",description
+"What chain store is headquartered in Bentonville , Arkansas ?",human being,28,"[{'location': -0.4311959, 'entity': -1.0499016, 'description': -8.201978, 'ab': -11.3846245, 'n': -11.483448}]",location
+What are solar cells ?,description,24,"[{'description': -0.005737623, 'entity': -5.163742, 'n': -13.874778, 'ab': -18.218794, 'location': -19.340858}]",description
+What is compounded interest ?,description,24,"[{'description': -0.02270412, 'n': -4.1580186, 'entity': -4.991652, 'ab': -11.196609, 'human': -13.358985}]",description
+What are capers ?,description,24,"[{'description': -0.023537597, 'entity': -3.7609565, 'n': -13.762276, 'ab': -15.990013, 'location': -16.262222}]",description
+What is an antigen ?,description,24,"[{'entity': -0.28583795, 'description': -1.391856, 'n': -13.158358, 'ab': -15.470278, 'human': -16.523432}]",entity
+What currency does Luxembourg use ?,entity,6,"[{'entity': -0.3142689, 'ab': -1.3362263, 'n': -5.6278367, 'description': -5.737547, 'location': -11.114225}]",entity
+What is the population of Venezuela ?,numeric value,43,"[{'n': -0.00010057153, 'entity': -9.21695, 'description': -13.945832, 'location': -15.154588, 'ab': -15.814462}]",n
+What type of polymer is used for bulletproof vests ?,entity,13,"[{'description': -0.12076874, 'entity': -2.1737013, 'n': -12.453936, 'ab': -13.544987, 'location': -15.708894}]",description
+What currency does Argentina use ?,entity,6,"[{'entity': -0.29460654, 'ab': -1.5080998, 'n': -3.5903442, 'description': -5.0789924, 'location': -10.964635}]",entity
+What is a thermometer ?,description,24,"[{'description': -0.0060497583, 'entity': -5.1117244, 'n': -12.086479, 'human': -16.38407, 'location': -16.968733}]",description
+What Canadian city has the largest population ?,location,32,"[{'n': -0.29226077, 'entity': -2.0272918, 'location': -2.1153502, 'description': -6.8559885, 'human': -9.542703}]",n
+What color are crickets ?,entity,4,"[{'description': -4.6325007e-05, 'entity': -9.99836, 'n': -13.835907, 'human': -17.92762, 'location': -18.166061}]",description
+Which country gave New York the Statue of Liberty ?,location,33,"[{'location': -0.042884197, 'entity': -3.1773748, 'description': -8.272658, 'n': -11.110548, 'ab': -11.321113}]",location
+What was the name of the first U.S. satellite sent into space ?,entity,15,"[{'entity': -0.0016070532, 'description': -6.679639, 'ab': -7.9818926, 'n': -12.019321, 'location': -13.581501}]",entity
+What precious stone is a form of pure carbon ?,entity,18,"[{'description': -0.6457685, 'entity': -0.74294406, 'n': -10.459985, 'ab': -15.047601, 'location': -15.110932}]",description
+What kind of gas is in a fluorescent bulb ?,entity,18,"[{'description': -0.038994353, 'entity': -3.264214, 'n': -11.186203, 'ab': -12.7866745, 'human': -14.963683}]",description
+What is rheumatoid arthritis ?,description,24,"[{'description': -0.0021256895, 'entity': -6.155522, 'n': -13.300532, 'human': -16.338657, 'ab': -16.355}]",description
+"What river runs through Rowe , Italy ?",location,35,"[{'location': -0.026643943, 'entity': -3.8084047, 'description': -5.516054, 'n': -9.380877, 'ab': -12.929734}]",location
+What is cerebral palsy ?,description,24,"[{'description': -0.0004746981, 'entity': -7.655992, 'n': -13.694612, 'ab': -16.01272, 'human': -16.12018}]",description
+What city is also known as `` The Gateway to the West '' ?,location,32,"[{'location': -0.0007134374, 'description': -7.517139, 'entity': -8.738491, 'ab': -11.6617155, 'n': -14.319552}]",location
+How far away is the moon ?,numeric value,40,"[{'n': -0.009823268, 'entity': -5.2826886, 'location': -5.509991, 'description': -7.3631177, 'ab': -11.06139}]",n
+What is the source of natural gas ?,entity,13,"[{'entity': -0.33751506, 'description': -1.2505629, 'location': -9.268942, 'n': -10.830892, 'ab': -13.684317}]",entity
+In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?,entity,22,"[{'entity': -0.010833823, 'description': -4.6584625, 'human': -6.729889, 'n': -9.961563, 'location': -10.03376}]",entity
+What is pectin ?,description,24,"[{'description': -0.3377688, 'entity': -1.2496189, 'ab': -11.011795, 'n': -11.594543, 'location': -16.851784}]",description
+What is bio-diversity ?,description,24,"[{'description': -0.012665659, 'entity': -4.3754506, 'n': -12.794984, 'ab': -14.579773, 'location': -16.06887}]",description
+What 's the easiest way to remove wallpaper ?,entity,20,"[{'description': -1.306671e-05, 'entity': -11.274838, 'n': -14.622341, 'location': -17.601582, 'human': -17.805569}]",description
+What year did the Titanic start on its journey ?,numeric value,39,"[{'n': -0.00011499579, 'entity': -9.235306, 'description': -11.053796, 'ab': -13.397233, 'location': -15.725151}]",n
+How much of an apple is water ?,numeric value,38,"[{'n': -3.023464e-05, 'description': -10.973136, 'entity': -11.246275, 'ab': -16.048277, 'location': -18.853514}]",n
+Who was the 22nd President of the US ?,human being,29,"[{'human': -0.6762568, 'entity': -0.7390162, 'n': -4.462725, 'description': -6.0649667, 'ab': -10.329332}]",human
+What is the money they use in Zambia ?,entity,6,"[{'entity': -0.029887836, 'ab': -4.121219, 'n': -4.970493, 'description': -5.073833, 'location': -10.704448}]",entity
+How many feet in a mile ?,numeric value,38,"[{'n': -9.055464e-07, 'entity': -14.231285, 'description': -15.583533, 'ab': -15.884804, 'location': -19.08934}]",n
+What is the birthstone of October ?,entity,18,"[{'entity': -0.18416175, 'description': -1.9253955, 'n': -3.8090165, 'human': -9.2433195, 'ab': -9.472683}]",entity
+What is e-coli ?,description,24,"[{'entity': -0.20242448, 'description': -1.6969314, 'ab': -12.029084, 'n': -14.036103, 'location': -16.852951}]",entity
