@@ -1,0 +1,10 @@
+export PART=cirrus
+export NEPTUNE_API_TOKEN=eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiI5Y2YxNDhkNy00NDk3LTQxZWMtYjk4Ny1hOWZmMDczYTczYmIifQ==
+export NEPTUNE_PROJECT=cache/cache-llm
+export PROJECT_NAME_NEPTUNE=$NEPTUNE_PROJECT
+export DATA_PATH=/work/sc126/sc126/s2598967/cachellm/cache_llm/
+export API_TOKEN_NEPTUNE=$NEPTUNE_API_TOKEN
+export TRANSFORMERS_CACHE=/work/sc126/sc126/s2598967/.cache/huggingface
+export HF_HOME=$TRANSFORMERS_CACHE
+export HF_HOME=$TRANSFORMERS_CACHE
+export NEPTUNE_MODE='offline'

@@ -13,7 +13,7 @@
         " D"
     ],
     "training_data": {
-      "train": "train_soft.csv",
+      "train": "train_soft_label_asc.csv",
       "test": "test_soft.csv"
     },
     "prompt_in": "This is a multiple choice test. You are presented a fact and a question. Only answer one letter, producing no more output.\n",

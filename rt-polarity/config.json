@@ -9,7 +9,7 @@
     " negative"
   ],
   "training_data": {
-    "train": "train_soft.csv",
+    "train": "train_soft_label_asc.csv",
     "test": "test_soft.csv"
   },
   "prompt_in": "This is a sentiment classification task for movie reviews. Only answer either 'positive' or 'negative'.\nINPUT: ",

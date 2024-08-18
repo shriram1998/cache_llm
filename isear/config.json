@@ -19,7 +19,7 @@
         " shame"
     ],
     "training_data": {
-      "train": "train_soft.csv",
+      "train": "train_soft_label_asc.csv",
       "test": "test_soft.csv"
     },
     "prompt_in": "This is an emotion classification task. Only answer one letter corresponding with the emotion: \n INPUT: ",

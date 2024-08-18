@@ -9,7 +9,7 @@
         "False"
     ],
     "training_data": {
-      "train": "train_soft.csv",
+      "train": "train_soft_label_asc.csv",
       "test": "test_soft.csv"
     },
     "prompt_in": "",
